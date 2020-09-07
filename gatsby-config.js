@@ -11,7 +11,7 @@ module.exports = {
     subtitle:
       'Everyday life as a playground',
     copyright: 'thenewpark © All rights reserved.',
-    disqusShortname: '',
+    disqusShortname: 'thenewpark-playground',
     menu: [
       {
         label: 'Articles',
