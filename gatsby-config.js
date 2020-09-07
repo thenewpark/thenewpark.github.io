@@ -1,16 +1,16 @@
 const lost = require('lost')
 const pxtorem = require('postcss-pxtorem')
 
-const url = 'https://lumen.netlify.com'
+const url = 'https://thenewpark.github.io/playground/'
 
 module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by John Doe',
+    title: 'thenewpark playground',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-    copyright: '© All rights reserved.',
+      'Everyday life as a playground',
+    copyright: 'thenewpark © All rights reserved.',
     disqusShortname: '',
     menu: [
       {
@@ -27,13 +27,13 @@ module.exports = {
       },
     ],
     author: {
-      name: 'John Doe',
+      name: 'thenewpark',
       email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#',
+      // telegram: '#',
+      twitter: '#thenewpark',
+      // github: '#',
+      // rss: '#',
+      // vk: '#',
     },
   },
   plugins: [
@@ -124,7 +124,7 @@ module.exports = {
     'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-plugin-google-analytics',
-      options: { trackingId: 'UA-73379983-2' },
+      options: { trackingId: '' },
     },
     {
       resolve: 'gatsby-plugin-google-fonts',
