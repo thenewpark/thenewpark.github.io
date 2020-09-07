@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[thenewpark playground]]></title><description><![CDATA[Everyday life as a playground]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Mon, 07 Sep 2020 06:49:53 GMT</lastBuildDate><item><title><![CDATA[Upgraded to Gatsby v2]]></title><description><![CDATA[This starter has been forked and upgraded to Gatsby v2]]></description><link>https://thenewpark.github.io/playground//posts/upgraded-to-gatsby-v2/</link><guid isPermaLink="false">https://thenewpark.github.io/playground//posts/upgraded-to-gatsby-v2/</guid><pubDate>Thu, 18 Oct 2018 16:51:00 GMT</pubDate><content:encoded>&lt;p&gt;This is a Gatsby v2 compatible version of the
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[thenewpark playground]]></title><description><![CDATA[Everyday life as a playground]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 07 Sep 2020 07:27:55 GMT</lastBuildDate><item><title><![CDATA[Upgraded to Gatsby v2]]></title><description><![CDATA[This starter has been forked and upgraded to Gatsby v2]]></description><link>https://thenewpark.github.io/playground//posts/upgraded-to-gatsby-v2/</link><guid isPermaLink="false">https://thenewpark.github.io/playground//posts/upgraded-to-gatsby-v2/</guid><pubDate>Thu, 18 Oct 2018 16:51:00 GMT</pubDate><content:encoded>&lt;p&gt;This is a Gatsby v2 compatible version of the
 &lt;a href=&quot;https://github.com/alxshelepenok/gatsby-starter-lumen&quot;&gt;lumen&lt;/a&gt; starter, started
 by the folks at &lt;a href=&quot;https://www.gatsbycentral.com/&quot;&gt;Gatsby Central&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Here’s a little recommended reading for Gatsby v2.&lt;/p&gt;
@@ -26,7 +26,7 @@ by the folks at &lt;a href=&quot;https://www.gatsbycentral.com/&quot;&gt;Gatsby 
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/42-line-bible-6d93cbc4956a854d4c4369f0e281e7f3-00f86.jpg&quot;
+    href=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/4b190/42-line-bible.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -38,17 +38,17 @@ by the folks at &lt;a href=&quot;https://www.gatsbycentral.com/&quot;&gt;Gatsby 
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 68.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABvbVGo5jf/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAIBEhARMf/aAAgBAQABBQLhdiL42osM0f/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAABEUECEHH/2gAIAQEABj8CWqFJZKzhcP/EABsQAQACAwEBAAAAAAAAAAAAAAEAETFBUSFh/9oACAEBAAE/IWxVd4gBVvhEjFdWyikMcY8eJ8CgpP/aAAwDAQACAAMAAAAQKM//xAAWEQEBAQAAAAAAAAAAAAAAAAAAASH/2gAIAQMBAT8QrH//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxAn/8QAGhABAQADAQEAAAAAAAAAAAAAAREAIUFRMf/aAAgBAQABPxBRJVIvuRSQtfbjhE6LUnde3AkS1hAkddHuFEtpWk19z//Z&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 68.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAG9hSrMxf/EABoQAAICAwAAAAAAAAAAAAAAAAACARIQETH/2gAIAQEAAQUC4XYi2NqLZo//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAARFBAhBx/9oACAEBAAY/AlqhSWSsoXD/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhQTFRYZH/2gAIAQEAAT8hbFV3ACrcETOK6tmKVsdRp+YPKwn/2gAMAwEAAgADAAAAEH/P/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/EKyP/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QJ//EABoQAQEAAgMAAAAAAAAAAAAAAAERACExQVH/2gAIAQEAAT8QUSVSDzkUkLU7uPEbsWpO9e3AkarliEANePcMDTSBSa5uf//Z&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;42-line-bible.jpg&quot;
         title=&quot;&quot;
-        src=&quot;/static/42-line-bible-6d93cbc4956a854d4c4369f0e281e7f3-00f86.jpg&quot;
-        srcset=&quot;/static/42-line-bible-6d93cbc4956a854d4c4369f0e281e7f3-6a66e.jpg 240w,
-/static/42-line-bible-6d93cbc4956a854d4c4369f0e281e7f3-bc76f.jpg 480w,
-/static/42-line-bible-6d93cbc4956a854d4c4369f0e281e7f3-00f86.jpg 800w&quot;
+        src=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/4b190/42-line-bible.jpg&quot;
+        srcset=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/09b79/42-line-bible.jpg 240w,
+/static/6d93cbc4956a854d4c4369f0e281e7f3/7cc5e/42-line-bible.jpg 480w,
+/static/6d93cbc4956a854d4c4369f0e281e7f3/4b190/42-line-bible.jpg 800w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -84,7 +84,7 @@ by the folks at &lt;a href=&quot;https://www.gatsbycentral.com/&quot;&gt;Gatsby 
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/type-through-time-eaa988471fd2b61a1d4d313d0d9a5d23-b89bf.jpg&quot;
+    href=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/66fdb/type-through-time.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -96,18 +96,18 @@ by the folks at &lt;a href=&quot;https://www.gatsbycentral.com/&quot;&gt;Gatsby 
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 20%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAEABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABrqJaRR//xAAXEAEAAwAAAAAAAAAAAAAAAAABAAIQ/9oACAEBAAEFAhlc/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8BJ//EABYQAAMAAAAAAAAAAAAAAAAAAAABEP/aAAgBAQAGPwIc/8QAGRAAAQUAAAAAAAAAAAAAAAAAAQAQESFx/9oACAEBAAE/ITCVU6b/2gAMAwEAAgADAAAAEIgP/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QZ//EABURAQEAAAAAAAAAAAAAAAAAABAx/9oACAECAQE/EJP/xAAaEAEAAgMBAAAAAAAAAAAAAAABESEAEEFh/9oACAEBAAE/EAFK31cnbX06/9k=&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 20%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAEABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABtoJaRR//xAAWEAEBAQAAAAAAAAAAAAAAAAAAAjH/2gAIAQEAAQUClOv/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwEn/8QAFhAAAwAAAAAAAAAAAAAAAAAAAAEQ/9oACAEBAAY/Ahz/xAAYEAACAwAAAAAAAAAAAAAAAAABIQAQUf/aAAgBAQABPyEi2Zsr/9oADAMBAAIAAwAAABAID//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EGf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQMf/aAAgBAgEBPxCD/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARQSEx/9oACAEBAAE/EAerusaDZp1lz//Z&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;type-through-time.jpg&quot;
         title=&quot;&quot;
-        src=&quot;/static/type-through-time-eaa988471fd2b61a1d4d313d0d9a5d23-d564d.jpg&quot;
-        srcset=&quot;/static/type-through-time-eaa988471fd2b61a1d4d313d0d9a5d23-865fd.jpg 240w,
-/static/type-through-time-eaa988471fd2b61a1d4d313d0d9a5d23-d40a0.jpg 480w,
-/static/type-through-time-eaa988471fd2b61a1d4d313d0d9a5d23-d564d.jpg 960w,
-/static/type-through-time-eaa988471fd2b61a1d4d313d0d9a5d23-b89bf.jpg 1250w&quot;
+        src=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/6a068/type-through-time.jpg&quot;
+        srcset=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/09b79/type-through-time.jpg 240w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23/7cc5e/type-through-time.jpg 480w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23/6a068/type-through-time.jpg 960w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23/66fdb/type-through-time.jpg 1250w&quot;
         sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
       /&gt;
     &lt;/span&gt;
@@ -123,12 +123,12 @@ by the folks at &lt;a href=&quot;https://www.gatsbycentral.com/&quot;&gt;Gatsby 
 &lt;p&gt;&lt;strong&gt;Johannes Gensfleisch zur Laden zum Gutenberg&lt;/strong&gt; (c. 1398 – 1468) was a German blacksmith, goldsmith, printer, and publisher who introduced printing to Europe. His invention of mechanical movable type printing started the Printing Revolution and is widely regarded as the most important event of the modern period. It played a key role in the development of the Renaissance, Reformation, the Age of Enlightenment, and the Scientific revolution and laid the material basis for the modern knowledge-based economy and the spread of learning to the masses.&lt;/p&gt;
 &lt;figure class=&quot;float-right&quot; style=&quot;width: 240px&quot;&gt;
 	
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/Gutenberg-3e20438298edd3a3fa746766d803f379-a74ca.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/3e20438298edd3a3fa746766d803f379/bf505/Gutenberg.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block;  max-width: 374px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 128.3422459893048%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAQP/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAFxLehXJYBWmjgwH//EABsQAAIDAQEBAAAAAAAAAAAAAAECAAMRBBIT/9oACAEBAAEFAum4iBrK2rf2hI3YjFZdV5JyV14rDV5wPpP/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAfEAACAgAHAQAAAAAAAAAAAAAAAREhAhASIjFRobH/2gAIAQEABj8C04RX6SOTd8HA+nY7LHJxl//EAB4QAQACAgIDAQAAAAAAAAAAAAEAIRExQVEQcZGB/9oACAEBAAE/IUlcYquWd5HgP0gEf0is3efsU6aL6QIa5zMz1Q9ynDYIVS24QAJjmZSlarx//9oADAMBAAIAAwAAABDwyTz/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EB//xAAfEAEAAgICAgMAAAAAAAAAAAABABEhMUFRYXEQgaH/2gAIAQEAAT8QQiVZ26PU16WOg3QsAalx0JshMuRU4V1f3FBK8UybzfNy8S2r0QjsuzybSCl5ZOS/YeMGPyWUUwLI11aLgw+Pj//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Gutenberg&quot; title=&quot;&quot; src=&quot;/static/Gutenberg-3e20438298edd3a3fa746766d803f379-a74ca.jpg&quot; srcset=&quot;/static/Gutenberg-3e20438298edd3a3fa746766d803f379-79241.jpg 240w,
-/static/Gutenberg-3e20438298edd3a3fa746766d803f379-a74ca.jpg 374w&quot; sizes=&quot;(max-width: 374px) 100vw, 374px&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 128.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAQP/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAFxLehWIgM5WmDI4H//xAAcEAADAAMAAwAAAAAAAAAAAAABAgMAERIEEyH/2gAIAQEAAQUC8mxGBqTab9oSOt4WINpcn5iRHLDawA9uf//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EAB4QAAEEAQUAAAAAAAAAAAAAAAABESExQQIQIlFh/9oACAEBAAY/Am0iTfo5JywQL0peCRXK2//EAB4QAQADAQABBQAAAAAAAAAAAAEAESExURBBYXGh/9oACAEBAAE/IUlqrr5Z5QKwP5DLl4kUr9u5Zqmjc5E26dyXPmp9xy+UNsdYAAJXvLzGfHp//9oADAMBAAIAAwAAABCgAzz/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EB//xAAeEAEAAgICAwEAAAAAAAAAAAABESEAMUFREGFxgf/aAAgBAQABPxBF5qG+j5iRR2gE3MnKYSWtOFtaKOFmF/cZ0pES8uZ5XCR9grCOtLezKZFHqTOAHbI6IMaClQkxcj2SRT4//9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Gutenberg&quot; title src=&quot;/static/3e20438298edd3a3fa746766d803f379/bf505/Gutenberg.jpg&quot; srcset=&quot;/static/3e20438298edd3a3fa746766d803f379/09b79/Gutenberg.jpg 240w,
+/static/3e20438298edd3a3fa746766d803f379/bf505/Gutenberg.jpg 374w&quot; sizes=&quot;(max-width: 374px) 100vw, 374px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
@@ -144,13 +144,13 @@ by the folks at &lt;a href=&quot;https://www.gatsbycentral.com/&quot;&gt;Gatsby 
 &lt;p&gt;Around 1439, Gutenberg was involved in a financial misadventure making polished metal mirrors (which were believed to capture holy light from religious relics) for sale to pilgrims to Aachen: in 1439 the city was planning to exhibit its collection of relics from Emperor Charlemagne but the event was delayed by one year due to a severe flood and the capital already spent could not be repaid. When the question of satisfying the investors came up, Gutenberg is said to have promised to share a “secret”. It has been widely speculated that this secret may have been the idea of printing with movable type. Also around 1439–1440, the Dutch Laurens Janszoon Coster came up with the idea of printing. Legend has it that the idea came to him “like a ray of light”.&lt;/p&gt;
 &lt;figure class=&quot;float-left&quot; style=&quot;width: 240px&quot;&gt;
 	
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/Printing-press-9ec265253f068855f00558a9be7f3e03-e45ee.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/9ec265253f068855f00558a9be7f3e03/7527b/Printing-press.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block;  max-width: 754px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 128.91246684350133%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAaCAIAAAA44esqAAAACXBIWXMAAAsSAAALEgHS3X78AAAEUklEQVQ4yzWUR0tlSxSF60c4cvBQxIE6UXGiOBBBERXFCKY2Yc4555zbnHPOOeecUXyImBFp9KHy0BZ1Zn/nXroGhzpVtfdea+1VJZ6entbW1k5OTv6VjYODg+3t7a2trY2Njb29vcPDw6OjI77r6+ubm5ss7uzszM3NTUxM3N7eipWVFS8vL39//5iYmMTExNDQ0Pj4+KysLBZ/yIaPjw8rISEhTNzc3FxcXDIzM62trVtbW8Xi4mJkZCRHvb29IyIiAgMDCeAoizY2Nra2thUVFeHh4cydnZ0JNjU1zcvLY97c3CxmZmZYYptzZmZmGhoaSkpK/8iGoqKipqamiYlJW1uboaEhk7i4OL66urr6+vpSZShBsra2luKAcXJyAoKBgYGenp62tnZ6ejpEAFJQUAAWaINZVVVVRUWlurpanJ2ddXZ2RkdHt7e3s52bm8sqqMDm6uoaHByMWmQkGM3c3d3T0tIsLS2VlZUl2ASXl5ezNzg4iGalpaUdHR0cQjz4IxKNQAskNDc3F0KQlGBIwUXc3NwQVlhY2NPTk5SUlJqaWlxcDH5YGRsbA5jmATUoKEhdXZ2kLS0tWlpaCgoK4BV3d3ejo6N1dXX8ABvCDg4OHEJFONvZ2cHip2yQl10w8kWIvr4+cXFxMTAwADBSZmRk0BJHR8fk5GRqWlhYIFtlZWV+fj7BbOno6JSVlbEbGxs7MjIice7t7YUqlYlH3uzsbMQgPZxBCy4iU1JSQATtmpoaWFCMdXF5eTk7Ozs+Pk7PioqKqEMDyQp/RFpYWGDFysqKYDqC1E1NTXQbOYeGhgQ2rq+vJwzZ6BbEOIft6DzBIKJtGIN15tQANis4anh4WOzv75+fn+MTrLa8vExiUmBJctNz5OEc+tECjIXOVAK/r6+vFEzl09NTUuzu7tI6aHOZuDqcDgsLow4sCEBLCqIZLgAIREAqaCPdwkaYgYuGyLBFs4aGBipzlCw5OTl8uTA0Hy2joqL8/PzGxsakW4WY8maQDBkRBpFRG8AeHh40H53ImJCQQDqAIJiRkRE9ElNTU+gJT5boVmNjIx4GSHd3N/ixp6enJ+34/v7m2bi6usKR9Jn7ByipMud4HKqqqshKPpgvLS2trq4iHm6n8+hPXlLgtv7+fpTnhvIrqENxZqTki+nAj/LHx8egRWGkhiRawJZI5OCq2dvbc0bwLCE4bGkspuNVCAgIQGeYoxD25OlAXm6S3HMA4VXijGQSgq+vr0mjpqZGM9hmD/7ya4gT5cai4fxCjbZxFzAMKKQH8OPjgz5xUbArxgQ5BkBCukX6rq4uCLPOnHUi5V5CKcHs/f0dGbmVJMMVnCaevcnJyfn5eb5oMT09jQuIRGQSlZSUSG8Y1iceeWkYYEjBKpG8DfKjzPmiFveJNwfn0k6Y0yDx+fn5+Pj4/Pz8+vr6++94e3t7lY3/ZePl5eU/2Xh4ePglG/f3919fX38AEQttJBy4KAgAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Early Printing Press&quot; title=&quot;&quot; src=&quot;/static/Printing-press-9ec265253f068855f00558a9be7f3e03-e45ee.png&quot; srcset=&quot;/static/Printing-press-9ec265253f068855f00558a9be7f3e03-309d8.png 240w,
-/static/Printing-press-9ec265253f068855f00558a9be7f3e03-1d2a3.png 480w,
-/static/Printing-press-9ec265253f068855f00558a9be7f3e03-e45ee.png 754w&quot; sizes=&quot;(max-width: 754px) 100vw, 754px&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 128.75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAaCAIAAAA44esqAAAACXBIWXMAAAsSAAALEgHS3X78AAAEUklEQVQ4yzWUR0tlSxSF60c4cvBQxIE6UXGiOBBBERXFCKY2Yc4555zbnHPOOeecUXyImBFp9KHy0BZ1Zn/nXroGhzpVtfdea+1VJZ6entbW1k5OTv6VjYODg+3t7a2trY2Njb29vcPDw6OjI77r6+ubm5ss7uzszM3NTUxM3N7eipWVFS8vL39//5iYmMTExNDQ0Pj4+KysLBZ/yIaPjw8rISEhTNzc3FxcXDIzM62trVtbW8Xi4mJkZCRHvb29IyIiAgMDCeAoizY2Nra2thUVFeHh4cydnZ0JNjU1zcvLY97c3CxmZmZYYptzZmZmGhoaSkpK/8iGoqKipqamiYlJW1uboaEhk7i4OL66urr6+vpSZShBsra2luKAcXJyAoKBgYGenp62tnZ6ejpEAFJQUAAWaINZVVVVRUWlurpanJ2ddXZ2RkdHt7e3s52bm8sqqMDm6uoaHByMWmQkGM3c3d3T0tIsLS2VlZUl2ASXl5ezNzg4iGalpaUdHR0cQjz4IxKNQAskNDc3F0KQlGBIwUXc3NwQVlhY2NPTk5SUlJqaWlxcDH5YGRsbA5jmATUoKEhdXZ2kLS0tWlpaCgoK4BV3d3ejo6N1dXX8ABvCDg4OHEJFONvZ2cHip2yQl10w8kWIvr4+cXFxMTAwADBSZmRk0BJHR8fk5GRqWlhYIFtlZWV+fj7BbOno6JSVlbEbGxs7MjIice7t7YUqlYlH3uzsbMQgPZxBCy4iU1JSQATtmpoaWFCMdXF5eTk7Ozs+Pk7PioqKqEMDyQp/RFpYWGDFysqKYDqC1E1NTXQbOYeGhgQ2rq+vJwzZ6BbEOIft6DzBIKJtGIN15tQANis4anh4WOzv75+fn+MTrLa8vExiUmBJctNz5OEc+tECjIXOVAK/r6+vFEzl09NTUuzu7tI6aHOZuDqcDgsLow4sCEBLCqIZLgAIREAqaCPdwkaYgYuGyLBFs4aGBipzlCw5OTl8uTA0Hy2joqL8/PzGxsakW4WY8maQDBkRBpFRG8AeHh40H53ImJCQQDqAIJiRkRE9ElNTU+gJT5boVmNjIx4GSHd3N/ixp6enJ+34/v7m2bi6usKR9Jn7ByipMud4HKqqqshKPpgvLS2trq4iHm6n8+hPXlLgtv7+fpTnhvIrqENxZqTki+nAj/LHx8egRWGkhiRawJZI5OCq2dvbc0bwLCE4bGkspuNVCAgIQGeYoxD25OlAXm6S3HMA4VXijGQSgq+vr0mjpqZGM9hmD/7ya4gT5cai4fxCjbZxFzAMKKQH8OPjgz5xUbArxgQ5BkBCukX6rq4uCLPOnHUi5V5CKcHs/f0dGbmVJMMVnCaevcnJyfn5eb5oMT09jQuIRGQSlZSUSG8Y1iceeWkYYEjBKpG8DfKjzPmiFveJNwfn0k6Y0yDx+fn5+Pj4/Pz8+vr6++94e3t7lY3/ZePl5eU/2Xh4ePglG/f3919fX38AEQttJBy4KAgAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Early Printing Press&quot; title src=&quot;/static/9ec265253f068855f00558a9be7f3e03/7527b/Printing-press.png&quot; srcset=&quot;/static/9ec265253f068855f00558a9be7f3e03/8ff5a/Printing-press.png 240w,
+/static/9ec265253f068855f00558a9be7f3e03/e85cb/Printing-press.png 480w,
+/static/9ec265253f068855f00558a9be7f3e03/7527b/Printing-press.png 754w&quot; sizes=&quot;(max-width: 754px) 100vw, 754px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
@@ -185,7 +185,7 @@ by the folks at &lt;a href=&quot;https://www.gatsbycentral.com/&quot;&gt;Gatsby 
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/movable-type-0d1540b9a8fca9db753ad10ae0a3427e-94ac0.jpg&quot;
+    href=&quot;/static/0d1540b9a8fca9db753ad10ae0a3427e/fa8cd/movable-type.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -197,20 +197,20 @@ by the folks at &lt;a href=&quot;https://www.gatsbycentral.com/&quot;&gt;Gatsby 
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.43356643356644%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABlT8ktxAf/8QAGBABAQEBAQAAAAAAAAAAAAAAAQARAkH/2gAIAQEAAQUC8tkNJ7x//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAgMBAAAAAAAAAAAAAAAAARAAETFR/9oACAEBAAY/AidlLOv/xAAZEAEAAwEBAAAAAAAAAAAAAAABABEhUUH/2gAIAQEAAT8hGrOMO3FDOPkxyVDQxUc5LGi7sRCp/9oADAMBAAIAAwAAABDQD//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EKr/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8QCwb/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhMVFB4WGR8P/aAAgBAQABPxBGghtORln24lVU05k694Azw6uOmDAwiT2+ct3AIWn7eBEac//Z&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 66.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABlT8ktxAf/8QAGBABAQEBAQAAAAAAAAAAAAAAAQARAkH/2gAIAQEAAQUC8tkNJ7x//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAgMBAAAAAAAAAAAAAAAAARAAETFR/9oACAEBAAY/AidlLOv/xAAZEAEAAwEBAAAAAAAAAAAAAAABABEhUUH/2gAIAQEAAT8hGrOMO3FDOPkxyVDQxUc5LGi7sRCp/9oADAMBAAIAAwAAABDQD//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EKr/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8QCwb/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhMVFB4WGR8P/aAAgBAQABPxBGghtORln24lVU05k694Azw6uOmDAwiT2+ct3AIWn7eBEac//Z&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Movable metal type, and composing stick, descended from Gutenberg&apos;s press. Photo by Willi Heidelbach. Licensed under CC BY 2.5&quot;
         title=&quot;&quot;
-        src=&quot;/static/movable-type-0d1540b9a8fca9db753ad10ae0a3427e-d564d.jpg&quot;
-        srcset=&quot;/static/movable-type-0d1540b9a8fca9db753ad10ae0a3427e-865fd.jpg 240w,
-/static/movable-type-0d1540b9a8fca9db753ad10ae0a3427e-d40a0.jpg 480w,
-/static/movable-type-0d1540b9a8fca9db753ad10ae0a3427e-d564d.jpg 960w,
-/static/movable-type-0d1540b9a8fca9db753ad10ae0a3427e-c67c1.jpg 1440w,
-/static/movable-type-0d1540b9a8fca9db753ad10ae0a3427e-667be.jpg 1920w,
-/static/movable-type-0d1540b9a8fca9db753ad10ae0a3427e-94ac0.jpg 2288w&quot;
+        src=&quot;/static/0d1540b9a8fca9db753ad10ae0a3427e/6a068/movable-type.jpg&quot;
+        srcset=&quot;/static/0d1540b9a8fca9db753ad10ae0a3427e/09b79/movable-type.jpg 240w,
+/static/0d1540b9a8fca9db753ad10ae0a3427e/7cc5e/movable-type.jpg 480w,
+/static/0d1540b9a8fca9db753ad10ae0a3427e/6a068/movable-type.jpg 960w,
+/static/0d1540b9a8fca9db753ad10ae0a3427e/644c5/movable-type.jpg 1440w,
+/static/0d1540b9a8fca9db753ad10ae0a3427e/0f98f/movable-type.jpg 1920w,
+/static/0d1540b9a8fca9db753ad10ae0a3427e/fa8cd/movable-type.jpg 2288w&quot;
         sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
       /&gt;
     &lt;/span&gt;
@@ -239,7 +239,7 @@ by the folks at &lt;a href=&quot;https://www.gatsbycentral.com/&quot;&gt;Gatsby 
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/1-2c2b7012cc7a218b86a2e5f4fdd1b9c7-5b032.jpg&quot;
+    href=&quot;/static/2c2b7012cc7a218b86a2e5f4fdd1b9c7/d9c39/1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -251,19 +251,19 @@ by the folks at &lt;a href=&quot;https://www.gatsbycentral.com/&quot;&gt;Gatsby 
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHflc0iMP/EABoQAQADAAMAAAAAAAAAAAAAAAIAARIDITL/2gAIAQEAAQUCazPUfISkq0O4hq//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAARARIVFh/9oACAEBAAY/AumSqLE9OP/EABsQAAIDAQEBAAAAAAAAAAAAAAABESExQXGx/9oACAEBAAE/IUVVi23Dn00T0lpaYnT6JkfKP//aAAwDAQACAAMAAAAQzy//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAEDAQE/EFEYf//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxB1n//EABsQAQEBAAMBAQAAAAAAAAAAAAERACExUUGh/9oACAEBAAE/EDQKdHmA9UQLwQ/M6hQVLmMVa1OjN+ctDjjEqA108Xf/2Q==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHflc0iMP/EABoQAQADAAMAAAAAAAAAAAAAAAIAARIDITL/2gAIAQEAAQUCazPUfISkq0O4hq//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAARARIVFh/9oACAEBAAY/AumSqLE9OP/EABsQAAIDAQEBAAAAAAAAAAAAAAABESExQXGx/9oACAEBAAE/IULGi23Dn00T0lJaxqnT6JkfKP/aAAwDAQACAAMAAAAQzy//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAEDAQE/EFEYf//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxB1n//EABsQAQEBAAMBAQAAAAAAAAAAAAERACExUUGh/9oACAEBAAE/EDQKdHmA9UQLwQ/M6hQVLmsVZqdGb5y0OOMSoDXTxd//2Q==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
         title=&quot;&quot;
-        src=&quot;/static/1-2c2b7012cc7a218b86a2e5f4fdd1b9c7-d564d.jpg&quot;
-        srcset=&quot;/static/1-2c2b7012cc7a218b86a2e5f4fdd1b9c7-865fd.jpg 240w,
-/static/1-2c2b7012cc7a218b86a2e5f4fdd1b9c7-d40a0.jpg 480w,
-/static/1-2c2b7012cc7a218b86a2e5f4fdd1b9c7-d564d.jpg 960w,
-/static/1-2c2b7012cc7a218b86a2e5f4fdd1b9c7-c67c1.jpg 1440w,
-/static/1-2c2b7012cc7a218b86a2e5f4fdd1b9c7-5b032.jpg 1800w&quot;
+        src=&quot;/static/2c2b7012cc7a218b86a2e5f4fdd1b9c7/6a068/1.jpg&quot;
+        srcset=&quot;/static/2c2b7012cc7a218b86a2e5f4fdd1b9c7/09b79/1.jpg 240w,
+/static/2c2b7012cc7a218b86a2e5f4fdd1b9c7/7cc5e/1.jpg 480w,
+/static/2c2b7012cc7a218b86a2e5f4fdd1b9c7/6a068/1.jpg 960w,
+/static/2c2b7012cc7a218b86a2e5f4fdd1b9c7/644c5/1.jpg 1440w,
+/static/2c2b7012cc7a218b86a2e5f4fdd1b9c7/d9c39/1.jpg 1800w&quot;
         sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
       /&gt;
     &lt;/span&gt;
@@ -300,7 +300,7 @@ by the folks at &lt;a href=&quot;https://www.gatsbycentral.com/&quot;&gt;Gatsby 
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/1-a3057b79175cdcf4a107e8cc2c8f8325-5b032.jpg&quot;
+    href=&quot;/static/a3057b79175cdcf4a107e8cc2c8f8325/d9c39/1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -319,12 +319,12 @@ by the folks at &lt;a href=&quot;https://www.gatsbycentral.com/&quot;&gt;Gatsby 
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
         title=&quot;&quot;
-        src=&quot;/static/1-a3057b79175cdcf4a107e8cc2c8f8325-d564d.jpg&quot;
-        srcset=&quot;/static/1-a3057b79175cdcf4a107e8cc2c8f8325-865fd.jpg 240w,
-/static/1-a3057b79175cdcf4a107e8cc2c8f8325-d40a0.jpg 480w,
-/static/1-a3057b79175cdcf4a107e8cc2c8f8325-d564d.jpg 960w,
-/static/1-a3057b79175cdcf4a107e8cc2c8f8325-c67c1.jpg 1440w,
-/static/1-a3057b79175cdcf4a107e8cc2c8f8325-5b032.jpg 1800w&quot;
+        src=&quot;/static/a3057b79175cdcf4a107e8cc2c8f8325/6a068/1.jpg&quot;
+        srcset=&quot;/static/a3057b79175cdcf4a107e8cc2c8f8325/09b79/1.jpg 240w,
+/static/a3057b79175cdcf4a107e8cc2c8f8325/7cc5e/1.jpg 480w,
+/static/a3057b79175cdcf4a107e8cc2c8f8325/6a068/1.jpg 960w,
+/static/a3057b79175cdcf4a107e8cc2c8f8325/644c5/1.jpg 1440w,
+/static/a3057b79175cdcf4a107e8cc2c8f8325/d9c39/1.jpg 1800w&quot;
         sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
       /&gt;
     &lt;/span&gt;
@@ -338,7 +338,7 @@ by the folks at &lt;a href=&quot;https://www.gatsbycentral.com/&quot;&gt;Gatsby 
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/1-07d3a9ebe902d793eab5fe701b12a6e2-5b032.jpg&quot;
+    href=&quot;/static/07d3a9ebe902d793eab5fe701b12a6e2/d9c39/1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -357,12 +357,12 @@ by the folks at &lt;a href=&quot;https://www.gatsbycentral.com/&quot;&gt;Gatsby 
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
         title=&quot;&quot;
-        src=&quot;/static/1-07d3a9ebe902d793eab5fe701b12a6e2-d564d.jpg&quot;
-        srcset=&quot;/static/1-07d3a9ebe902d793eab5fe701b12a6e2-865fd.jpg 240w,
-/static/1-07d3a9ebe902d793eab5fe701b12a6e2-d40a0.jpg 480w,
-/static/1-07d3a9ebe902d793eab5fe701b12a6e2-d564d.jpg 960w,
-/static/1-07d3a9ebe902d793eab5fe701b12a6e2-c67c1.jpg 1440w,
-/static/1-07d3a9ebe902d793eab5fe701b12a6e2-5b032.jpg 1800w&quot;
+        src=&quot;/static/07d3a9ebe902d793eab5fe701b12a6e2/6a068/1.jpg&quot;
+        srcset=&quot;/static/07d3a9ebe902d793eab5fe701b12a6e2/09b79/1.jpg 240w,
+/static/07d3a9ebe902d793eab5fe701b12a6e2/7cc5e/1.jpg 480w,
+/static/07d3a9ebe902d793eab5fe701b12a6e2/6a068/1.jpg 960w,
+/static/07d3a9ebe902d793eab5fe701b12a6e2/644c5/1.jpg 1440w,
+/static/07d3a9ebe902d793eab5fe701b12a6e2/d9c39/1.jpg 1800w&quot;
         sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
       /&gt;
     &lt;/span&gt;
