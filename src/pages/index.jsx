@@ -20,6 +20,7 @@ class IndexRoute extends React.Component {
           <Helmet>
             <title>{title}</title>
             <meta name="description" content={subtitle} />
+            <link rel="shortcut icon" href="/photo.jpg" />
           </Helmet>
           <Sidebar {...this.props} />
           <div className="content">
