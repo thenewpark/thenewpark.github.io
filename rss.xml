@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[thenewpark playground]]></title><description><![CDATA[Everyday life as a playground]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 09 Sep 2020 06:35:34 GMT</lastBuildDate><item><title><![CDATA[발행테스트]]></title><description><![CDATA[This starter has been forked and upgraded to Gatsby v2]]></description><link>https://thenewpark.github.io/playground//posts/publish test/</link><guid isPermaLink="false">https://thenewpark.github.io/playground//posts/publish test/</guid><pubDate>Wed, 09 Sep 2020 16:51:00 GMT</pubDate><content:encoded>&lt;p&gt;발행테스트입니다.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[thenewpark playground]]></title><description><![CDATA[Everyday life as a playground]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 09 Sep 2020 06:38:45 GMT</lastBuildDate><item><title><![CDATA[발행테스트]]></title><description><![CDATA[This starter has been forked and upgraded to Gatsby v2]]></description><link>https://thenewpark.github.io/playground//posts/publish test/</link><guid isPermaLink="false">https://thenewpark.github.io/playground//posts/publish test/</guid><pubDate>Wed, 09 Sep 2020 16:51:00 GMT</pubDate><content:encoded>&lt;p&gt;발행테스트입니다.
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -28,6 +28,41 @@
 /static/a5fc245df3cbb3d62c54e41bed6c5c60/07a9c/screely-1599591509150.png 1440w,
 /static/a5fc245df3cbb3d62c54e41bed6c5c60/29114/screely-1599591509150.png 1920w,
 /static/a5fc245df3cbb3d62c54e41bed6c5c60/70f3a/screely-1599591509150.png 3634w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f47be46816a7d910511f5d509cfef1a7/5621c/memopad-red.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 187.08333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAlABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEE/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAME/9oADAMBAAIQAxAAAAHWI7CCggKCA//EABQQAQAAAAAAAAAAAAAAAAAAADD/2gAIAQEAAQUCf//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BX//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BX//EABQQAQAAAAAAAAAAAAAAAAAAADD/2gAIAQEABj8Cf//EABQQAQAAAAAAAAAAAAAAAAAAADD/2gAIAQEAAT8hf//aAAwDAQACAAMAAAAQAOA8A8//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EF//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EF//xAAWEAADAAAAAAAAAAAAAAAAAAABEDH/2gAIAQEAAT8QNZrNZrNf/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;memopad-red&quot;
+        title=&quot;&quot;
+        src=&quot;/static/f47be46816a7d910511f5d509cfef1a7/6a068/memopad-red.jpg&quot;
+        srcset=&quot;/static/f47be46816a7d910511f5d509cfef1a7/09b79/memopad-red.jpg 240w,
+/static/f47be46816a7d910511f5d509cfef1a7/7cc5e/memopad-red.jpg 480w,
+/static/f47be46816a7d910511f5d509cfef1a7/6a068/memopad-red.jpg 960w,
+/static/f47be46816a7d910511f5d509cfef1a7/644c5/memopad-red.jpg 1440w,
+/static/f47be46816a7d910511f5d509cfef1a7/5621c/memopad-red.jpg 1508w&quot;
         sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
       /&gt;
     &lt;/span&gt;
