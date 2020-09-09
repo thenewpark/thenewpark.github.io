@@ -15,6 +15,17 @@ description: "This starter has been forked and upgraded to Gatsby v2"
 발행테스트입니다.
 ![screely-1599591509150.png](./screely-1599591509150.png)
 
+발행테스트입니다.
+발행테스트입니다.
+발행테스트입니다.
+발행테스트입니다.
+발행테스트입니다.
+발행테스트입니다.
+
+<figure class="float-right" style="width: 240px">
+	<img src="./memopad-red.jpg" alt="Gutenberg">
+	<figcaption>Johannes Gutenberg</figcaption>
+</figure>
 ![memopad-red](memopad-red.jpg)
 
 ![IMG_3197](/Users/shinyou/thenewpark.github.io/src/pages/articles/2020-09-09---발행테스트/IMG_3197.jpg)
