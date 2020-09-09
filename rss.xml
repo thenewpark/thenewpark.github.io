@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[thenewpark playground]]></title><description><![CDATA[Everyday life as a playground]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 07 Sep 2020 08:07:54 GMT</lastBuildDate><item><title><![CDATA[Upgraded to Gatsby v2]]></title><description><![CDATA[This starter has been forked and upgraded to Gatsby v2]]></description><link>https://thenewpark.github.io/playground//posts/upgraded-to-gatsby-v2/</link><guid isPermaLink="false">https://thenewpark.github.io/playground//posts/upgraded-to-gatsby-v2/</guid><pubDate>Thu, 18 Oct 2018 16:51:00 GMT</pubDate><content:encoded>&lt;p&gt;This is a Gatsby v2 compatible version of the
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[thenewpark playground]]></title><description><![CDATA[Everyday life as a playground]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 09 Sep 2020 06:19:28 GMT</lastBuildDate><item><title><![CDATA[발행테스트]]></title><description><![CDATA[This starter has been forked and upgraded to Gatsby v2]]></description><link>https://thenewpark.github.io/playground//posts/publish test/</link><guid isPermaLink="false">https://thenewpark.github.io/playground//posts/publish test/</guid><pubDate>Wed, 09 Sep 2020 16:51:00 GMT</pubDate><content:encoded>&lt;p&gt;발행테스트입니다.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a5fc245df3cbb3d62c54e41bed6c5c60/70f3a/screely-1599591509150.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 53.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACwElEQVQoz0WSeVNSYRTGSRGUVQTK+qcsp9SyRKO01CIzFeUGdtkRMRRUUswWS7LCLZec9r5FM/XlmmqyXwdspjvzzHnv3Ps+8yxH8/JFgdXVIsVikfXNDVbX1lhbX2dja4vN7S1e7e6U55p8297d5uPn9+y9fc27T+948+ENu3s7rKwU+PrtC/t/vqORh/+oQHOoEo1WR2WNkSqTWaahPI11dXiGrhGIjuBTh7il3ODyNTcXr7qwOa3kF3PAbzTV1QYMBrlgtGAsTZMFk9mK2VKLxWqTacUo780XWkhORRgTzD/KMp6Jk8zEuOm9QVPraXb21oXwJxqdrga93kCJWP8P1aLKYDRhEGU2h53m1iYUdQA1MUIkFRCVXq7fuoIa99HQ2EBbR4vEtcIffoi7Kj06fQ01YtFktmB3OjhytB7HYSfO+sN0XXeTfzLD/NI0k/dizNxPkc1PkJgMCqGXfm83Lnczi4vzovAXmlpbnVx2cKLxOI1nTtLZc5GuXjfdnk76R3oJJRWxGiQ1HSY9G+Xhco7NnedEEgqxcR9Ly2m8vj6mMpMHGZYIevq6BJ1c7mnHM3i1DO/oTcKp20RTfuLpO8QmAmVM58fp6+/CoK8QB/W0tJ3HKW4y2fQBYb/iQQl78UeGUYIDjEo+t8OD+AUloqlcnPFsmInZGBMzUTLzY/LPCFarCbNRh9Vu58TZM7JCeweWPYPd9Hl7GfB5SKSDRJIlVaOCgFiMk51LCrEqmamSYULOQVF0RIqUMqu0OOy11B8/RuHF8gGhLzhI87nTtLY14Rd1/vCQqB1CCYna2LA06yMqVsckx1LDpShq62yys1oqtHoOVWjLOxwKqUK4j2ZhKYcSGObu5BiPny0w9yBLbiHNbD7NwiNp92FWkKFQfMDcYpZQVCUUV+lwX8Llaqfd1UFDwykKhadlhX8BdTWkad6BMIAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;screely-1599591509150.png&quot;
+        title=&quot;&quot;
+        src=&quot;/static/a5fc245df3cbb3d62c54e41bed6c5c60/d9199/screely-1599591509150.png&quot;
+        srcset=&quot;/static/a5fc245df3cbb3d62c54e41bed6c5c60/8ff5a/screely-1599591509150.png 240w,
+/static/a5fc245df3cbb3d62c54e41bed6c5c60/e85cb/screely-1599591509150.png 480w,
+/static/a5fc245df3cbb3d62c54e41bed6c5c60/d9199/screely-1599591509150.png 960w,
+/static/a5fc245df3cbb3d62c54e41bed6c5c60/07a9c/screely-1599591509150.png 1440w,
+/static/a5fc245df3cbb3d62c54e41bed6c5c60/29114/screely-1599591509150.png 1920w,
+/static/a5fc245df3cbb3d62c54e41bed6c5c60/70f3a/screely-1599591509150.png 3634w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Upgraded to Gatsby v2]]></title><description><![CDATA[This starter has been forked and upgraded to Gatsby v2]]></description><link>https://thenewpark.github.io/playground//posts/upgraded-to-gatsby-v2/</link><guid isPermaLink="false">https://thenewpark.github.io/playground//posts/upgraded-to-gatsby-v2/</guid><pubDate>Thu, 18 Oct 2018 16:51:00 GMT</pubDate><content:encoded>&lt;p&gt;This is a Gatsby v2 compatible version of the
 &lt;a href=&quot;https://github.com/alxshelepenok/gatsby-starter-lumen&quot;&gt;lumen&lt;/a&gt; starter, started
 by the folks at &lt;a href=&quot;https://www.gatsbycentral.com/&quot;&gt;Gatsby Central&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Here’s a little recommended reading for Gatsby v2.&lt;/p&gt;
