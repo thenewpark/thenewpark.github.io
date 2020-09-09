@@ -16,6 +16,8 @@ class PostTemplate extends React.Component {
         <div>
           <Helmet>
             <title>{`${postTitle} - ${title}`}</title>
+            <link rel="shortcut icon" href="/photo.jpg" />
+            <meta property="og:image" content="https://c.disquscdn.com/home/current/img/brand/favicon-192x192.png" />
             <meta name="description" content={description} />
           </Helmet>
           <PostTemplateDetails {...this.props} />

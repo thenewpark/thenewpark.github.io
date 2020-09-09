@@ -8,11 +8,12 @@
         margin: 0 auto;
     }
     &__title {
-        font-size: $typographic-base-font-size * 2;
+        font-family: 'Song Myung', serif;
+        font-size: $typographic-base-font-size * 2.4;
         max-width: $layout-post-single-width;
         margin-left: auto;
         margin-right: auto;
-        font-weight: 600;
+        font-weight: 300;
         text-align: center;
         @include line-height(1.65);
         @include margin-top(1);

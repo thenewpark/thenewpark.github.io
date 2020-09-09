@@ -16,6 +16,8 @@ class PageTemplate extends React.Component {
         <div>
           <Helmet>
             <title>{`${pageTitle} - ${title}`}</title>
+            <link rel="shortcut icon" href="/photo.jpg" />
+            <meta property="og:image" content="/photo.jpg" />
             <meta name="description" content={description} />
           </Helmet>
           <PageTemplateDetails {...this.props} />
