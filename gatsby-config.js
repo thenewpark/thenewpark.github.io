@@ -120,12 +120,12 @@ module.exports = {
     'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-plugin-google-analytics',
-      options: { trackingId: '' },
+      options: { trackingId: 'UA-177767774-1' },
     },
     {
       resolve: 'gatsby-plugin-google-fonts',
       options: {
-        fonts: ['roboto:400,400i,500,700'],
+        fonts: ['roboto:400,400i,500,700', 'Song Myung'],
       },
     },
     'gatsby-plugin-sitemap',
