@@ -1,4 +1,406 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[thenewpark playground]]></title><description><![CDATA[Everyday life as a playground]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 10 Sep 2020 21:32:07 GMT</lastBuildDate><item><title><![CDATA[발행테스트]]></title><description><![CDATA[This starter has been forked and upgraded to Gatsby v2]]></description><link>https://thenewpark.github.io/playground//posts/publish test/</link><guid isPermaLink="false">https://thenewpark.github.io/playground//posts/publish test/</guid><pubDate>Wed, 09 Sep 2020 16:51:00 GMT</pubDate><content:encoded>&lt;p&gt;발행테스트입니다.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[thenewpark playground]]></title><description><![CDATA[Everyday life as a playground]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 13 Sep 2020 04:48:26 GMT</lastBuildDate><item><title><![CDATA[Sol LeWitt's Wall Drawing]]></title><description><![CDATA[Creative Coding Study #1 - Sol LeWitt's Wall Drawing #358 in Processing]]></description><link>https://thenewpark.github.io/playground//posts/ccs-01-sol-lewitt-wall-drawing-358</link><guid isPermaLink="false">https://thenewpark.github.io/playground//posts/ccs-01-sol-lewitt-wall-drawing-358</guid><pubDate>Sat, 12 Sep 2020 04:25:32 GMT</pubDate><content:encoded>&lt;h1&gt;Recall Point&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;arc() 에서 각 파라미터가 의미하는 바&lt;/li&gt;
+&lt;li&gt;Processing 시스템에서 각도 표시법 (0, π/2, π, 3/2*π, 2π)&lt;/li&gt;
+&lt;li&gt;Sol LeWitt’s Wall Drawing #358 구현 스텝&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1&gt;Notes&lt;/h1&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e9b4166b70b3c88f63081b6019c7dd08/29007/Untitled.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 65.83333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsSAAALEgHS3X78AAACyUlEQVQ4yz2T2U8TURTGxwcNYbctXeg27SydpZ1Ol2npAlgoGi0GTUibVpYWUSBEUiNFEFp5ND74YHzwv/0897by8OXk3nvO73z3zB3hz++/+HB8jv7nK/T7V/hyeY2rr99wc3OH27sR7obfMRzeYzi6x+3tiO8PBteUe4nz8z5OTi5wenqBg/1j/PzxC0Jzdx9TT1zw+yUEAhJCIQWSrEPTLSRTGaRtB3a2wGWl8zCTGSToLC4ZCAYV+Hwx+H1xzniz04LwvneG5UCcAJSYsGGaediZApxCGcWVKkrlNVRXN1Cp1lCurPO9XL5EjYrQtAwUJQ2V5PfGsL93BOGodwqfV4SaSENWUhyaTOY4lBU6hQoKxQpvkHfKyGSL5NSBYeSgquQ0ZkKKJ+H1RPGu0yOHR2fcMgPJMgNmKDmLlDWGZnNFApUornAYG0HKykM3mLsUBypUt+SOjIG97gnNL07d0pRg8ajT9dms2AwZlInBWGSNDNOmxmluQJaSkMmhbymKPQbsHn6kK8fo0IIkpSbgNM3HpkLm1IFlOTwymckszdue5Cf5dRXJgscVRqfdhXCwd0yLCHUZ22dQmYkK2Bg0Lcvnpeu5hw/HbsJAcdFALEoSTbgXQ2i3DsdAtmAHYkTjUAaUWKQilY1hMgpVtSdnDGZSjY5oWONyLYTQoicodFo9LMwEEAkmEA6qEOmQgVkD5mBcaPBGXJO1GNF5XnhZQTigYGHaj3aTHHaaXcxP+RH0KiSZEhKIhrRxATlgADFiPED+O2I54YA6rvGrnNHePYCw02hCEGYw99iLWdLi9DJccyF4FsNYckXpfdGf4I3D5xG5vG4S7bvnQ3g6E+QgVvNImMXbbfpTrgcjVJxNbD17jc3VV6ivNVBfb9CaYo3ixja2NrdR32igtvYSz6ovsF5+jtWVOiqFDZTyNZRyNaRUB/1PA/wD8z2dYNgroe4AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;./Untitled.png&quot;
+        title=&quot;&quot;
+        src=&quot;/static/e9b4166b70b3c88f63081b6019c7dd08/d9199/Untitled.png&quot;
+        srcset=&quot;/static/e9b4166b70b3c88f63081b6019c7dd08/8ff5a/Untitled.png 240w,
+/static/e9b4166b70b3c88f63081b6019c7dd08/e85cb/Untitled.png 480w,
+/static/e9b4166b70b3c88f63081b6019c7dd08/d9199/Untitled.png 960w,
+/static/e9b4166b70b3c88f63081b6019c7dd08/07a9c/Untitled.png 1440w,
+/static/e9b4166b70b3c88f63081b6019c7dd08/29007/Untitled.png 1600w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6b8fb3d759f16f0266d366168d1153d6/0f98f/creative_algorithms.001.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAECAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAByXTKmIP/xAAWEAADAAAAAAAAAAAAAAAAAAAAESD/2gAIAQEAAQUCHP8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGBABAQADAAAAAAAAAAAAAAAAAQAQETH/2gAIAQEAAT8hGcC2kvL/2gAMAwEAAgADAAAAEHg//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8QiP/EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/EIf/xAAaEAEBAQADAQAAAAAAAAAAAAABEQAhMVGh/9oACAEBAAE/EOe6x3lLm3vJOH5kRMs83//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;./creative_algorithms.001.jpeg&quot;
+        title=&quot;&quot;
+        src=&quot;/static/6b8fb3d759f16f0266d366168d1153d6/6a068/creative_algorithms.001.jpg&quot;
+        srcset=&quot;/static/6b8fb3d759f16f0266d366168d1153d6/09b79/creative_algorithms.001.jpg 240w,
+/static/6b8fb3d759f16f0266d366168d1153d6/7cc5e/creative_algorithms.001.jpg 480w,
+/static/6b8fb3d759f16f0266d366168d1153d6/6a068/creative_algorithms.001.jpg 960w,
+/static/6b8fb3d759f16f0266d366168d1153d6/644c5/creative_algorithms.001.jpg 1440w,
+/static/6b8fb3d759f16f0266d366168d1153d6/0f98f/creative_algorithms.001.jpg 1920w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;사용할 함수&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;arc()&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;random()&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;randomSeed()&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/547ba681c2584c7ea6f661a60c76dab1/0f98f/creative_algorithms.002.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAWSbySkYH//EABsQAQEAAQUAAAAAAAAAAAAAAAMBAgAEERQh/9oACAEBAAEFAt6meCo/hXkkA0vUDUkk/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHxAAAgECBwAAAAAAAAAAAAAAAAECAxESISIxM1Fh/9oACAEBAAY/Alhk1kaKlS/pBvovON2cYktkf//EABoQAQEBAQADAAAAAAAAAAAAAAERAGFBgZH/2gAIAQEAAT8hExPEe5Z71ZlFUq+sHKBLdwfXG1Agb//aAAwDAQACAAMAAAAQtA//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAdEAEAAwABBQAAAAAAAAAAAAABABEhYTFBUYHw/9oACAEBAAE/EHTcqoFtNl7dEFV2rmJwXh1UbKESCRR6eYvj8XMqZB4AYT//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;./creative_algorithms.002.jpeg&quot;
+        title=&quot;&quot;
+        src=&quot;/static/547ba681c2584c7ea6f661a60c76dab1/6a068/creative_algorithms.002.jpg&quot;
+        srcset=&quot;/static/547ba681c2584c7ea6f661a60c76dab1/09b79/creative_algorithms.002.jpg 240w,
+/static/547ba681c2584c7ea6f661a60c76dab1/7cc5e/creative_algorithms.002.jpg 480w,
+/static/547ba681c2584c7ea6f661a60c76dab1/6a068/creative_algorithms.002.jpg 960w,
+/static/547ba681c2584c7ea6f661a60c76dab1/644c5/creative_algorithms.002.jpg 1440w,
+/static/547ba681c2584c7ea6f661a60c76dab1/0f98f/creative_algorithms.002.jpg 1920w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/76dad0e47e9eeb169321917f95c4923f/0f98f/creative_algorithms.003.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd2LgD//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAEFAl//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAaEAACAgMAAAAAAAAAAAAAAAAAARAxESGR/9oACAEBAAE/IXZtO+icYj//2gAMAwEAAgADAAAAEODP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QJ//EABoQAQEBAAMBAAAAAAAAAAAAAAERACExcRD/2gAIAQEAAT8QTUXzMXLnrKFie6FsyHsvz//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;./creative_algorithms.003.jpeg&quot;
+        title=&quot;&quot;
+        src=&quot;/static/76dad0e47e9eeb169321917f95c4923f/6a068/creative_algorithms.003.jpg&quot;
+        srcset=&quot;/static/76dad0e47e9eeb169321917f95c4923f/09b79/creative_algorithms.003.jpg 240w,
+/static/76dad0e47e9eeb169321917f95c4923f/7cc5e/creative_algorithms.003.jpg 480w,
+/static/76dad0e47e9eeb169321917f95c4923f/6a068/creative_algorithms.003.jpg 960w,
+/static/76dad0e47e9eeb169321917f95c4923f/644c5/creative_algorithms.003.jpg 1440w,
+/static/76dad0e47e9eeb169321917f95c4923f/0f98f/creative_algorithms.003.jpg 1920w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9c508040b8c3a455a5551b4284830741/0f98f/creative_algorithms.004.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBBAX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAG7oLI4B//EABoQAAICAwAAAAAAAAAAAAAAAAECAAMEEEH/2gAIAQEAAQUCsy0rfRrQns//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAACAwEAAAAAAAAAAAAAAAABAgAQEYH/2gAIAQEABj8CKkNovSinkNf/xAAcEAEAAgEFAAAAAAAAAAAAAAABADEQEUFRYYH/2gAIAQEAAT8h6rg0l84RIHdEQ8IVP//aAAwDAQACAAMAAAAQgw//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAbEAEAAwADAQAAAAAAAAAAAAABABEhMVFhgf/aAAgBAQABPxBSRQXDi+/Y2rMJ3C62c8Ikl+1FZQQAT//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;./creative_algorithms.004.jpeg&quot;
+        title=&quot;&quot;
+        src=&quot;/static/9c508040b8c3a455a5551b4284830741/6a068/creative_algorithms.004.jpg&quot;
+        srcset=&quot;/static/9c508040b8c3a455a5551b4284830741/09b79/creative_algorithms.004.jpg 240w,
+/static/9c508040b8c3a455a5551b4284830741/7cc5e/creative_algorithms.004.jpg 480w,
+/static/9c508040b8c3a455a5551b4284830741/6a068/creative_algorithms.004.jpg 960w,
+/static/9c508040b8c3a455a5551b4284830741/644c5/creative_algorithms.004.jpg 1440w,
+/static/9c508040b8c3a455a5551b4284830741/0f98f/creative_algorithms.004.jpg 1920w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9cd815be9c161260d53ec0b3d61836f8/0f98f/creative_algorithms.005.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAGy9Tjo0P/EABoQAAICAwAAAAAAAAAAAAAAAAIDAAQQESH/2gAIAQEAAQUCbcBbMFXUZa7P/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAgIDAAAAAAAAAAAAAAAAAQIAEBESIf/aAAgBAQAGPwIoQ3JmtmQEwV//xAAaEAEAAwEBAQAAAAAAAAAAAAABABExUSFB/9oACAEBAAE/IVU3ipd6aTuQfI8SNYij5ADJ/9oADAMBAAIAAwAAABATD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABwQAQACAgMBAAAAAAAAAAAAAAEAESExQVFhcf/aAAgBAQABPxBuZguJxffsKQCJPhAplfZs1WXbxBiKBVGtQChRP//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;./creative_algorithms.005.jpeg&quot;
+        title=&quot;&quot;
+        src=&quot;/static/9cd815be9c161260d53ec0b3d61836f8/6a068/creative_algorithms.005.jpg&quot;
+        srcset=&quot;/static/9cd815be9c161260d53ec0b3d61836f8/09b79/creative_algorithms.005.jpg 240w,
+/static/9cd815be9c161260d53ec0b3d61836f8/7cc5e/creative_algorithms.005.jpg 480w,
+/static/9cd815be9c161260d53ec0b3d61836f8/6a068/creative_algorithms.005.jpg 960w,
+/static/9cd815be9c161260d53ec0b3d61836f8/644c5/creative_algorithms.005.jpg 1440w,
+/static/9cd815be9c161260d53ec0b3d61836f8/0f98f/creative_algorithms.005.jpg 1920w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;setup&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; 
+&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; 
+  &lt;span class=&quot;token function&quot;&gt;size&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;800&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;600&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; 
+  &lt;span class=&quot;token function&quot;&gt;noFill&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; 
+  &lt;span class=&quot;token function&quot;&gt;stroke&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;255&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; 
+  &lt;span class=&quot;token function&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;draw&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; 
+&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;int&lt;/span&gt; unitSize &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;int&lt;/span&gt; arcSize &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; unitSize &lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  
+  &lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;float&lt;/span&gt; y &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; y &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt; height&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; y &lt;span class=&quot;token operator&quot;&gt;+=&lt;/span&gt; unitSize&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;float&lt;/span&gt; x &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; x &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt; width&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; x &lt;span class=&quot;token operator&quot;&gt;+=&lt;/span&gt; unitSize&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+			&lt;span class=&quot;token function&quot;&gt;arc&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;x &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; unitSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; y &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; unitSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; arcSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; arcSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; PI&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; PI &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; HALF_PI&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/60fc4c9e51e01061053c8e129bf98eb2/0f98f/creative_algorithms.006.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAFmo6ALB//EABsQAAIBBQAAAAAAAAAAAAAAAAEDAgAEEBFB/9oACAEBAAEFAmruSyGxAV3H/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHBAAAAYDAAAAAAAAAAAAAAAAAAECERIhICIx/9oACAEBAAY/AlRM4vWwS/WvH//EABkQAQEBAQEBAAAAAAAAAAAAAAEAETFBUf/aAAgBAQABPyF73PggRvI69lp5ITDGOF//2gAMAwEAAgADAAAAEMMP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGxABAAMBAQEBAAAAAAAAAAAAAQARITFhcVH/2gAIAQEAAT8QBdQgyPl5LJgaU3Qv7sXoqzsUMNu/Y8Pi15DRH5P/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;./creative_algorithms.006.jpeg&quot;
+        title=&quot;&quot;
+        src=&quot;/static/60fc4c9e51e01061053c8e129bf98eb2/6a068/creative_algorithms.006.jpg&quot;
+        srcset=&quot;/static/60fc4c9e51e01061053c8e129bf98eb2/09b79/creative_algorithms.006.jpg 240w,
+/static/60fc4c9e51e01061053c8e129bf98eb2/7cc5e/creative_algorithms.006.jpg 480w,
+/static/60fc4c9e51e01061053c8e129bf98eb2/6a068/creative_algorithms.006.jpg 960w,
+/static/60fc4c9e51e01061053c8e129bf98eb2/644c5/creative_algorithms.006.jpg 1440w,
+/static/60fc4c9e51e01061053c8e129bf98eb2/0f98f/creative_algorithms.006.jpg 1920w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// type a&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;arc&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;x &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; unitSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; y&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; arcSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; arcSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; HALF_PI&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; PI&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+          
+&lt;span class=&quot;token comment&quot;&gt;// type b&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;arc&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;x&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; y&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; arcSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; arcSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; HALF_PI&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+          
+&lt;span class=&quot;token comment&quot;&gt;// type c&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;arc&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;x &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; unitSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; y &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; unitSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; arcSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; arcSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; PI&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; PI &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; HALF_PI&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+          
+&lt;span class=&quot;token comment&quot;&gt;// type d&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;arc&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;x&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; y &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; unitSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; arcSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; arcSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; PI &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; HALF_PI&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; TWO_PI&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6c1d55f07506d593242fedfbae45210f/0f98f/creative_algorithms.007.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABs6mhSBg//8QAGxAAAQQDAAAAAAAAAAAAAAAAAwABAhEEEEH/2gAIAQEAAQUCKPJckLaF66v/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAcEAABAwUAAAAAAAAAAAAAAAARAQIhABIgIjH/2gAIAQEABj8CdaqgxtTT0Tj/AP/EABkQAQADAQEAAAAAAAAAAAAAAAEAEBFRgf/aAAgBAQABPyF73eCAjaR6h1WU/9oADAMBAAIAAwAAABDQz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABwQAQADAAIDAAAAAAAAAAAAAAEAESEQMUFRcf/aAAgBAQABPxAF1iDI+Xko2jSr03fMWqpZwh1eHuABk//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;./creative_algorithms.007.jpeg&quot;
+        title=&quot;&quot;
+        src=&quot;/static/6c1d55f07506d593242fedfbae45210f/6a068/creative_algorithms.007.jpg&quot;
+        srcset=&quot;/static/6c1d55f07506d593242fedfbae45210f/09b79/creative_algorithms.007.jpg 240w,
+/static/6c1d55f07506d593242fedfbae45210f/7cc5e/creative_algorithms.007.jpg 480w,
+/static/6c1d55f07506d593242fedfbae45210f/6a068/creative_algorithms.007.jpg 960w,
+/static/6c1d55f07506d593242fedfbae45210f/644c5/creative_algorithms.007.jpg 1440w,
+/static/6c1d55f07506d593242fedfbae45210f/0f98f/creative_algorithms.007.jpg 1920w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ff33a314fc0793f23f2cc7bc670c4674/0f98f/creative_algorithms.008.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQG/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABsTdVmGRIf//EABwQAAICAgMAAAAAAAAAAAAAAAIDAAEFEBMUMf/aAAgBAQABBQLIGY3zNleOUDJ1E6//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAeEAABBAEFAAAAAAAAAAAAAAABAAIQERIyM3GRof/aAAgBAQAGPwJmLiOCtx/cDMXS0ex//8QAGxAAAQQDAAAAAAAAAAAAAAAAAAERITFh8PH/2gAIAQEAAT8hna3eBzvSsX8Ek1qEo//aAAwDAQACAAMAAAAQYM//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAcEAEAAwACAwAAAAAAAAAAAAABABExIfBBYcH/2gAIAQEAAT8QJRRzHg2p2r7GtpzRFU2HQq6vGcuOvuAAGBP/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;./creative_algorithms.008.jpeg&quot;
+        title=&quot;&quot;
+        src=&quot;/static/ff33a314fc0793f23f2cc7bc670c4674/6a068/creative_algorithms.008.jpg&quot;
+        srcset=&quot;/static/ff33a314fc0793f23f2cc7bc670c4674/09b79/creative_algorithms.008.jpg 240w,
+/static/ff33a314fc0793f23f2cc7bc670c4674/7cc5e/creative_algorithms.008.jpg 480w,
+/static/ff33a314fc0793f23f2cc7bc670c4674/6a068/creative_algorithms.008.jpg 960w,
+/static/ff33a314fc0793f23f2cc7bc670c4674/644c5/creative_algorithms.008.jpg 1440w,
+/static/ff33a314fc0793f23f2cc7bc670c4674/0f98f/creative_algorithms.008.jpg 1920w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;setup&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; 
+&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; 
+  &lt;span class=&quot;token function&quot;&gt;size&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;800&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;600&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; 
+  &lt;span class=&quot;token function&quot;&gt;noFill&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; 
+  &lt;span class=&quot;token function&quot;&gt;stroke&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;255&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; 
+  &lt;span class=&quot;token function&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;draw&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; 
+&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;int&lt;/span&gt; unitSize &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;int&lt;/span&gt; arcSize &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; unitSize &lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  
+  &lt;span class=&quot;token comment&quot;&gt;// 랜덤 초기화 - 초기값 0으로 설정&lt;/span&gt;
+  &lt;span class=&quot;token function&quot;&gt;randomSeed&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  
+  &lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;float&lt;/span&gt; y &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; y &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt; height&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; y &lt;span class=&quot;token operator&quot;&gt;+=&lt;/span&gt; unitSize&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;float&lt;/span&gt; x &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; x &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt; width&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; x &lt;span class=&quot;token operator&quot;&gt;+=&lt;/span&gt; unitSize&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+ 
+      &lt;span class=&quot;token keyword&quot;&gt;int&lt;/span&gt; type &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;random&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      
+      &lt;span class=&quot;token keyword&quot;&gt;switch&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;type&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;case&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;
+          &lt;span class=&quot;token comment&quot;&gt;// type a&lt;/span&gt;
+          &lt;span class=&quot;token function&quot;&gt;arc&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;x &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; unitSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; y&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; arcSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; arcSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; HALF_PI&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; PI&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+          &lt;span class=&quot;token keyword&quot;&gt;break&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;case&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;
+          &lt;span class=&quot;token comment&quot;&gt;// type b&lt;/span&gt;
+          &lt;span class=&quot;token function&quot;&gt;arc&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;x&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; y&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; arcSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; arcSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; HALF_PI&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+          &lt;span class=&quot;token keyword&quot;&gt;break&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;case&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;
+          &lt;span class=&quot;token comment&quot;&gt;// type c&lt;/span&gt;
+          &lt;span class=&quot;token function&quot;&gt;arc&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;x &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; unitSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; y &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; unitSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; arcSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; arcSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; PI&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; PI &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; HALF_PI&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+          &lt;span class=&quot;token keyword&quot;&gt;break&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;case&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;
+          &lt;span class=&quot;token comment&quot;&gt;// type d&lt;/span&gt;
+          &lt;span class=&quot;token function&quot;&gt;arc&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;x&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; y &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; unitSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; arcSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; arcSize&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; PI &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; HALF_PI&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; TWO_PI&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+          &lt;span class=&quot;token keyword&quot;&gt;break&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;References&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://mcachicago.org/Collection/Items/1981/Sol-Le-Witt-Wall-Drawing-No-358-A-12-1981&quot;&gt;Sol LeWitt, Wall Drawing No. 358: A 12 (30 cm) Grid Covering the Wall. Within Each 12 (30 cm) Square, One Arc from the Corner. (The direction of the arcs and their placement are determined by the draftsman.), 1981&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[발행테스트]]></title><description><![CDATA[This starter has been forked and upgraded to Gatsby v2]]></description><link>https://thenewpark.github.io/playground//posts/publish test/</link><guid isPermaLink="false">https://thenewpark.github.io/playground//posts/publish test/</guid><pubDate>Wed, 09 Sep 2020 16:51:00 GMT</pubDate><content:encoded>&lt;p&gt;발행테스트입니다.
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
