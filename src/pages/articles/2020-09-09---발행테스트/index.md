@@ -3,7 +3,7 @@
 title: 발행테스트
 date: "2020-09-09T16:51:00.000Z"
 layout: post
-draft: false
+draft: true
 path: "/posts/publish test/"
 category: "Gatsby"
 tags:
