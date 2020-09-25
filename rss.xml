@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[thenewpark playground]]></title><description><![CDATA[Everyday life as a playground]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 25 Sep 2020 06:37:29 GMT</lastBuildDate><item><title><![CDATA[[doodledCS ep0-1] What is CS?]]></title><description><![CDATA[문제를 해결하기 위해 컴퓨터와 이야기하는 방법]]></description><link>https://thenewpark.github.io/playground//posts/doodledcs-00-01</link><guid isPermaLink="false">https://thenewpark.github.io/playground//posts/doodledcs-00-01</guid><pubDate>Fri, 25 Sep 2020 06:30:28 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;‘doodledCS’는 하버드 오픈 코스웨어 CS50을 기본으로 학습한 내용을 그림으로 다시 기록하는 시리즈입니다.제가 학교에서 배운 내용 약간, 혹은 그때그때 보충 자료로 읽는 책들에서 약간씩의 내용을 더할 수 있습니다. 잘못된 내용은 언제든지 피드백 주시면 올바르게 배워나가는 데에 도움이 될 것 같습니다 :)&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[thenewpark playground]]></title><description><![CDATA[Everyday life as a playground]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 25 Sep 2020 11:24:23 GMT</lastBuildDate><item><title><![CDATA[[doodledCS ep0-1] What is CS?]]></title><description><![CDATA[문제를 해결하기 위해 컴퓨터와 이야기하는 방법]]></description><link>https://thenewpark.github.io/playground//posts/doodledcs-00-01</link><guid isPermaLink="false">https://thenewpark.github.io/playground//posts/doodledcs-00-01</guid><pubDate>Fri, 25 Sep 2020 06:30:28 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;‘doodledCS’는 하버드 오픈 코스웨어 CS50을 기본으로 학습한 내용을 그림으로 다시 기록하는 시리즈입니다.제가 학교에서 배운 내용 약간, 혹은 그때그때 보충 자료로 읽는 책들에서 약간씩의 내용을 더할 수 있습니다. 잘못된 내용은 언제든지 피드백 주시면 올바르게 배워나가는 데에 도움이 될 것 같습니다 :)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -70,7 +70,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/8d48ce10e7ef31658cbb94e4945fd5b3/72e01/cs%20doodled.003.jpg&quot;
+    href=&quot;/static/0c3b0b32084a46be05f1999a9c5b9400/72e01/cs%20doodled.001%202-1032651.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -87,13 +87,13 @@
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;cs doodled.003&quot;
+        alt=&quot;cs doodled.001 2&quot;
         title=&quot;&quot;
-        src=&quot;/static/8d48ce10e7ef31658cbb94e4945fd5b3/6a068/cs%20doodled.003.jpg&quot;
-        srcset=&quot;/static/8d48ce10e7ef31658cbb94e4945fd5b3/09b79/cs%20doodled.003.jpg 240w,
-/static/8d48ce10e7ef31658cbb94e4945fd5b3/7cc5e/cs%20doodled.003.jpg 480w,
-/static/8d48ce10e7ef31658cbb94e4945fd5b3/6a068/cs%20doodled.003.jpg 960w,
-/static/8d48ce10e7ef31658cbb94e4945fd5b3/72e01/cs%20doodled.003.jpg 1024w&quot;
+        src=&quot;/static/0c3b0b32084a46be05f1999a9c5b9400/6a068/cs%20doodled.001%202-1032651.jpg&quot;
+        srcset=&quot;/static/0c3b0b32084a46be05f1999a9c5b9400/09b79/cs%20doodled.001%202-1032651.jpg 240w,
+/static/0c3b0b32084a46be05f1999a9c5b9400/7cc5e/cs%20doodled.001%202-1032651.jpg 480w,
+/static/0c3b0b32084a46be05f1999a9c5b9400/6a068/cs%20doodled.001%202-1032651.jpg 960w,
+/static/0c3b0b32084a46be05f1999a9c5b9400/72e01/cs%20doodled.001%202-1032651.jpg 1024w&quot;
         sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
       /&gt;
     &lt;/span&gt;
@@ -104,7 +104,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f950358e1e7e0e5897e74b82e3783ee0/72e01/cs%20doodled.004.jpg&quot;
+    href=&quot;/static/f200a389a1a651f25eea1afb86b7f199/72e01/cs%20doodled.002%202.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -121,13 +121,13 @@
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;cs doodled.004&quot;
+        alt=&quot;cs doodled.002 2&quot;
         title=&quot;&quot;
-        src=&quot;/static/f950358e1e7e0e5897e74b82e3783ee0/6a068/cs%20doodled.004.jpg&quot;
-        srcset=&quot;/static/f950358e1e7e0e5897e74b82e3783ee0/09b79/cs%20doodled.004.jpg 240w,
-/static/f950358e1e7e0e5897e74b82e3783ee0/7cc5e/cs%20doodled.004.jpg 480w,
-/static/f950358e1e7e0e5897e74b82e3783ee0/6a068/cs%20doodled.004.jpg 960w,
-/static/f950358e1e7e0e5897e74b82e3783ee0/72e01/cs%20doodled.004.jpg 1024w&quot;
+        src=&quot;/static/f200a389a1a651f25eea1afb86b7f199/6a068/cs%20doodled.002%202.jpg&quot;
+        srcset=&quot;/static/f200a389a1a651f25eea1afb86b7f199/09b79/cs%20doodled.002%202.jpg 240w,
+/static/f200a389a1a651f25eea1afb86b7f199/7cc5e/cs%20doodled.002%202.jpg 480w,
+/static/f200a389a1a651f25eea1afb86b7f199/6a068/cs%20doodled.002%202.jpg 960w,
+/static/f200a389a1a651f25eea1afb86b7f199/72e01/cs%20doodled.002%202.jpg 1024w&quot;
         sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
       /&gt;
     &lt;/span&gt;
@@ -849,40 +849,12 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/8486e387c54856c3429e6c16db31a9f2/72e01/cs%20doodled.026.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAEEBQP/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHaTVLIJ4hng//EABkQAAMBAQEAAAAAAAAAAAAAAAABAgMRE//aAAgBAQABBQLhLTKKXYwx8nR01prNaWf/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAaEAADAQADAAAAAAAAAAAAAAAAAREQIjEy/9oACAEBAAY/ArTtPIPkndZ6P//EABsQAAMBAQEBAQAAAAAAAAAAAAABESExQXGR/9oACAEBAAE/IW04IdufKYeFGpVNNrA8w6wocC6vRr1+I//aAAwDAQACAAMAAAAQgwA8/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPxAf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAHRABAAMAAgMBAAAAAAAAAAAAAQARIUFRMYGR0f/aAAgBAQABPxDREi1SBFd2M+TGYK4gNG2Hw0hqGAxYr3EJtZXdygrEM0lB4QlDNIE5U8fhP//Z&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;cs doodled.026&quot;
-        title=&quot;&quot;
-        src=&quot;/static/8486e387c54856c3429e6c16db31a9f2/6a068/cs%20doodled.026.jpg&quot;
-        srcset=&quot;/static/8486e387c54856c3429e6c16db31a9f2/09b79/cs%20doodled.026.jpg 240w,
-/static/8486e387c54856c3429e6c16db31a9f2/7cc5e/cs%20doodled.026.jpg 480w,
-/static/8486e387c54856c3429e6c16db31a9f2/6a068/cs%20doodled.026.jpg 960w,
-/static/8486e387c54856c3429e6c16db31a9f2/72e01/cs%20doodled.026.jpg 1024w&quot;
-        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Sol LeWitt's Wall Drawing]]></title><description><![CDATA[Creative Coding Study #1 - Sol LeWitt's Wall Drawing #358 in Processing]]></description><link>https://thenewpark.github.io/playground//posts/ccs-01-sol-lewitt-wall-drawing-358</link><guid isPermaLink="false">https://thenewpark.github.io/playground//posts/ccs-01-sol-lewitt-wall-drawing-358</guid><pubDate>Sat, 12 Sep 2020 04:25:32 GMT</pubDate><content:encoded>&lt;h1&gt;Recall Point&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../../Downloads/cs%20doodled.026.jpeg&quot; alt=&quot;cs doodled.026&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;수정 제보&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;3, 4번째 컷에서 Computer Science를 컴퓨터 ‘공학’으로 옮겼던 부분을, 컴퓨터 ‘과학’으로 정정했다.
+&lt;a href=&quot;https://mobile.twitter.com/taekie/status/1309434967227658243?s=20&quot;&gt;정정 의견을 주신&lt;/a&gt; 덕분에 새삼스럽게 ‘과학’과 ‘공학’의 차이도 찾아보게 되었다. 감사합니다. 🙏&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Sol LeWitt's Wall Drawing]]></title><description><![CDATA[Creative Coding Study #1 - Sol LeWitt's Wall Drawing #358 in Processing]]></description><link>https://thenewpark.github.io/playground//posts/ccs-01-sol-lewitt-wall-drawing-358</link><guid isPermaLink="false">https://thenewpark.github.io/playground//posts/ccs-01-sol-lewitt-wall-drawing-358</guid><pubDate>Sat, 12 Sep 2020 04:25:32 GMT</pubDate><content:encoded>&lt;h1&gt;Recall Point&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;arc() 에서 각 파라미터가 의미하는 바&lt;/li&gt;
 &lt;li&gt;Processing 시스템에서 각도 표시법 (0, π/2, π, 3/2*π, 2π)&lt;/li&gt;
