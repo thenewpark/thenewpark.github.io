@@ -17,9 +17,9 @@ description: "문제를 해결하기 위해 컴퓨터와 이야기하는 방법"
 
 ![cs doodled.002](cs doodled.002.jpeg)
 
-![cs doodled.003](cs doodled.003.jpeg)
+![cs doodled.001 2](cs doodled.001 2-1032651.jpeg)
 
-![cs doodled.004](cs doodled.004.jpeg)
+![cs doodled.002 2](cs doodled.002 2.jpeg)
 
 ![cs doodled.005](cs doodled.005.jpeg)
 
@@ -63,4 +63,11 @@ description: "문제를 해결하기 위해 컴퓨터와 이야기하는 방법"
 
 ![cs doodled.025](cs doodled.025.jpeg)
 
-![cs doodled.026](cs doodled.026.jpeg)
+![cs doodled.026](../../../../../Downloads/cs doodled.026.jpeg)
+
+
+
+### 수정 제보
+
+- 3, 4번째 컷에서 Computer Science를 컴퓨터 '공학'으로 옮겼던 부분을, 컴퓨터 '과학'으로 정정했다. 
+  [정정 의견을 주신](https://mobile.twitter.com/taekie/status/1309434967227658243?s=20) 덕분에 새삼스럽게 '과학'과 '공학'의 차이도 찾아보게 되었다. 감사합니다. 🙏
