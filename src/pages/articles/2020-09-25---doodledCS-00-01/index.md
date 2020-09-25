@@ -63,7 +63,7 @@ description: "문제를 해결하기 위해 컴퓨터와 이야기하는 방법"
 
 ![cs doodled.025](cs doodled.025.jpeg)
 
-![cs doodled.026](../../../../../Downloads/cs doodled.026.jpeg)
+![cs doodled.026](cs doodled.026-1033199.jpeg)
 
 
 
