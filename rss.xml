@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[thenewpark playground]]></title><description><![CDATA[Everyday life as a playground]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 25 Sep 2020 11:24:23 GMT</lastBuildDate><item><title><![CDATA[[doodledCS ep0-1] What is CS?]]></title><description><![CDATA[문제를 해결하기 위해 컴퓨터와 이야기하는 방법]]></description><link>https://thenewpark.github.io/playground//posts/doodledcs-00-01</link><guid isPermaLink="false">https://thenewpark.github.io/playground//posts/doodledcs-00-01</guid><pubDate>Fri, 25 Sep 2020 06:30:28 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;‘doodledCS’는 하버드 오픈 코스웨어 CS50을 기본으로 학습한 내용을 그림으로 다시 기록하는 시리즈입니다.제가 학교에서 배운 내용 약간, 혹은 그때그때 보충 자료로 읽는 책들에서 약간씩의 내용을 더할 수 있습니다. 잘못된 내용은 언제든지 피드백 주시면 올바르게 배워나가는 데에 도움이 될 것 같습니다 :)&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[thenewpark playground]]></title><description><![CDATA[Everyday life as a playground]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 25 Sep 2020 11:28:22 GMT</lastBuildDate><item><title><![CDATA[[doodledCS ep0-1] What is CS?]]></title><description><![CDATA[문제를 해결하기 위해 컴퓨터와 이야기하는 방법]]></description><link>https://thenewpark.github.io/playground//posts/doodledcs-00-01</link><guid isPermaLink="false">https://thenewpark.github.io/playground//posts/doodledcs-00-01</guid><pubDate>Fri, 25 Sep 2020 06:30:28 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;‘doodledCS’는 하버드 오픈 코스웨어 CS50을 기본으로 학습한 내용을 그림으로 다시 기록하는 시리즈입니다.제가 학교에서 배운 내용 약간, 혹은 그때그때 보충 자료로 읽는 책들에서 약간씩의 내용을 더할 수 있습니다. 잘못된 내용은 언제든지 피드백 주시면 올바르게 배워나가는 데에 도움이 될 것 같습니다 :)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -849,7 +849,40 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;../../../../../Downloads/cs%20doodled.026.jpeg&quot; alt=&quot;cs doodled.026&quot;&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8486e387c54856c3429e6c16db31a9f2/72e01/cs%20doodled.026-1033199.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAEEBQP/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHaTVLIJ4hng//EABkQAAMBAQEAAAAAAAAAAAAAAAABAgMRE//aAAgBAQABBQLhLTKKXYwx8nR01prNaWf/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAaEAADAQADAAAAAAAAAAAAAAAAAREQIjEy/9oACAEBAAY/ArTtPIPkndZ6P//EABsQAAMBAQEBAQAAAAAAAAAAAAABESExQXGR/9oACAEBAAE/IW04IdufKYeFGpVNNrA8w6wocC6vRr1+I//aAAwDAQACAAMAAAAQgwA8/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPxAf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAHRABAAMAAgMBAAAAAAAAAAAAAQARIUFRMYGR0f/aAAgBAQABPxDREi1SBFd2M+TGYK4gNG2Hw0hqGAxYr3EJtZXdygrEM0lB4QlDNIE5U8fhP//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;cs doodled.026&quot;
+        title=&quot;&quot;
+        src=&quot;/static/8486e387c54856c3429e6c16db31a9f2/6a068/cs%20doodled.026-1033199.jpg&quot;
+        srcset=&quot;/static/8486e387c54856c3429e6c16db31a9f2/09b79/cs%20doodled.026-1033199.jpg 240w,
+/static/8486e387c54856c3429e6c16db31a9f2/7cc5e/cs%20doodled.026-1033199.jpg 480w,
+/static/8486e387c54856c3429e6c16db31a9f2/6a068/cs%20doodled.026-1033199.jpg 960w,
+/static/8486e387c54856c3429e6c16db31a9f2/72e01/cs%20doodled.026-1033199.jpg 1024w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
 &lt;h3&gt;수정 제보&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;3, 4번째 컷에서 Computer Science를 컴퓨터 ‘공학’으로 옮겼던 부분을, 컴퓨터 ‘과학’으로 정정했다.
