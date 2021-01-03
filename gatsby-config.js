@@ -1,7 +1,7 @@
-const lost = require('lost')
-const pxtorem = require('postcss-pxtorem')
+const lost = require('lost');
+const pxtorem = require('postcss-pxtorem');
 
-const url = 'https://thenewpark.github.io/playground/'
+const url = 'https://thenewpark.github.io/playground/';
 
 module.exports = {
   siteMetadata: {
@@ -100,7 +100,7 @@ module.exports = {
           },
           {
             resolve: 'gatsby-remark-responsive-iframe',
-            options: { wrapperStyle: 'margin-bottom: 1.0725rem' },
+            options: { wrapperStyle: 'margin-bottom: 1.0725rem; max-width:40rem; margin-left:auto; margin-right:auto' },
           },
           'gatsby-remark-prismjs',
           'gatsby-remark-copy-linked-files',
@@ -161,4 +161,4 @@ module.exports = {
       },
     },
   ],
-}
+};
