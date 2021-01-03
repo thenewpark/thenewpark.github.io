@@ -1,4 +1,845 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[thenewpark playground]]></title><description><![CDATA[Everyday life as a playground]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 25 Sep 2020 11:28:22 GMT</lastBuildDate><item><title><![CDATA[[doodledCS ep0-1] What is CS?]]></title><description><![CDATA[문제를 해결하기 위해 컴퓨터와 이야기하는 방법]]></description><link>https://thenewpark.github.io/playground//posts/doodledcs-00-01</link><guid isPermaLink="false">https://thenewpark.github.io/playground//posts/doodledcs-00-01</guid><pubDate>Fri, 25 Sep 2020 06:30:28 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;‘doodledCS’는 하버드 오픈 코스웨어 CS50을 기본으로 학습한 내용을 그림으로 다시 기록하는 시리즈입니다.제가 학교에서 배운 내용 약간, 혹은 그때그때 보충 자료로 읽는 책들에서 약간씩의 내용을 더할 수 있습니다. 잘못된 내용은 언제든지 피드백 주시면 올바르게 배워나가는 데에 도움이 될 것 같습니다 :)&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[thenewpark playground]]></title><description><![CDATA[Everyday life as a playground]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 03 Jan 2021 16:36:28 GMT</lastBuildDate><item><title><![CDATA['커뮤니티'를 위한 컨퍼런스 - JSConf.Asia 2018]]></title><description><![CDATA[JSConf.Asia 2018 참석 후기]]></description><link>https://thenewpark.github.io/playground//posts/jsconf-asia-2018</link><guid isPermaLink="false">https://thenewpark.github.io/playground//posts/jsconf-asia-2018</guid><pubDate>Sun, 03 Jan 2021 16:19:13 GMT</pubDate><content:encoded>&lt;p&gt; 지난 1월 싱가포르에서 열린 JSConf.Asia 2018에 팀원들과 다녀왔습니다. 첫째/셋째 날에는 세션, 둘째 날에는 워크샵으로 구성된 3일간의 일정이었습니다.&lt;/p&gt;
+&lt;p&gt; 자세한 일정은 &lt;a href=&quot;https://2018.jsconf.asia/&quot;&gt;공식 홈페이지&lt;/a&gt;에서 확인하실 수 있고, 첫째 날 Code in the dark 이벤트와 둘째 날 워크샵들 이외에 모든 세션은 &lt;a href=&quot;https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA&quot;&gt;JSConf youtube 채널&lt;/a&gt;에 속속 올라오고 있습니다. &lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;‘커뮤니티’를 위한 컨퍼런스&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ddc8d5f622d79ec512020426a58be6d4/3acf0/62DDBA93-DE48-4438-A9DE-F59FF9B04CBE.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHOqzqYQLD/xAAZEAADAQEBAAAAAAAAAAAAAAAAAQIDETH/2gAIAQEAAQUCyjlaKHCzJbPRtn//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAbEAABBAMAAAAAAAAAAAAAAAABAAIREiAhMf/aAAgBAQAGPwKXcRqN4//EABgQAQEBAQEAAAAAAAAAAAAAAAERADGR/9oACAEBAAE/ISbwYkQjNG9uBxdWBV53Vdd//9oADAMBAAIAAwAAABAcP//EABURAQEAAAAAAAAAAAAAAAAAABAh/9oACAEDAQE/EIf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPxBH/8QAGhABAAMBAQEAAAAAAAAAAAAAAQARITFB0f/aAAgBAQABPxDaZCVp7kwfwWZcIBsUy2MFL3GNAylpaXs+tT//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;img&quot;
+        title=&quot;&quot;
+        src=&quot;/static/ddc8d5f622d79ec512020426a58be6d4/6a068/62DDBA93-DE48-4438-A9DE-F59FF9B04CBE.jpg&quot;
+        srcset=&quot;/static/ddc8d5f622d79ec512020426a58be6d4/09b79/62DDBA93-DE48-4438-A9DE-F59FF9B04CBE.jpg 240w,
+/static/ddc8d5f622d79ec512020426a58be6d4/7cc5e/62DDBA93-DE48-4438-A9DE-F59FF9B04CBE.jpg 480w,
+/static/ddc8d5f622d79ec512020426a58be6d4/6a068/62DDBA93-DE48-4438-A9DE-F59FF9B04CBE.jpg 960w,
+/static/ddc8d5f622d79ec512020426a58be6d4/644c5/62DDBA93-DE48-4438-A9DE-F59FF9B04CBE.jpg 1440w,
+/static/ddc8d5f622d79ec512020426a58be6d4/0f98f/62DDBA93-DE48-4438-A9DE-F59FF9B04CBE.jpg 1920w,
+/static/ddc8d5f622d79ec512020426a58be6d4/3acf0/62DDBA93-DE48-4438-A9DE-F59FF9B04CBE.jpg 2000w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt; 컨퍼런스라는 게 사실 세션들에서 ‘배우러’ 간다기보다는 네트워킹 하러 가는 거라고들 하지만, 국내 컨퍼런스에서는 네트워킹이 실제로 엄청 활발히 이루어지기보다는 세션 자체에서 얼마큼 배울 수 있는 지가 중요하게 느껴지는 때가 많았는데요(물론 모든 컨퍼런스가 그렇다는 건 아니지만). JSConf.Asia는 오프닝부터 줄기차게, 대놓고 ’&lt;strong&gt;좋은 사람들을 만날 수 있는 곳&lt;/strong&gt;‘으로써 컨퍼런스의 가치를 말하는 게 인상적이었습니다.&lt;/p&gt;
+&lt;p&gt; 사전에 컨퍼런스 참여자들에게서 받은 설문에서도 이 컨퍼런스에 참여하는 목적 중 가장 많은 응답이 ‘best place to meet great people’ 였고, 오거나이저들은 점심시간이나 커피타임을 안내할 때마다 아예 같이 온 친구들이랑 놀지 말고 새로운 사람들이랑 얘기하라고 공지(?)처럼 말하곤 했거든요. Code in the dark나 워크샵을 포함한 컨퍼런스 내 여러 이벤트들도 지식적인 걸 더 많이 배우기보다는 더 많이 ‘서로를’ 알고 이야기하고 즐길 수 있도록 하기 위해 기획된 것으로 보였구요. 그렇게 실제로 기획된 것들에는 아래와 같은 게 있었고, 이 컨퍼런스의 목표는 ‘커뮤니티’를 만들고 서로 공감하는 데에 있구나 싶은 때가 많았습니다.&lt;/p&gt;
+&lt;h3&gt;1 오프닝 퀴즈쇼 JavaScript Feud&lt;/h3&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0707a7724e9f625989bf10e59c041276/d2602/A23D0BA9-4873-469C-A0E4-53DC36771F4D.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAE/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/2gAMAwEAAhADEAAAAQXCdtGuMqP/xAAaEAEAAgMBAAAAAAAAAAAAAAABAAIDEyEx/9oACAEBAAEFAj0oBA7svHNef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABcRAAMBAAAAAAAAAAAAAAAAAAABAhL/2gAIAQIBAT8BilJpM//EABkQAAMAAwAAAAAAAAAAAAAAAAABIRAxkf/aAAgBAQAGPwJEWEbXCH//xAAcEAEAAgEFAAAAAAAAAAAAAAABABExIVFxgaH/2gAIAQEAAT8hNluyiGdQh3Yr2YEkS66OCf/aAAwDAQACAAMAAAAQ0M//xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8QhX//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREx/9oACAECAQE/EGTpqP/EABwQAQEAAgIDAAAAAAAAAAAAAAERAEEhUTGBof/aAAgBAQABPxAnCgCe8k3joH3KmFNaibq76yCHHycrz25XROE2Z//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;img&quot;
+        title=&quot;&quot;
+        src=&quot;/static/0707a7724e9f625989bf10e59c041276/6a068/A23D0BA9-4873-469C-A0E4-53DC36771F4D.jpg&quot;
+        srcset=&quot;/static/0707a7724e9f625989bf10e59c041276/09b79/A23D0BA9-4873-469C-A0E4-53DC36771F4D.jpg 240w,
+/static/0707a7724e9f625989bf10e59c041276/7cc5e/A23D0BA9-4873-469C-A0E4-53DC36771F4D.jpg 480w,
+/static/0707a7724e9f625989bf10e59c041276/6a068/A23D0BA9-4873-469C-A0E4-53DC36771F4D.jpg 960w,
+/static/0707a7724e9f625989bf10e59c041276/644c5/A23D0BA9-4873-469C-A0E4-53DC36771F4D.jpg 1440w,
+/static/0707a7724e9f625989bf10e59c041276/0f98f/A23D0BA9-4873-469C-A0E4-53DC36771F4D.jpg 1920w,
+/static/0707a7724e9f625989bf10e59c041276/d2602/A23D0BA9-4873-469C-A0E4-53DC36771F4D.jpg 4032w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0458d1776c7eb619b2f4ca565d1f5999/66caf/_2018-02-14__1.02.10.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 853px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 57.50000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAAC9ElEQVQoz22T228UVRzH57qzM7M7szu3nb2VXXZboagpFhJjSBQwqDEx8FLrPfWSCLQYUrFELgEvoUZRLAgJPkhi1NgHjRJAoz5ou0tpGxL5A0gM+uQf8fG3CwkvPnxyMjkn3/M533NG8dNNFNItFOKniSq7qDYmCEov4YU9XsQPXxCe7+OFz8o4jh88RyF6jCB5nCgZk7FFlJaISwmKET2KKYsNd55i+TxDw0u4hUUU5Rqq2ZUFXVSj00cxFmX8HVVfQbPOYLnncHMdLG8UN4hwixKoxU9hRGOYwX4y4V7c5DDF2gyFygym/5ZwANObxszvF94QJsnkp8h44zjBGPnwVbLFe3HCNeSCARGJxzDivWT87yXkAq31yzSG/qDWXJDdronVkphe7aOZHWEBzegZnidX/FyOuSgbPowdNrGDVi/wZdT4dbTgmJgewk0/wEnfwy69i187TjY+hpo/iu4dwfDeFmaEg8IrEjBBPt6HFTxINhwmG6zrBe5Gjw9hFS7Lcb+lOXid5j1dKmuWqK/tymWJpb6KmllGMZf6varmdVTrAl70BZV6F8N/Aju+T0Lv7wVOocXT6OFHYnhCzM5ip5/ilE8JJ1H8j1G8D1G9WeF9NO+48A66v49MsEf6m5bArZjFjWI60gvcI4aHxfASbmmexuAqA+2uPB8xbF8lk1uVHnuGK7ctM1108wZ69iv8eJ5a4yZ2Is+o/ghO8hCKKh1o0QG04knMeFb6Oyec6ePVTmMEn4nhaVT/lBiKsfcJfnWCZP1O6g9MUt0wQam+g+3bfqC9YVIMpVgjeVPUfySffi232zNclB47smBB3qRY6X+KnVhay/2bHxjtkG8+STkpMzzURlUsHLtKMR1FKVd+Q3V+Qcn+JPwsR7pyF1PIXhG7ORT7EopzUb4vk7RmqY7sYt3mnWwd/5Vc+TVcr0FQfgZl49BNdOsv2flv+QP+B+0fCfpO5m/d4V9s5xvpb4q0PUdr8wpJ+yKDI19SXjvHf4BrjLxVJc3sAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;img&quot;
+        title=&quot;&quot;
+        src=&quot;/static/0458d1776c7eb619b2f4ca565d1f5999/66caf/_2018-02-14__1.02.10.png&quot;
+        srcset=&quot;/static/0458d1776c7eb619b2f4ca565d1f5999/8ff5a/_2018-02-14__1.02.10.png 240w,
+/static/0458d1776c7eb619b2f4ca565d1f5999/e85cb/_2018-02-14__1.02.10.png 480w,
+/static/0458d1776c7eb619b2f4ca565d1f5999/66caf/_2018-02-14__1.02.10.png 853w&quot;
+        sizes=&quot;(max-width: 853px) 100vw, 853px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;개발자라는 걸 슬프게 하는 이유가 있다면?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; 특이하게 오프닝에서 퀴즈쇼를 진행하였는데요. 컨퍼런스 신청할 때같이 답변을 받았던 설문 내용을 질문으로 만들어서, 참가하고 싶은 사람은 무대 위로 올라가서 참가하는 식이었습니다. 개발자들이면 공감&amp;#x26;재밌게 볼 질문들이 많아서 앉은 자리에서도 맞춰보거나 답이 나왔을 때 오 맞아맞아 하거나 하면서 봤어요.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;요런 질문들이 있었습니다.&lt;br&gt;
+Q. 가장 최근에 내가 진행한 프로젝트에는 너무 많은 _&lt;strong&gt;_ 가 있었다.&lt;br&gt;
+Q. 나의 가장 안 좋은 코딩 습관은?&lt;br&gt;
+Q. 개발자라는 걸 슬프게 하는 이유가 있다면?&lt;br&gt;
+Q. 나는 __&lt;/strong&gt; 할 때 가장 일이 잘 된다.&lt;br&gt;
+Q. 일주일 동안 마시는 커피 수는?&lt;br&gt;
+Q. 새로 프론트엔드를 구성할 때 나는 ____ 를 쓴다.    &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;2 Code in the dark&lt;/h3&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem; max-width:40rem; margin-left:auto; margin-right:auto&quot; &gt; &lt;iframe src=&quot;https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=2EB2EC24DC3FBED23F184942ABB4CE7E0336&amp;amp;outKey=V125b1bf05e1f017f2a2d84e49b65315d787cfa22a438f9f108e984e49b65315d787c&quot; frameborder=&quot;no&quot; scrolling=&quot;no&quot; title=&quot;NaverVideo&quot; allow=&quot;autoplay; gyroscope; accelerometer; encrypted-media&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;p&gt;&lt;em&gt;세상에서 가장 건전한 클럽 이벤트&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; Code in the dark는 JSConf와 별도로 정기 개최되는 이벤트입니다. 이번에는 시기를 맞추어서 제휴(?) 식으로 함께 개최한 것 같아요. Code in the dark 자체는 싱가포르 이외에 다른 나라들에서도 열리는 이벤트입니다. 자세한 내용은 &lt;a href=&quot;http://codeinthedark.com/&quot;&gt;공식 홈페이지&lt;/a&gt;를 참고해주세요.&lt;/p&gt;
+&lt;p&gt; 간단하게는 이렇습니다.
+- 완성된 웹페이지 스크린샷만 보고
+- 15분 동안
+- HTML/CSS 코드 편집 창만 보고(preview 없이) 최대한 똑같이 만들어서
+- 가장 똑같이 만든 한 사람이 이기는 토너먼트 형식의 이벤트&lt;/p&gt;
+&lt;p&gt; 컨퍼런스 안내 메일로 전송된 링크를 통해서 미리 참가신청을 할 수 있었고, 현장에서 토너먼트 표가 짜였습니다. 클럽에서, 체크무늬 셔츠를 챙겨 입은 개발자들과 함께, 매우 건전하게 진행되었어요. 참고로 지난해 우승자는 table로 레이아웃 짜고, 인라인 스타일로 모두 때려 박아서 결승까지 진출하여 우승 상품을 따갔다고 하더랍니다. 정말 재미로 하는 이벤트라 코드의 품질이라든지 이런 건 전혀 상관없고 무조건 이미지랑 가장 똑같이 보이게 만들면 이기는 게임이었어요. 그런 와중에 &lt;a href=&quot;https://github.com/codeinthedark/editor&quot;&gt;공식 에디터&lt;/a&gt;까지 만들어서 사용하더라구요!&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5d308b61c6021db1a43f4623ebd12075/e1b7c/f3aedfbe-9790-11e5-9ad9-ce930fe5a3a8.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.666666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABYElEQVQoz51SS07DMBR0Pnbs2HGapGlDW2hpJVqJP0JC7JBYwhmQWLABIZVlu2DFurcBbgJcAMQtBiegItQP0MVsnsfz5s17xKYOVEkgTiQIIQtDRhppswbiMBdeqBAaUctaQOzrj9qoIzrqglBGQVIBZRwyn44Jru9BpBpeSYInQQEvVqYWFrVJYQuWbYH4QoBIalxyUEpM8ZPAyxqyFkMuxVDLZejVKlQjQdRrwM+i2Y5loECYPfHgeLRwRQMBFhr3oQ8qeeHc4WxeDPMzsk3GTPvgcQCbulM5Vj6uwVzB3GEhYDKlihtBBVewokH+9m+H+ailtRrCToZkfQVRt450p43soGsaiDFPKYXBYIDRaIT+TX+2INMCyWYL5a1WsRDdriLd6yA77P3YcqVawcvTM95f3/B4/zBbMD/4fLypmTnfSxTmSq761xje3eLs4vz3pfwFjeNt7F6eonmyjw/t8vn6zeHEsQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;img&quot;
+        title=&quot;&quot;
+        src=&quot;/static/5d308b61c6021db1a43f4623ebd12075/d9199/f3aedfbe-9790-11e5-9ad9-ce930fe5a3a8.png&quot;
+        srcset=&quot;/static/5d308b61c6021db1a43f4623ebd12075/8ff5a/f3aedfbe-9790-11e5-9ad9-ce930fe5a3a8.png 240w,
+/static/5d308b61c6021db1a43f4623ebd12075/e85cb/f3aedfbe-9790-11e5-9ad9-ce930fe5a3a8.png 480w,
+/static/5d308b61c6021db1a43f4623ebd12075/d9199/f3aedfbe-9790-11e5-9ad9-ce930fe5a3a8.png 960w,
+/static/5d308b61c6021db1a43f4623ebd12075/07a9c/f3aedfbe-9790-11e5-9ad9-ce930fe5a3a8.png 1440w,
+/static/5d308b61c6021db1a43f4623ebd12075/e1b7c/f3aedfbe-9790-11e5-9ad9-ce930fe5a3a8.png 1449w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;요것이 공식 에디터 화면&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;3 워크샵 데이&lt;/h3&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem; max-width:40rem; margin-left:auto; margin-right:auto&quot; &gt; &lt;iframe src=&quot;https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=6273A67567170AC116307F71BA1768048726&amp;amp;outKey=V123fb0c8db601d8c4276ba6b3d1a47100729e3830d2f69827804ba6b3d1a47100729&quot; frameborder=&quot;no&quot; scrolling=&quot;no&quot; title=&quot;NaverVideo&quot; allow=&quot;autoplay; gyroscope; accelerometer; encrypted-media&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;p&gt;&lt;em&gt;워크샵 데이 : 컨퍼런스장과 떨어져 있는 센토샤 리조트로 이동해서 오전/오후 워크샵 및 네트워킹 타임&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; 워크샵 데이는 주최 측이 이번 컨퍼런스에서 새롭게 시도한 프로그램이었습니다. 컨퍼런스 오거나이저인 Thomas가 오프닝에서 했던 말에 따르면, 2016년 JSConf.Asia를 개최했을 때 (2017년에는 JSConf.Asia가 개최되지 않았습니다) 받은 피드백 중 가장 많았던 것이 “컨퍼런스 세션들 좋긴 했는데, 3일 동안 스피커들 얘기 듣기만 하고 서로 알 시간이 없는 것 같다.” 여서, 올해는 아예 두 번째 날을 Community&amp;#x26;Workshop day로 만들었다고 하더라구요.&lt;/p&gt;
+&lt;p&gt; 컨퍼런스가 시작되기 이전에 각자 참여할 워크샵을 온라인으로 신청하여 워크샵 데이에서 신청했던 곳을 찾아가는 방식이었습니다. 다양한 워크샵이 있었는데, 저는 오전에는 Chen Hui Jing의 CSS Grid, 오후에는 Vanessa Radd이 진행한 Augmented City에 참여하였습니다.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cbb6137283ba7768ee04bf2f619f9014/d2602/BC354853-B2A5-4088-BF8E-9CC81090C5C1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMCBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAc2xJgaRZt//xAAZEAEBAQADAAAAAAAAAAAAAAABAgMAERL/2gAIAQEAAQUCnOru80UXl6PtCprXp//EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAgBAwEBPwGMf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAICAgMAAAAAAAAAAAAAAAARAQISIUFxgf/aAAgBAQAGPwJOK9nCNGQ2/BVnR//EABoQAAMAAwEAAAAAAAAAAAAAAAABESExcUH/2gAIAQEAAT8hwQHxEbXFRT0jaKTZTwrUTGqEKsIsOkf/2gAMAwEAAgADAAAAECzf/8QAFREBAQAAAAAAAAAAAAAAAAAAECH/2gAIAQMBAT8Qg//EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAgBAgEBPxC1r//EAB0QAQEAAgIDAQAAAAAAAAAAAAERACFBcVFhgbH/2gAIAQEAAT8QQ7stSHp3zcPMCSwPMGPeX7RAHw6MqmtgafLP3AiElojy7duVAg1oc//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;img&quot;
+        title=&quot;&quot;
+        src=&quot;/static/cbb6137283ba7768ee04bf2f619f9014/6a068/BC354853-B2A5-4088-BF8E-9CC81090C5C1.jpg&quot;
+        srcset=&quot;/static/cbb6137283ba7768ee04bf2f619f9014/09b79/BC354853-B2A5-4088-BF8E-9CC81090C5C1.jpg 240w,
+/static/cbb6137283ba7768ee04bf2f619f9014/7cc5e/BC354853-B2A5-4088-BF8E-9CC81090C5C1.jpg 480w,
+/static/cbb6137283ba7768ee04bf2f619f9014/6a068/BC354853-B2A5-4088-BF8E-9CC81090C5C1.jpg 960w,
+/static/cbb6137283ba7768ee04bf2f619f9014/644c5/BC354853-B2A5-4088-BF8E-9CC81090C5C1.jpg 1440w,
+/static/cbb6137283ba7768ee04bf2f619f9014/0f98f/BC354853-B2A5-4088-BF8E-9CC81090C5C1.jpg 1920w,
+/static/cbb6137283ba7768ee04bf2f619f9014/d2602/BC354853-B2A5-4088-BF8E-9CC81090C5C1.jpg 4032w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;AR을 어떤 아이디어를 구현하는 데에 쓰면 재밌을지 생각나는 대로 다 적고, 비슷한 아이디어들끼리 모아봅니다.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; Augmented City 워크샵에서는 팀을 짜서 아주 간단한 AR 어플리케이션을 만들어보았는데요. 짧은 시간이긴 하지만 브레인스토밍을 하고, 아이디어들을 생각나는 대로 다 포스트잇에 적으면서 얘기한 다음, 그중에 어떤 아이디어를 우리 팀 기획으로 잡을지 논의하는 과정까지 있어서 초미니 해커톤 같은 느낌이었어요. 개발할 때에는 &lt;a href=&quot;https://glitch.com/&quot;&gt;glitch&lt;/a&gt;라는 페이지에서 실시간으로 같은 화면을 공유해서 보면서 얘기하기도 했습니다.&lt;/p&gt;
+&lt;p&gt; 시간이 워낙 짧아서 정작 AR개발 자체는 완전 예제 돌려보는 정도였던 게 조금 아쉬웠지만 기획한 취지 그대로 세션들을 들을 때보다는 훨씬 자연스럽게 주변 사람들과 이야기할 기회들이 있어서 재밌었습니다. 국내 컨퍼런스에서 잘 운영하지 않는 종류의 프로그램이기도 하고요. 그리고 한편으로는 왜 그렇게 컨퍼런스 티켓을 비싸게 받았는지 이해되는 리조트 수준..&lt;/p&gt;
+&lt;h3&gt;4 라이트닝 토크&lt;/h3&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ae1f85b54a182fa9b98369de3539be67/d0c0e/_2018-02-14__12.08.27.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 715px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 60%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAAC8UlEQVQoz4WQ7U9TZxjGDy1w2p6evpyeysS+IH2XUlEwXdBulipCow4nTEWRohuySsu62oHDEBYQ3BQ1UYybm2/LplGX8WHJluyDGj8YY6Lf/Wd+OwdMph+MT3Llfp481/W7n/sRSvkKn+1Ik/C7yfV+wmjuMPFgAza3j4ZggGBDHeHYGqIxD41+D77GGLIaoCUaItd/mP09u9nV6mdvZ4bh/BRC6XiZ0cEDtCdTlId6mSqPkdzUhm/2N+aeP2akuAexdxE1dwV7zziJf1/hKt0nne7m+LEC+YE+cj3bOdSf48jYGYSpiWnmZ7+nOH6R8ZMzzFSKbE6lCFy8w/A/D+kZHmXDgQWSAxdo2X+a+O0XuKeW2J7dy+yJIhOT81TmbnJq/mdGvruBUChNcPnX61z66SZXFn/k1Fie9q1pfNNXyd55xIeF36lce0Lh+kvSX/1J+Owz1NIfbM32cebbkpZ9wIW7f3P29l32FKYRGrP9eIcmaTx0kuTg13QNHKN5SweesXl2XntAtLhEZvopO+Ze0Dz6F2vGn2IbWqKt81M6jpbY8OUMgZEfqC8s4OsvI9h35Vk1vIB7ZJGGg5OE2ruIpLIofQW6y2U2dnbg3byP2mQFKbQTR+8tpN2LrOscZG26j1VfnOeDb+6x+sQvuD4/h1AT2IjYnMYc24ItnMTs9qOE21ASKepaP0JtaqWuqQ37uo+xah65OYMc34Y90q551yK3ZDAlMojr09SENyFoi/9VhcFYjdFo1GSgSquixYLVatVkQpKtmCULJrEWsbYG0WzBWFOLQctWvZbgVBSCoTD1q+uJRaOEgkH8Xi+RSIREPI7icPB20/fIoQWiGsirQfQajcYIalBdTfEmPB4PkiQtv1K22ZBlGckqYdFeru8trycQRXEFaDKZ0KH6pU0L2O0rId2kg1wuF4o2he5xKk5UVcVsNmMwGKiuXvkevernZaDeQX0jpKou3G73GxAFp9O5DHM47MsNTCbxnSP/B8pBi+bWNxiSAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;img&quot;
+        title=&quot;&quot;
+        src=&quot;/static/ae1f85b54a182fa9b98369de3539be67/d0c0e/_2018-02-14__12.08.27.png&quot;
+        srcset=&quot;/static/ae1f85b54a182fa9b98369de3539be67/8ff5a/_2018-02-14__12.08.27.png 240w,
+/static/ae1f85b54a182fa9b98369de3539be67/e85cb/_2018-02-14__12.08.27.png 480w,
+/static/ae1f85b54a182fa9b98369de3539be67/d0c0e/_2018-02-14__12.08.27.png 715w&quot;
+        sizes=&quot;(max-width: 715px) 100vw, 715px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt; 마지막 날 세션 사이에는 쉬는 시간을 겸해서 라이트닝 토크(Lightning Talk)가 있었는데요. 사전에 신청을 받아서, 5분 정도의 짧은 시간 동안 자신의 프로젝트를 소개하거나, 그냥 간단하게 공유하고 싶은 주제가 있는 경우 어떤 것이든 공유할 수 있도록 하는 자리였습니다. &lt;a href=&quot;https://jsconfasia.wufoo.eu/forms/your-5-minutes-of-fame/&quot;&gt;신청 페이지&lt;/a&gt; 자체에도 ‘Your 5 minutes of fame!’이라고. 쉬는 시간에 이루어지는 거라 자유롭게 커피를 마시러 오가기도 하고, 컨퍼런스 장 바깥에도 스크린이 있어서 바깥에서 얘기하면서 스크린으로 보기도 했습니다.&lt;/p&gt;
+&lt;p&gt; 이번 컨퍼런스에서 리액트에 대해 발표한 스피커도 작년 JSConf에서 라이트닝 토크에 참여했던 경험이 있는 것으로 보아, 요런 기회들을 만들어서 컨퍼런스 자체를 지속하는 데에도 (참가자/스피커/오거나이저 모두) 도움이 될 수 있도록 하는 것 같아요.&lt;/p&gt;
+&lt;h3&gt;5 다양한 참가자 확보를 위한 사전 작업&lt;/h3&gt;
+&lt;p&gt; 좋은 커뮤니티를 구성하는 것 자체가 JSConf에서 추구하는 가장 큰 목표이기 때문에, 오거나이저들은 컨퍼런스에 참가하는 사람들의 성비나 출신 등을 최대한 다양하고 조화롭게 구성하는 데에 가장 많은 공을 들인다고 합니다. 로컬 커뮤니티를 찾아서 티켓을 뿌리면서 컨퍼런스 참가를 권유하기도 하고, 스피커를 찾는 것도 그렇구요. 그래서인지 JSConf지만 참가자들 중에서 Java 백엔드, QA, 심지어 코볼(..!!) 프로그래머까지 만나볼 수 있었습니다.&lt;/p&gt;
+&lt;h2&gt;“Tweet me!” - 커뮤니티 활동은 트위터에서&lt;/h2&gt;
+&lt;p&gt; 저는 트위터를 제대로 써본 적이 없습니다. 트위터는 뭐랄까… 쓰더라도 굳-이 내 계정을 동네방네 밝히고 싶은 생각은 안 드는 그런 곳…? 의 느낌인데요ㅎㅎㅎ. 단적으로 제 안에서 트위터는 짤줍용이거나, 각종 용도의 덕질용, 아니면 그냥 아무말, 제 2의 인격체, 아니면 뭐 이런거.. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2018-02-14_%EC%98%A4%EC%A0%84_4.05.01.png&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;트위터봇으로 구글에 검색하니 이런 것들이 나왔습니다…&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; 그런데 컨퍼런스에 오니, 세션이 끝날 때마다 듣는 말이 있었습니다 “If you have any questions, tweet me!“. 다시 홈페이지를 보니, 아예 공식 홈페이지에도 스피커마다 트위터 계정을 달아두었더라구요.  &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c69983f973af24c3f5ebd5e3fe9aea4b/c50e3/_2018-02-11__5.59.49.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 62.083333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAADH0lEQVQozyWSWVdaZxRAbxQDynVAhiuXWUUEAjdMKjYKGjVEsdaILTWuRmKxkkaDBgfqQGLUxKRZSbu62qYPzU/d/Uwfzute++xzJNn3BEf0OZK1xE11XUwJvbpGs+0hrkgFo2uFFtsD9MoCBiWP3prD5J7DE35AiymNbBtFtqZot8TosNxCMri2UML7GNxP0ambNCllWuw/0qysYQ1sYvGXaXU8RHYVkR0FAZ1HtudxBQuYPTnaezK0WoYFNCmgGlKTWmVg9Jzbd99gj9SxDNZo8wi4fQOjt0JqukEsW0cb3yM6toPJW0RnnsWnraKlSzgG5jG7JzFaR5AtCaQbjn3U2Bl27QUd/jrdg3U6+/e4Nu9P1uhN7KFGqiiDFdzRCjrlO7J3N9it1Lk9/oTQ0Cr9WgGTM0ubJXUNPMGReIvsbyBZREvbLpKyg969w/2lbUbuNUhOn+OJ7eKMbtFkWxH9HjH01TrBofIXU5N3DlkZF5ZppOGpY2bmDlGTH/AOvxPwN3QGGtxQa8Jsjx6RwakdYh2sYg5uofdsoGnLPFrexBkp0RsRfe05ZHUKo+2OEAod4YvVUbR3dIUuaes7Q+c+xeA75kXtipnCR4Jjl9ijBzgiz+nsq2DzrjCULosE67hCq9j6C3R58wI4jiRZTglP/kbq/u90BM4FTKxuO6LZeYovfoo1fIJFTFtfjZvOnzE4y0jmNfqGn5HNH+IS63c6F9B1TWBUJpDi2ROmF88JZv6gN/0eR/ytsL2i1deg+HWJ9MwlI/N/krr3K/GpS1q9zwjH11mc3yCSOcAfLxNIPBZdixisk0hq9ITAnQuiuU94ht7TLdaW/a+QxLEM3mM6ghfC/CWdA0eYBg6E5TZd7h8Ix0pkF8S7ZXa5NbaNGvwevVkAvclXaNkr5MD/ILn/jOvLG3pfsl37xOLjz2SX/hHmF5gCv4gP2EINPyWU3KDbv0m7e1X0K4pLL2HsySElJ06YW7pg9JvPTH77L4nZv7/Aml2n4plfE8p8JJH7S/zqa5HhUPStoo1WmZ39iVzxA7nlC5Fln0R2S7TM8x9z8JbEx3VGgAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;img&quot;
+        title=&quot;&quot;
+        src=&quot;/static/c69983f973af24c3f5ebd5e3fe9aea4b/d9199/_2018-02-11__5.59.49.png&quot;
+        srcset=&quot;/static/c69983f973af24c3f5ebd5e3fe9aea4b/8ff5a/_2018-02-11__5.59.49.png 240w,
+/static/c69983f973af24c3f5ebd5e3fe9aea4b/e85cb/_2018-02-11__5.59.49.png 480w,
+/static/c69983f973af24c3f5ebd5e3fe9aea4b/d9199/_2018-02-11__5.59.49.png 960w,
+/static/c69983f973af24c3f5ebd5e3fe9aea4b/07a9c/_2018-02-11__5.59.49.png 1440w,
+/static/c69983f973af24c3f5ebd5e3fe9aea4b/29114/_2018-02-11__5.59.49.png 1920w,
+/static/c69983f973af24c3f5ebd5e3fe9aea4b/c50e3/_2018-02-11__5.59.49.png 2442w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt; 네트워킹 시간에 얘기할 때도 모두가 초장부터 물어보는 게 “트위터 해?”, “트위터 계정 뭐야?”, “트위터로 연락할게” 였구요. &lt;del&gt;트위터 안하는 사람 속상해서 살겠나..&lt;/del&gt;
+사실 이번에 컨퍼런스를 다녀오면서 가장 의외였던 부분이 해외에서 트위터를 굉장히 official한 용도로 사용하고 있다는 것이었는데요. ’&lt;strong&gt;컨퍼런스에서 만들어진 커뮤니티를 이어가는 곳&lt;/strong&gt;‘으로 모두가 트위터를 쓰고있는 것처럼 보였습니다. 연락할 방법을 물어보면 열에 아홉은 트위터 계정을 알려주었고, (메일이나 페북이나 인스타를 알려줄 줄 알았는데 모두 아니었다고 한다…) 개발 관련 질문도 트위터에서, 어떤 주제에 관심있다고 하면 “아 그럼 이 사람 트위터 팔로잉 해봐”라는 답이 돌아왔어요. 명함도 쓰는 사람들이 있긴 했으나 높은 확률로 “누가 요즘 명함을 가지고 다녀?!”라는 말을 들을 수 있습니다ㅠㅜ 트위터 계정 파서 가세여 여러분..&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://post.naver.com/viewer/postView.nhn?volumeNo=13031665&amp;#x26;memberNo=34176766&amp;#x26;navigationType=push#&quot;&gt;&lt;img src=&quot;https://static.notion-static.com/910d7fc0-17e8-47df-be18-f0802e54796e/319BA3A9-0266-4540-B473-20013CDB407E.jpeg&quot; alt=&quot;img&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“우리가 JSConf Asia 스폰서고 발표도 할거야. 이 코드 쓰고 20% 할인받아서 티켓 사서 오렴”.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; JSConf Asia에서의 경험이지만, 참가한 사람들 자체는 꽤 전세계(아이슬란드/영국/독일/스페인/인도/호주/홍콩/태국/싱가포르/미국 등등)에서 왔다는 걸 생각해봤을 때 이 컨퍼런스에서만 유독 트위터를 쓰는 건 아닌 것 같습니다. 컨퍼런스 티켓 자체도 Adobe가 자기네 팀에서 스피커가 간다는 공지를 올리면서 할인 코드를 뿌리기도 하고, 실제로 위에서 얘기했던 다양성 확보를 위해 컨퍼런스 오거나이저 측에서 로컬 커뮤니티를 찾아서 할인코드/티켓을 뿌리려고 한다는 데에도 트위터를 통하는 경우가 꽤 있는 것 같아요.&lt;/p&gt;
+&lt;h2&gt;즐겁게 성장하기 위한,&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bf957d571100f2b90a8f4171b4b5516d/10d53/_2018-02-12__1.07.47.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 63.74999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAADUklEQVQ4yzWTWWxUVRzGbztz506nnaWdGbGdEdraxamlLS1OWmlMo6VRK2nFhVALFQ1uRJFEYqKRGEI0BAOBaFFjQoJAaTulK5qgJrzok3uaPhgVeTBpA0KnC9hl+vO7Az58OefmnvP7f//lGJZp4nZZWE4PXv8qNna9RutLb9Ky4w2at++hqWMXjU+9TP3jL3Lfpi7qHu2gZuM2qh56hsqmzcQaW4ltaCNSGsdtBjDMTAem00Wm4cYfLObEpRkuAGOL0hIMax1cgP5/pRuQmIe+OeidhZ4knLqyROIm7Dh4EsPwCOgwcTmzcGT48eWW0P3zZcZ0YHB6icGZFOdmpbkU/XMraQ1ICQETAiZmBP9nmVEF7tz3iYA5NtAloAeHEcYbqOCjny5zXo4GkymGdHlofoVhO8D/sl3a8BkpuUKvHI4qiyf2fCBgtg20BPTizIgKWM2xHy4xJuCQ3I3osu3yzORNeq4ucmpqgc8nF+hL2o7lTsCzV5fSpWnd+e7tlJ1uLDNPH8V4smo5+v2faYc2cFTAYTvN66pTcpmz15bS4H7961fKfdMr9MihXe8HO/beAjozTDKMAOFoE4VVbRz+7jdGVPhz1xcFXWZ4VppX+tLgDUnrgOraN51SgBSnp3RObje07xLQh+HOzqZ+SwsNTz7H3TVP8/H4JBfV5a+kb6Svb++/XIHzKXV+GUYWb9XTbk7vNQVXc+IPvyBgGGP12hid3e+rjiU4lfbm3Qd45chJdnefZu+JAd46M8K+xBfsv/AL712c4NC3Exz98S8+/PVvusenOD5+hU8nZqhs2CbgGgxLI1P82OtsfeczqhqexxvehG9Vu9ZW/JE2ckueJVh3gND6w3h868jyFJHjv0cNvBefpiI3FCOUX4HHE8XMDApqGEQKytj+6n7izV2Uxneyvv0Ican6kUMUxt8mWLQVT04My1WAy5WPaYb1GGyFcDoCmuEcTIc3PX6GL8dkdfwg+Y1/cGeknGhhEcVlFZRX1lJSXkn0rjUEw3foWQblzo87y4vlDmBZYQXI04RobwpmCqpsjXV1tUTjx7Bqfqe8qpn7W7ZQ39JJ6dpGIoUxyqofoKiinlBEKQaLyPYXCCyQJbg7Ly3L8gmYjT2C/wEnTF7aHZYj0gAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;img&quot;
+        title=&quot;&quot;
+        src=&quot;/static/bf957d571100f2b90a8f4171b4b5516d/d9199/_2018-02-12__1.07.47.png&quot;
+        srcset=&quot;/static/bf957d571100f2b90a8f4171b4b5516d/8ff5a/_2018-02-12__1.07.47.png 240w,
+/static/bf957d571100f2b90a8f4171b4b5516d/e85cb/_2018-02-12__1.07.47.png 480w,
+/static/bf957d571100f2b90a8f4171b4b5516d/d9199/_2018-02-12__1.07.47.png 960w,
+/static/bf957d571100f2b90a8f4171b4b5516d/07a9c/_2018-02-12__1.07.47.png 1440w,
+/static/bf957d571100f2b90a8f4171b4b5516d/10d53/_2018-02-12__1.07.47.png 1724w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Jolly JS Journeys(&lt;a href=&quot;https://www.youtube.com/watch?v=iGPzwotXgfk&quot;&gt;https://www.youtube.com/watch?v=iGPzwotXgfk&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; ‘배움’이라는 측면에서는, 솔직히 실망스러운 세션들도 많았습니다. ‘저 정도는 인터넷 찾아보면 문서로 다 나와있는 개요 정도 아니야?’ 싶은 것들도 있었고, 정말로 재미삼아 만들어본 쓸모는 없는 것들을 모아서 발표하기도 했고(그리고 재밌었습니다) 뭔가 과학상자로 만든 느낌의 로봇들을 가지고 올라왔는데 제대로 동작하지 않는 경우도 있었어요(하지만 껄껄껄 웃고 끝났습니다). 그래서 컨퍼런스 당일에는 ‘JSConf인데.. 뭔가 좀 실망이다’라는 생각이 들 때도 있었고 그렇게 얘기하기도 했는데요. 우리나라에서 컨퍼런스에 갔을 때 오히려 ‘와…저런 걸 어떻게 하지’ 싶은 것들이 많았던 것 같았거든요.&lt;/p&gt;
+&lt;p&gt; 그런데 돌아와서 생각해보니 내가 자기검열하듯 하는 걸 그 스피커들에게 똑같이 하고 있는 건 아니었나-싶어졌습니다. 사실 글을 쓰거나, 발표를 하려고 할 때마다 ‘이정도는 어차피 다른 사람들도 다 아는 거 아닐까’, ‘말도 안되게 틀린 얘기하는 거 아냐?’, ‘괜히 쓸데없는 거 공유하는 거 아냐?’하는 걱정이 끊이질 않습니다. 개인적으로 만드는 것/만들고 싶은 것들을 공개하는 것도 부끄러울 때가 많구요. 그러지 않으려고 하는데, 성향인지 고치기는 쉽지 않고 일을 시작한 이후로는 점점 더 어렵게 느껴지기도 합니다.&lt;/p&gt;
+&lt;p&gt; 주변의 친구들과 이야기해보면서 이게 의외로 저만의 걱정은 아닌 때가 많다는 것도 알았는데요. 그러고나니 그냥 누군가는 ‘뭐 저런 걸 여기까지 와서 발표해?‘라고 할 법한 것들도 신나게 발표하고, 좀 더 가볍고 즐거운 분위기에서 서로 만든 걸 공유하는 장이 더 필요하겠구나 싶습니다. 제가 처음에 갸우뚱했던 JSConf처럼요.&lt;/p&gt;
+&lt;p&gt; JSConf의 스피커들이나, 커피타임/워크샵에서 만난 사람들은 대체로 지금 하고 있는 프로젝트가 얼마나 즐거운지, 간단히 이런 걸 만들어봤는데 정말 재밌고 예뻤다든지 하는 이야기를 하곤 했습니다. 지금 하는 게 기술적으로 얼마큼 대단하고, 복잡한지를 이야기하기보다는요. 물론 한편으로는 여전히 비싼 티켓값만큼 최소한의 세션 퀄리티는 중요하지 않을까 싶기도 합니다. 그리고 이런 컨퍼런스에만 맛들려서 애초에 깊이 있는 경험은 없는데 말만 번드르르한 사람이 많은 것일 수도 있구요.&lt;/p&gt;
+&lt;p&gt; 하지만 깊은 기술을 이야기하는 장은 그대로, 커뮤니티를 위한 장은 또 이대로 있는 것도 좋을 것 같습니다. 누군가 ‘겨우 이런거?’라고 하는 데에서 누군가는 큰 도움을 받고 나아갈 수도 있고, 이런 것도 가볍게 나눌 수 있는 거구나하면서, 배우고 성장하는 일이 심각하고 근엄하게만이 아니라 즐겁게 할 수도 있는 일인 걸 환기해주는 것 같아서요.&lt;/p&gt;
+&lt;p&gt; 그러니까 좀 더 가볍고, 즐겁게 성장해 나갈 수 있는 새해가 될 수 있으면 좋겠습니다. 함께요.&lt;/p&gt;
+&lt;h2&gt;추천 ‘배움’ 세션!&lt;/h2&gt;
+&lt;p&gt; 물론(당연히) ‘배움’의 세션들도 여럿 있었습니다. 다음 두 세션은 들어보시는 것을 추천!    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jake Archibald: In The Loop&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem; max-width:40rem; margin-left:auto; margin-right:auto&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/cCOL7MC4Pl0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;p&gt; 슬라이드 자체가 직접 javascript, svg, GreenSock를 사용해서 개발한 웹페이지였던.. 충격의 발표(자료)입니다. 이벤트 루프의 동작에 대해서 애니메이션과 함께 매우 깔끔하게 설명해준 세션이었어요.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thai Pangsakulyanont: Smells In React Apps&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem; max-width:40rem; margin-left:auto; margin-right:auto&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/xBa0_b-5XDw&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;p&gt; 가장 구체적인 사례들로, 실제로 리액트 프로젝트에서 어떻게 문제들을 해결해나갔는 지를 이야기해준 세션이었습니다. 발표자는 &lt;a href=&quot;https://taskworld.com/&quot;&gt;TaskWorld&lt;/a&gt;라는 협업툴의 프론트엔드 개발자로, 900개(…) 이상 컴포넌트들을 가지고 있는, 2년 정도 된 프로젝트에서의 경험을 담긴 발표였어요.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt; 최근 받았던 뉴스레터 중에 비슷한 주제를 얘기한 게 있어서 덧붙여둡니다. ( 개인적으로 항상 재미있게 읽고 있는 &lt;a href=&quot;http://publy.us11.list-manage.com/subscribe?u=8e469b932eaa730d3a89bc869&amp;#x26;id=f64c75daf2&quot;&gt;publy 뉴스레터&lt;/a&gt;입니다 )&lt;/p&gt;
+&lt;p&gt;​    &lt;/p&gt;
+&lt;h2&gt;+1)&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://post.naver.com/viewer/postView.nhn?volumeNo=13031665&amp;#x26;memberNo=34176766&amp;#x26;navigationType=push#&quot;&gt;&lt;img src=&quot;https://ci4.googleusercontent.com/proxy/126jalGKthXqgWqIDVYnSNVgADreXFrdXoX2QRgqK6hKttcsg-otloPohZh3kvswr4KSUt4wT0WfpPDf2iMneRUMNqtmKwDhvjDuZ9EzRnQHkwRAQeEG8uWVM0OmilWnwZnJBBE83zLz97nxGRMqc6gKYREzGRisSB6Kw0I=s0-d-e1-ft#35;https://gallery.mailchimp.com/8e469b932eaa730d3a89bc869/images/188fdd28-20e7-4d5b-b51f-402af50a3b99.jpg&quot; alt=&quot;img&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Imposter Syndrome in Data Science - Caitlin Hudon&lt;/p&gt;
+&lt;p&gt; ‘일잘러’가 되고 싶어서 제가 하는 노력: 업무 관련 책을 읽고, 뉴스레터를 구독합니다. 해외 컨퍼런스 영상을 보고, 웨비나(Webinar)를 듣습니다. 업계 구루(Guru)들의 블로그에 수시로 들어가서 글을 읽고, 그들이 추천하는 책을 읽습니다. 비싼 돈을 내고 강의를 듣기도 합니다.&lt;/p&gt;
+&lt;p&gt; 쉴 새 없이 공부하지만 일잘러의 길은 아득히 멀기만 합니다. 배울 것은 끝이 없는데 공부할 시간은 부족하기에, 늘 지식과 역량의 결핍을 느낍니다. Medium에서 능력자들의 글을 읽고 있자면, 저는 도저히 이들과 같은 수준에서 경쟁할 수 없을 것 같습니다.&lt;/p&gt;
+&lt;p&gt; 지금까지 어찌어찌 버틴 것은 순전히 제 업무가 동료들에게는 생소한 분야라서, 아직 제 밑천이 드러나지 않은 덕분이라는 생각을 해 봅니다. 언젠가 이 분야를 잘 아는 동업자에게 ‘제대로 걸려서’ 저의 얕은 바닥이 파헤쳐지면 어쩌나 하는 두려움도 있습니다.&lt;/p&gt;
+&lt;p&gt; 지난 몇 년 동안 이런 불안감이 제 마음속에 은은히 깔려 있었는데 (이런 심리 상태를 사기꾼 증후군 Imposter syndrome이라 부르더군요), 얼마 전 아래와 같은 글을 읽었습니다.&lt;/p&gt;
+&lt;p&gt; “저는 사기꾼 증후군(Imposter syndrome)을 이런 식으로 극복해 왔습니다. 제가 데이터 사이언스의 모든 것(모든 알고리즘, 기술, 멋진 패키지, 프로그래밍 언어 등)을 배울 수는 없을 것이라는 점, 그리고 그래도 괜찮다는 점을 받아들였습니다.(중략) ‘당신이 아는 것’과 ‘다른 사람들이 아는 것’ 사이의 관계를 잘 보여주는 벤 다이어그램이 있습니다. ‘당신이 아는 것’은 ‘다른 사람들이 아는 것’의 부분집합이 아닙니다. 당신의 지식은 다른 사람들의 지식과 겹치기도 하지만, 동시에 당신을 다른 사람들로부터 돋보이게 만들기도 합니다.”&lt;/p&gt;
+&lt;p&gt; 이 말과 벤 다이어그램이 제게는 마음의 위안이 되었습니다. 그리고 이 분야에서 얼마나 많은 사람이 사기꾼 증후군을 겪는지 알고 나니 불안이 한결 가시는 기분이었습니다. 역설적이지만, 전 세계의 동업자들이 저와 같은 고민과 불안을 가지고 있다는 사실만큼 위로가 되는 일이 또 있을까요.&lt;/p&gt;
+&lt;p&gt; PUBLY 독자 여러분 중에도 ‘내가 잘 하고 있는 것이 맞는지’ 확인 받을 길이 없어서 불안하신 분, 자신의 역량이 부족하다는 생각에 시달리시는 분이 많으리라 생각합니다. 그런 분들께 이 벤 다이어그램이 위로를 드릴 수 있었으면 합니다. 안 그런 척 했지만, 다른 사람들도 사실 마찬가지라고 하니까요.&lt;/p&gt;
+&lt;h2&gt;+2)&lt;/h2&gt;
+&lt;p&gt; 컨퍼런스는 모두 영어로 진행되는데… 스피커 자체가 다국적이라 악센트도 인도식/영국식/호주식/태국식/아이슬란드식 제각각이라 영어가 영어가 아닌 경우가 많이 있었습니다… 사실 세션 자체는 모두 녹화되어서 공유되지만,  미국식 영어도 다 알아듣기 어려운 와중에 정체불명 악센트들이 난무하니 더 어렵더라구요 @_@ 다양한 악센트에 대한 마음의 준비가 필요했습니다..&lt;/p&gt;
+&lt;h2&gt;+3)&lt;/h2&gt;
+&lt;p&gt; Amazon이 컨퍼런스 스폰서로 참여하지 않기 때문에 aws 관련 토크는 주최측에서 걸러버린다고 합니다. 보통 티켓을 사는 시점에는 스피커 목록은 공개되지 않은 경우가 많아서, 스폰서로 어디어디가 참여하나-를 보는 것도 좋지 않을까 싶어요&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;2018년 2월 &lt;a href=&quot;http://naver.me/xaPYTEuu&quot;&gt;네이버 포스트에 작성한 글&lt;/a&gt;을 옮겨온 포스트입니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[브라우저는 웹페이지를 어떻게 그리나요? - Critical Rendering Path]]></title><description><![CDATA[브라우저가 하나의 웹페이지를 그려내는 과정을 설명합니다.]]></description><link>https://thenewpark.github.io/playground//posts/critical-rendering-path</link><guid isPermaLink="false">https://thenewpark.github.io/playground//posts/critical-rendering-path</guid><pubDate>Sun, 03 Jan 2021 15:19:24 GMT</pubDate><content:encoded>&lt;h2&gt;이걸 왜 알아야 하죠?&lt;/h2&gt;
+&lt;p&gt;결론부터 말하자면 사용자가 웹페이지를 볼 때 거슬리는 일이 일어나지 않도록 만들기 위해 브라우저가 웹페이지를 그려내는 과정에 대한 지식이 필요할 수 있습니다. 물론 단순히 ‘거슬리지 않는’ 수준이 아니라 최종적으로는 매끈한 사용자 경험을 만들기 위해서라 할 수도 있고요.&lt;/p&gt;
+&lt;p&gt; 
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/11231428582a7e61a2a3ed330bf38154/0f79a/60fps-high-resolution-jy.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 689px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 69.58333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAAB9klEQVQ4y42T2XITMRBF/f9fQQEJfAJbUuQlDxAeXBQ2TjIz3ga8zSZp9hnddEtynBhD4apTfdW6avVY0gAnflpr/M/vlG/Ayaf0zhRFEUajESaTCTzPM7Aej8cYDodYrVaPRfeYgn/bve065EWBPM9R1TXqpkFBY0VjqZQZn+jZdlhIgVJmz6iUQFMoNLnCerlAOAtQ59LmiFrJZ/5cZNCmQyp4tSrxwi/xZlrijDh3nAVMgZf3Eq+I82mB1y7Hc+x5O7Vr34XF4ZO/x7VJXP4u8elXiQuC9UfWHMMc7+fycX7P3sdrb3a1Ldj3GkIISGo5zbj1Yy0wXywwC3yI7E+PIq1Ix0nKJ4RBSwV/KuArjS92GiOnL53+kmh8joHbkjTlP2yt/4b1RuOHBL5lwHWsD9cmExJRnGAXp2aniNjSmHWSZpgtQ3i+7/KUO/Lw2ph8pmDb95iLGlPVIZAtRcvMxA6eaHAX55hEOaaygX/k4TWBJF9ambs46KjTkCbu05Ko4BOeiz7lvIw2ow1vI4Ugq3CXlG7u4OW1vJm2h9LTJ9OfLKXBHBDdS46MokvMryIIAnNA1nfwmDHFNE1thxW1GJYaaQskxJpOP6JHsKmt3pFeVxobiqKzOfaZvJvfEstCo+nNS6FnRqJztP+gO4pP4WLc4QOpfyw+TUSCcQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;img&quot;
+        title=&quot;&quot;
+        src=&quot;/static/11231428582a7e61a2a3ed330bf38154/0f79a/60fps-high-resolution-jy.png&quot;
+        srcset=&quot;/static/11231428582a7e61a2a3ed330bf38154/8ff5a/60fps-high-resolution-jy.png 240w,
+/static/11231428582a7e61a2a3ed330bf38154/e85cb/60fps-high-resolution-jy.png 480w,
+/static/11231428582a7e61a2a3ed330bf38154/0f79a/60fps-high-resolution-jy.png 689w&quot;
+        sizes=&quot;(max-width: 689px) 100vw, 689px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;요즈음의 일반적인 스크린은 1초에 화면을 60번 그린다고 합니다. 그러니까 60fps(frame per second)인 것인데, 이 때문에 브라우저 역시 60fps를 유지해야 웹페이지가 매끄럽게 보일 수 있습니다. 실제 기기의 스크린이 업데이트되는 속도에 맞춰야 하니까요. &lt;/p&gt;
+&lt;p&gt;만약 브라우저가 1초에 60프레임을 그려내지 못하게 되면, 웹페이지에서 스크롤을 내린다거나 드래그해서 뭔가를 움직인다거나 할 때 버벅버벅거리는 현상이 생기게 됩니다. (이러한 현상을 쟁크Jank라고 합니다.) 혹은 애초에 페이지 자체가 뜨는 데까지 하세월이 걸릴 수도 있습니다. 어느 쪽이든 썩 즐거운 상태는 아니겠죠. 그럴 때 최적화(Optimization)가 필요합니다. &lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;그런데, 뭘 최적화해야 하죠??&lt;/h2&gt;
+&lt;p&gt;다짜고짜 최적화라니, 대체 뭘 어디에 최적화 시켜야 하는 것이죠??     &lt;/p&gt;
+&lt;p&gt;브라우저가 1초에 60프레임을 그릴 수 있으려면, 1개의 프레임을 그릴 때 약 0.016초(16ms)를 사용해야 합니다. 이보다 오래 걸린다면 60번 그리기 전에 1초가 끝나버리겠죠…sad… 그러니 페이지가 빠르게 뜨고, 버벅거리지 않도록 하려면 먼저 브라우저가 그 페이지의 하나의 프레임을 어떻게, 얼마동안 그리는지 알아보아야 합니다. 그리고 그 과정에서 시간이 오래걸리는 단계를 좀 더 효율적으로 바꿔 최대한 한 프레임을 빠르게 그려낼 수 있도록 만들면, 매끈한 웹페이지 완성! &lt;del&gt;(…이라고 정리하는데 밥아저씨가 생각나는 이유는 뭘까요..)&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;브라우저가 하나의 화면을 그려내는 이 과정을 중요 렌더링 경로(Critical Rendering Path)라고 부릅니다. 우리가 일상적으로 접하는 주소창에 url을 입력하고, 엔터키를 치면 브라우저는 해당 서버에 요청(request)을 보내게 됩니다. 서버에서는 응답(response)으로 HTML 데이터를 내려주는데, 이 HTML 데이터를 실제 우리가 보는 화면으로 그리기까지 브라우저는 다음 단계를 거쳐 작업을 진행합니다. 이 과정의 각 단계가 최대한 효율적으로 이루어지도록 만드는 것을 보통 최적화라고 부릅니다.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4e09756122bc514449d1b7d62d2edfd5/ae694/image_3480670191498924844279.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 850px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 22.499999999999996%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAAsSAAALEgHS3X78AAAAwklEQVQY05VQ2Q6DMAzr/3/iYOOGjavlKjCgHo7E0/aySFGc1EmcKpzmDgc72hMA5avEsR/4MvcDu2+sOGzoByRxgjAIEUcxOtNhGiepM9L3bce6rGibFtt7E8xeDlnmRWrMVZZmaOpGlDGOwygEDpvtDL5ziXfzxO/+Hc/iiSiMEDwC1FWNIi9ETJ7lUBxgWoM0ToVYvSohULHv+UiiBLrVolo3GnayslDys86ldKMN+q6Hur6FZ12n8hwqJInN/9gHISaA+naTesIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;img&quot;
+        title=&quot;&quot;
+        src=&quot;/static/4e09756122bc514449d1b7d62d2edfd5/ae694/image_3480670191498924844279.png&quot;
+        srcset=&quot;/static/4e09756122bc514449d1b7d62d2edfd5/8ff5a/image_3480670191498924844279.png 240w,
+/static/4e09756122bc514449d1b7d62d2edfd5/e85cb/image_3480670191498924844279.png 480w,
+/static/4e09756122bc514449d1b7d62d2edfd5/ae694/image_3480670191498924844279.png 850w&quot;
+        sizes=&quot;(max-width: 850px) 100vw, 850px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1 서버에서 응답으로 받은 HTML 데이터를 파싱한다.&lt;/li&gt;
+&lt;li&gt;2 HTML을 파싱한 결과로 DOM Tree를 만든다.&lt;/li&gt;
+&lt;li&gt;3 파싱하는 중 CSS 파일 링크를 만나면 CSS 파일을 요청해서 받아온다.&lt;/li&gt;
+&lt;li&gt;4 CSS 파일을 읽어서 CSSOM(CSS Object Model)을 만든다.&lt;/li&gt;
+&lt;li&gt;5 DOM Tree와 CSSOM이 모두 만들어지면 이 둘을 사용해 Render Tree를 만든다.&lt;/li&gt;
+&lt;li&gt;6 Render Tree에 있는 각각의 노드들이 화면의 어디에 어떻게 위치할 지를 계산하는 Layout과정을 거쳐서,&lt;/li&gt;
+&lt;li&gt;7 화면에 실제 픽셀을 Paint한다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;각 단계를 좀 더 살펴보자면,&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;서버에서 응답으로 받은 HTML 데이터를 파싱한다&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/07e152b0768a6a1bb971f6e0b8ec5573/0fcea/image_9616557501498924844279.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 851px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 22.499999999999996%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAAsSAAALEgHS3X78AAAAxklEQVQY041Q1w6DMBDL/39hB4IQdqFQ9ijExdchtU89yboh+3KOstaCsa0bxmGE3SyKvACe4++wP/UL1LxnSpoNaJsWxjfQnkZgAjR1g67tBEM/oO96EZJHLPOC9b7KIVzEY1ir2ABlblEWFbI0Q1VWIiaBmYiCCNrVcM4OjocjfO0jiRN4rgejDa7FFWEQyjGqbyymAfuimwzTJEV+yUXAi52TIwvrW/3BNE7yIGs6madZXLBXn4/ZE+2RQDIt0RpJrP+NB6ttgaIYig0qAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;img&quot;
+        title=&quot;&quot;
+        src=&quot;/static/07e152b0768a6a1bb971f6e0b8ec5573/0fcea/image_9616557501498924844279.png&quot;
+        srcset=&quot;/static/07e152b0768a6a1bb971f6e0b8ec5573/8ff5a/image_9616557501498924844279.png 240w,
+/static/07e152b0768a6a1bb971f6e0b8ec5573/e85cb/image_9616557501498924844279.png 480w,
+/static/07e152b0768a6a1bb971f6e0b8ec5573/0fcea/image_9616557501498924844279.png 851w&quot;
+        sizes=&quot;(max-width: 851px) 100vw, 851px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;html&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;head&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+	&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;meta&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;charset&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;utf-8&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+	&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;link&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;./style.css&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;rel&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;stylesheet&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;head&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;body&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Hello, &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;span&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;web performance&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;span&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt; students&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;p&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+        &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;img&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;./image.png&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;body&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;html&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt; 앞서 언급했듯이, 브라우저 주소창에 url을 입력하고 엔터키를 치면 브라우저는 해당 서버에 요청을 보내게 됩니다. 요청에 대한 응답으로는 위와 같은 형태의 HTML문서를 받아오게 되고, 이걸 하나하나 &lt;code class=&quot;language-text&quot;&gt;파싱parsing&lt;/code&gt;하기 시작하면서 브라우저가 데이터를 화면에 그리는 과정이 시작됩니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;미디어 파일을 만나면 추가로 요청을 보내서 받아옵니다.&lt;/li&gt;
+&lt;li&gt;JavaScript 파일을 만나면 해당 파일을 받아와서 실행할 때까지 파싱이 멈춥니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;HTML에서 DOM Tree로&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1e867ca40fdb7fdd4bbec1b8e7974308/ae694/image_3557904011498924844279.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 850px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 22.499999999999996%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAAsSAAALEgHS3X78AAAAy0lEQVQY05VQ2ZKDIBDk//9wTVbRoGu2DHKjJtBhqEpesi/bVdR0Mz0HMBSkxwPBRSADWmbkhE/kP3j+5IyaRQ8sc8ZVlHgFjPbwzsEaV6KHsw73445923Fbbm+eU65NtrjVO9JsFBOU9JCLh1UJW0jVYI1F8AHiItDzHufmjFNzQvvdYv6ZMfABXdth+V2q5h3HNE5gtMEqZSniGMWlJilBTZqvBkM/QK0KWuniW+sQGvjSxOmQx2gD9vqWGGJ5mq/x2I9aSFsS/w+ePKmCBVRpvsQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;img&quot;
+        title=&quot;&quot;
+        src=&quot;/static/1e867ca40fdb7fdd4bbec1b8e7974308/ae694/image_3557904011498924844279.png&quot;
+        srcset=&quot;/static/1e867ca40fdb7fdd4bbec1b8e7974308/8ff5a/image_3557904011498924844279.png 240w,
+/static/1e867ca40fdb7fdd4bbec1b8e7974308/e85cb/image_3557904011498924844279.png 480w,
+/static/1e867ca40fdb7fdd4bbec1b8e7974308/ae694/image_3557904011498924844279.png 850w&quot;
+        sizes=&quot;(max-width: 850px) 100vw, 850px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a1d2f33c2eff255ee28d409be2c5883b/e751c/full-process.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 55.41666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAADTklEQVQoz2NgmhPcyDDdbwXDZJ/FDAuC5/Fl2+uJMbBJiMpIyggKCSmIiYlLqatr8KsBsYamFp+ysoqAlrYOL4itpqbOr6mlzaeopCxoambB/f//f0aG/kO7Krr3bp3Xvm393InH9k2pmDNVhZGBgcvR0VrAwkSPz0hPg9/DxZ7bxd6Sx83BktvLxYbb1d6SG8T2dLbhDvJ25jy3dwXL1hXTWNYsncXMcPHGy5Ijp2/P3L7vzMyrd971LVi+RTckIlQlKiFNOSEtWzE2MVEzMCxWOTImRj0iLlHdPzRaPTw6SiswPE4tPDpGIyk9U2XHscuCB44dFj1x9jw3w67Lnyq3X3g3f/2xx/P3Xv/eu3Tfg4Q5u56Xrzj6NnvRnoflc/e8zj987XP+imPfUxbuvle75sT74hnbnuatPfasZt6+D5lzdz4qWXXiQ/GKE7/zTt7648bw6nx5+aPjhXOv78uZ8/5SWf+Fg+1WVw+U954/1Ot4Zl9LwMW9ZS37T5ySuHKgsv70nobg4wdmGF3eX961d/d8jTsn6ktvHmtIvXhsksP1QxVzb53stmJ4cyq58vnR+Pl39sTO+3g2acrVPfmad47XBlw41Ctz/Wir2t3jVQHrtu1ju3O82ufe8Ur7W0cqTW4drYo9vHe24L2TdU53TzaaXznSoXTjSE3oqf09Egwfz6fXvDudvOjJ4YR53y6lz76zP02eAQju7M/gvrI7hx/Enr78ABuIPru/Kf/G4fJVDPiAqlEk45Gdsxj//7/NaOmSxPj/pA7j3oPLOK8cqi68cbhs3tINS9UYTA4yda84xH3xYGP+zSNl7cIN/1kZGP4zPjhVzfvmfB47yJxnp9MZH5+LQRicFw5U8h/CvnWkrBpk4K0TDW73TlQv2XXktMbdUw0Tbx6vbUqY/59nwYZz0vP3PBO9ebRqxYNTldkgPd8vJTOePDCNgeHJkTSGVydTGV6eTGd4dTwWbOC1A0Wsj872gm2+eOt59Mmrr+efObWp+Mq+whVnLpyrOXT28ZJzN5+b3D2a1wcM21SQuk9n4xjPHOrDDIL3u/Xh7Dmt3hCx//+5Tl1+vPD42Rvbjl98VAHMEUwg8Rsnupl3r69kBDtidxKQ/M8AAPP9j41VRCitAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;img&quot;
+        title=&quot;&quot;
+        src=&quot;/static/a1d2f33c2eff255ee28d409be2c5883b/d9199/full-process.png&quot;
+        srcset=&quot;/static/a1d2f33c2eff255ee28d409be2c5883b/8ff5a/full-process.png 240w,
+/static/a1d2f33c2eff255ee28d409be2c5883b/e85cb/full-process.png 480w,
+/static/a1d2f33c2eff255ee28d409be2c5883b/d9199/full-process.png 960w,
+/static/a1d2f33c2eff255ee28d409be2c5883b/e751c/full-process.png 1123w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://developers.google.com/web/fundamentals/performance/critical-rendering-path/constructing-the-object-model?hl=ko&quot;&gt;https://developers.google.com/web/fundamentals/performance/critical-rendering-path/constructing-the-object-model?hl=ko&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; 브라우저는 읽어들인 HTML 바이트 데이터를, 해당 파일에 지정된 인코딩(ex.UTF-8)에 따라 문자열로 바꾸게 됩니다.
+바꾼 문자열을 다시 읽어서, HTML표준에 따라 문자열을 토큰Token으로 변환합니다. 이미지에서와 같이 이 과정에서 &lt;html&gt; 은 StartTag: html 로,  &lt;/html&gt; 은 EndTag: html 로 변환됩니다.
+이렇게 만들어진 토큰들을 다시 노드로 바꾸는 과정을 거칩니다. StartTag: html 이 들어왔으면 html노드를 만들고 EndTag:html 을 만나기 전까지 들어오는 토큰들은 html노드의 자식 노드로 넣는 식으로 변환이 이루어지기 때문에, 과정이 끝나면 Tree모양의 &lt;strong&gt;DOM(Document Object Model)&lt;/strong&gt;이 완성되게 됩니다.&lt;/p&gt;
+&lt;h2&gt;CSS에서 CSSOM으로&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7cee6c23a66d139437a7266846b75f76/ae694/image_4281477971498924844279.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 850px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 22.083333333333332%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsSAAALEgHS3X78AAAAqklEQVQY032Piw7CIBRD9/8fqVEHDsdjbICPyI6AWaKJsUnDbS5toeMDKSS88/Qnwe165ydW/qIz2jD7mbAE1DAg+p6zlEzOEcNSGMp+4aIuOOtKWV92E9ZY/ORJMTVdWTM6KWQL0aNlVJEwP7lGyvnAjAmrM0reOB4O7Hf7FqgGVUrPxSeKT7eyOtfHdWte2ViDnIbZ1UCYDCgBccnkZ/768uZpen3reucFawE0gOUWEHoAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;img&quot;
+        title=&quot;&quot;
+        src=&quot;/static/7cee6c23a66d139437a7266846b75f76/ae694/image_4281477971498924844279.png&quot;
+        srcset=&quot;/static/7cee6c23a66d139437a7266846b75f76/8ff5a/image_4281477971498924844279.png 240w,
+/static/7cee6c23a66d139437a7266846b75f76/e85cb/image_4281477971498924844279.png 480w,
+/static/7cee6c23a66d139437a7266846b75f76/ae694/image_4281477971498924844279.png 850w&quot;
+        sizes=&quot;(max-width: 850px) 100vw, 850px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt; HTML을 파싱하다가 CSS링크를 만나면, CSS파일을 요청해서 받아오게 됩니다.
+받아온 CSS파일은 HTML을 파싱한 것과 유사한 과정을 거쳐서 역시 Tree형태의 &lt;strong&gt;CSSOM&lt;/strong&gt;으로 만들어집니다. CSS 파싱은 CSS 특성상 자식 노드들이 부모 노드의 특성을 계속해서 이어받는(cascading) 규칙이 추가된다는 것을 빼고는 HTML파싱과 동일하게 이루어집니다.
+이렇게 CSSOM을 구성하는 것이 끝나야, 비로소 이후의 Rendering 과정을 시작할 수 있습니다. (그래서 CSS는 rendering의 blocking 요소라고 합니다.)&lt;/p&gt;
+&lt;h2&gt;DOM(Content) + CSSOM(Style) = Render Tree&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/67be8b3167b174a6fd238856616d89c5/ae694/image_4075517021498924844279.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 850px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 22.499999999999996%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAAsSAAALEgHS3X78AAAA3ElEQVQY031Qa2+DMAzM//+JnTYgQKC8WwghIcnVDu20T7Nk+fw4+2SBiGQxRJjdgPOhGxC8fzfi5Qm/cwYRv87cT19wwr6tG2Qhkf9kFEvo1cPSfqMBd1DcHR054Sywb1Qj4OxJtZAWHeaAPz1E9p1B1QrjMOLe3jGNE/SmYY+TiAcNOjSqR6cCqtxDFUBTWqrVKLICeZYnLu9gLOZpTuo4VmWFtmnRdz0RFEop8XW7oZI1tmck1aDIakJ6z2N5YJmXpM5ok7DAx0g2L+ahS6HF+lzp0EX480T8Zy9oRYJ50FvhdAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;img&quot;
+        title=&quot;&quot;
+        src=&quot;/static/67be8b3167b174a6fd238856616d89c5/ae694/image_4075517021498924844279.png&quot;
+        srcset=&quot;/static/67be8b3167b174a6fd238856616d89c5/8ff5a/image_4075517021498924844279.png 240w,
+/static/67be8b3167b174a6fd238856616d89c5/e85cb/image_4075517021498924844279.png 480w,
+/static/67be8b3167b174a6fd238856616d89c5/ae694/image_4075517021498924844279.png 850w&quot;
+        sizes=&quot;(max-width: 850px) 100vw, 850px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;CSSOM을 모두 만들었으면, DOM과 CSSOM를 합쳐서 Render Tree를 만듭니다. Render Tree는 DOM Tree에 있는 것들 중에서 화면에 실제로 &lt;strong&gt;‘보이는’&lt;/strong&gt; 친구들만으로 이루어집니다. 만약 CSS에서 &lt;code class=&quot;language-text&quot;&gt;display: none&lt;/code&gt; 으로 설정하였다면, 그 노드(와 그 자식 노드 전부)는 Render Tree에 추가되지 않는 것이죠. 마찬가지로 화면에 보이지 않는 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;head&amp;gt;&lt;/code&gt; 태그 안의 내용들도 Render Tree에는 추가되지 않습니다.
+그래서 아래 이미지의 Render Tree에는 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;head&amp;gt;&lt;/code&gt; 태그와, display속성이 none인 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;p&amp;gt;&lt;/code&gt; 태그 하위의 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;span&amp;gt;&lt;/code&gt; 태그가 사라진 것을 확인할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/637599acdfa2520ee9a9640359047e96/33d1d/render-tree-construction.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 46.666666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsSAAALEgHS3X78AAACkUlEQVQoz3VQXUhTYRg+001tztLSwixoppSplDdelBQEsatuwwwUE6YozAqdM1D8I0mtTApTFywbiznNLFEcOrdz9uPOjmc7PztnZ39u07RA6yqii/jaWVHe9MAHz/N+Dw/v+0BQHAC4BVkHU3Jyz1xO5zVu6ZX5rO0T3PqzhP7tAYKKK9dOV966fYrXu2hNKojeT4H24wdIOCEGbm9jbN0K6C5I5ufI8uNKerVlfHxGGw8ECa+L3Sslue0pgo0NG+zfyiizUkmYOxR5w0CkGJwQbTrlkoTRh6juUGZVtxfpGCRsIwrW+aQm5Ggb085O5T6dB8dsFrUsaFfqvdgrqRn/cvwdEivkHN1qn1VZu2p8fpW09BgQWCcj4D4d4dRcgkJIczrQQAI3w+a56M2XTg/Z7lntnHOg8AOE2Bum1meqA5b6IdqLXcfIoNdFbqy50ekBEu7ReP3Rt5jHSxD+T2o3ydpRcmPxz/Gtgt14Rzyzu6N1iIt7bXayjfvraenXp1mxQMkyGj2P06EVxzpDod6dnvIGTjhv8WW+hyN5k/oFMdR6ryGpqbE+taS4KDM/X3r4YvmFND5A88acYYSJE7oP2JGFJeshF+Y+Fx8n8X8vpqmjI2pDZpwmF0glwsKTEmGcC8pKC4T7l8iIvyyR+IBwfgeI6dDnUSb4cdZBblUTvrAsEt1SU7GfUspULQGROjH0P1RVVUFyufyvXqTDBSs47FlCTYTWFr0ZRnu7IliXTrsSySkaBaLwmkobQ9se5ZtAsoVjs5doLnvShCc27+wf+Bd8o7Y20eEc7hevBYkKI02fpQI7Q24mOob7tvtcZFCP+r8XbzqaHkbszSojE1SYcDNjIp0GfPcrfx1kDbDQL+2RTlz0GRJmAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;img&quot;
+        title=&quot;&quot;
+        src=&quot;/static/637599acdfa2520ee9a9640359047e96/d9199/render-tree-construction.png&quot;
+        srcset=&quot;/static/637599acdfa2520ee9a9640359047e96/8ff5a/render-tree-construction.png 240w,
+/static/637599acdfa2520ee9a9640359047e96/e85cb/render-tree-construction.png 480w,
+/static/637599acdfa2520ee9a9640359047e96/d9199/render-tree-construction.png 960w,
+/static/637599acdfa2520ee9a9640359047e96/33d1d/render-tree-construction.png 1150w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction?hl=ko&quot;&gt;https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction?hl=ko&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; DOM과 CSSOM을 참조해서 Render Tree를 만드는 과정샷이 궁금하다면 &lt;a href=&quot;https://www.udacity.com/course/website-performance-optimization--ud884&quot;&gt;Udacity강의&lt;/a&gt;의 일부인 아래 영상을 참고!&lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem; max-width:40rem; margin-left:auto; margin-right:auto&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/lvb06W_VKVE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;p&gt;&lt;em&gt;The Render Tree - Website Performance Optimization&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Render Object에서 Render Layer로&lt;/h2&gt;
+&lt;p&gt;Render Tree에는 사실 여러 가지가 포함되어 있습니다. Render Object Tree, Render Layer Tree 등등을 합쳐서 화면을 그리는 데에 필요한 모-든 정보를 가지고 있는 Render Tree가 완성됩니다. (‘등등’에는 Render Style Tree, InlineBox Tree같은 것들도 있습니다.).   &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7a7169b425b527911e1a04668e8f9b0b/a6d36/the_compositing_forest.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 650px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 41.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAIAAAB2/0i6AAAACXBIWXMAAAsSAAALEgHS3X78AAABkElEQVQY03VQy07bQBT1Z8Km/8AHlHWlgtRt1UpVlxRYkAUkNBVI4LglShzAsRtPnMRNHNvYY48zfs54bMakYsfZ3XvPQ/cIVVV5ngchzPO8fhtFUcRxjDFO0/R1KTDGAACKoriuu11tcOx60A8QpWUjI5TQMgxD4wWz+SIraJIVjFVCXVcPYHkr69yFUsrZ+sI+aottaewjXJL8+0V//1tXBtbW+nJg7HxovTs8V+auUJZUnQD5UY2iiLHS9oJrSb65k8eaHiLErdWZ1brqj7QpIaSumBPgy7vJr6ER4FQY/Z1LD1N5PDnp3C7XTm+kHXUkBZjiQDnuiI+GVdMMmOv3Xy8+t/4kacbD8yT+//NiZY9UEKDNyoVZXvB80/zHy5stnZ6snXWle1VHcTaYLNWFk2S5Nrd+ikMfNXphqBpXfS1Jmg65ptsbnLZvrCfIx7UXHvwQP51KLoy2UY4f7X253v14fvZ72ojTNNtgXJa8vIp3trKf9JkZv3gRQh2IXIgKQlhzrDjL9iPTCRBuCM+9ia8km43cOwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;img&quot;
+        title=&quot;&quot;
+        src=&quot;/static/7a7169b425b527911e1a04668e8f9b0b/a6d36/the_compositing_forest.png&quot;
+        srcset=&quot;/static/7a7169b425b527911e1a04668e8f9b0b/8ff5a/the_compositing_forest.png 240w,
+/static/7a7169b425b527911e1a04668e8f9b0b/e85cb/the_compositing_forest.png 480w,
+/static/7a7169b425b527911e1a04668e8f9b0b/a6d36/the_compositing_forest.png 650w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.chromium.org/developers/design-documents/gpu-accelerated-compositing-in-chrome&quot;&gt;https://www.chromium.org/developers/design-documents/gpu-accelerated-compositing-in-chrome&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Render Object Tree&lt;/strong&gt;가 위에서 말했듯이 DOM Tree의 노드 중에서 화면에 보이는 것들만으로 이루어지는 트리입니다. block, inline, image, text, table같은 요소들이 Render Object가 됩니다. DOM Tree에서 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;div&amp;gt;&lt;/code&gt;는 Render Object Tree에 Block element로, &lt;code class=&quot;language-text&quot;&gt;&amp;lt;span&amp;gt;&lt;/code&gt;은 Inline element로 옮겨지는 것이졍&lt;/p&gt;
+&lt;p&gt;Render Object의 속성에 따라 필요한 경우 &lt;strong&gt;Render Layer&lt;/strong&gt;가 만들어집니다. 그리고 이 Render Layer중에서 GPU에서 처리되는 부분이 있으면 다시 &lt;strong&gt;Graphic Layer&lt;/strong&gt;로 분리됩니다. 대표적으로는 다음과 같은 속성들이 쓰였을 때 Graphic Layer가 만들어지게 됩니다. (‘하드웨어 가속’을 사용할 수 있게 되어 성능을 좋게 한다고 할 때가 요때입니다. 자세한 내용은 &lt;a href=&quot;http://d2.naver.com/helloworld/2061385&quot;&gt;여기&lt;/a&gt;로)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CSS 3D Transform(translate3d, preserve-3d 등)이나 perspective 속성이 적용된 경우&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;video&amp;gt;&lt;/code&gt; 또는 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;canvas&amp;gt;&lt;/code&gt; 요소&lt;/li&gt;
+&lt;li&gt;CSS3 애니메이션함수나 CSS 필터 함수를 사용하는 경우&lt;/li&gt;
+&lt;li&gt;자식 요소가 레이어로 구성된 경우&lt;/li&gt;
+&lt;li&gt;z-index 값이 낮은 형제 요소가 레이어로 구성된 경우&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;만약 이런거 저런거 하나도 없이 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;div&amp;gt;&lt;/code&gt;하나에 width정도 속성만 있다고 하면 레이어는 기본으로 만들어지는 하나만 사용하게 됩니다.&lt;/p&gt;
+&lt;h2&gt;Layout(reflow)&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/acb206f1fd8d9b77a2f53c6da9c49ca0/ae694/image_6064002061498924844280.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 850px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 23.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAAsSAAALEgHS3X78AAAA2UlEQVQY03WQgW6DMAxE+f8vHNXKWiihgZYQCIUCyRvOKnXSNEunOL7YvlxCAEHwAb95lufC6EZivLh/8xBi3/sOiRQEneko8oLsmKGvOpIyXJasy8q2bjF3g4vntvq972e+8FITJMW5oNY1utKYu8G0hsf4oL23DP2AKhXlpST9SDl+ZhzSA/XVosuVWkHfzbuQnPycc2tuJL3tY6OoElSqimrVRUW1p68TTd1gO4s1drfD8Zw8kwPXB5bZx5rwoj55uRK/J4NlwTzNUaUMlkfRpz/x29R3fAOY+IKXhAxK2QAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;img&quot;
+        title=&quot;&quot;
+        src=&quot;/static/acb206f1fd8d9b77a2f53c6da9c49ca0/ae694/image_6064002061498924844280.png&quot;
+        srcset=&quot;/static/acb206f1fd8d9b77a2f53c6da9c49ca0/8ff5a/image_6064002061498924844280.png 240w,
+/static/acb206f1fd8d9b77a2f53c6da9c49ca0/e85cb/image_6064002061498924844280.png 480w,
+/static/acb206f1fd8d9b77a2f53c6da9c49ca0/ae694/image_6064002061498924844280.png 850w&quot;
+        sizes=&quot;(max-width: 850px) 100vw, 850px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt; 화면에 보이는 노드들만을 가지고 있는 Render Tree가 다 만들어지면, 이제 Render Tree에 있는 각각의 노드들이 화면의 어디에 위치할 지를 계산하는 Layout과정을 거칩니다. CSSOM에서 가져온 스타일 정보들로 이미 얘가 어떻게 생겨야 한다는 것은 모두 알고 있지만, 그래서 현재 보이는 뷰포트를 기준으로 실제로 놓으려면 얘가 어디에 가야하는 지는 계산을 또 해야하는 거죠. 여기에서 CSS box model이 쓰이며, position(relative, absolute, fixed..), width, height 등등 틀과 위치에 관련된 부분들이 계산됩니다.&lt;/p&gt;
+&lt;p&gt; 만약 width: 50% 로 되어있는데 브라우저를 리사이즈한다고 하면, 보이는 요소들은 변함이 없으니 Render Tree는 그대로인 상태에서, layout단계만 다시 거쳐 위치를 계산해서 그리게 됩니다.  &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/b910d6bb927f43dab688577e5266191c/resize_browser.gif&quot; alt=&quot;img&quot;&gt;
+&lt;em&gt;요런 경우, 같은 렌더 트리를 가지고 layout(과 이후 paint)단계부터 다시 거칩니다&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이렇게 화면에 보이는 요소 각각이 어디에 어떻게 위치할 지를 정해주는 과정을 Webkit에서는 layout으로, Gecko에서는 reflow로 부르고 있습니다.    &lt;/p&gt;
+&lt;h2&gt;Paint(repaint)&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/55fdd762e83af453640b9333ded8c6fd/ae694/image_7925005441498924844280.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 850px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 22.499999999999996%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAAsSAAALEgHS3X78AAAAzElEQVQY041Qaw+CMAzk//9ASQwC4y3yGIMxnjtpFRP9ZJOm17W9XufAgs3uFpOZONZVjfP9y+wPfjvNnNihhFwPGiIUCIOQYyc7DP2AXvUY9Qgzms9SJRW2dcMyL9i3nYmWaWXsBH6APM1ZVVmUaJsWutc8OA4vIqqLQMC7enAvLvybjyIvQLO0vK4ex6zGPTkUykayCiJKooQbq7JClmaIo5hJIhFxnVQ3dQOjDS+iXLaS8WyOK9VBeH4JySViaqLz+bROMRHh/8ziCYgDgV3U2ztJAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;img&quot;
+        title=&quot;&quot;
+        src=&quot;/static/55fdd762e83af453640b9333ded8c6fd/ae694/image_7925005441498924844280.png&quot;
+        srcset=&quot;/static/55fdd762e83af453640b9333ded8c6fd/8ff5a/image_7925005441498924844280.png 240w,
+/static/55fdd762e83af453640b9333ded8c6fd/e85cb/image_7925005441498924844280.png 480w,
+/static/55fdd762e83af453640b9333ded8c6fd/ae694/image_7925005441498924844280.png 850w&quot;
+        sizes=&quot;(max-width: 850px) 100vw, 850px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt; 그리고 드디어 Render Tree의 각 노드들을 실제로 화면에 그리게 됩니다..!&lt;br&gt;
+visibility, outline, background-color같이 정말로 눈에 보이는 픽셀들이 여기에서 그려집니다.    &lt;/p&gt;
+&lt;p&gt; 만약 Render Layer가 2개 이상이라면 각각의 Layer를 paint한 뒤 하나의 이미지로 Composite하는 과정을 추가로 거친 뒤에 실제로 화면에 그려지게 됩니다.
+(Gecko에서 reflow를 거쳐서 화면에 paint되기까지를 보여주는 영상이 있어서 추가로 붙여둡니다.).   &lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem; max-width:40rem; margin-left:auto; margin-right:auto&quot; &gt; &lt;iframe style=&quot;margin-left:auto;margin-right:auto;position:absolute; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot; src=&quot;https://www.youtube.com/embed/ZTnIxIA5KGw&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;p&gt;&lt;em&gt;Gecko Reflow Visualization - mozilla.org&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;참고자료&lt;/h2&gt;
+&lt;p&gt;아래 영상&amp;#x26;아티클을 참고하였습니다.&lt;/p&gt;
+&lt;p&gt;차근차근 알려주기로는 Udacity 강의가 제일..! (한글 자막도 제공!)
+&lt;a href=&quot;https://www.udacity.com/course/website-performance-optimization--ud884&quot;&gt;Udacity - Website Performance Optimization&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;그 다음으로는 이 아저씨 발표. (썸네일보다 착하게 생겼어요)&lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem; max-width:40rem; margin-left:auto; margin-right:auto&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/SmE4OwHztCc&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;p&gt;&lt;em&gt;Ryan Seddon: So how does the browser actually render a website | JSConf EU 2015&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;이건 얼마 못 알아들었지만 Webkit 커미터인 구글러…&lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem; max-width:40rem; margin-left:auto; margin-right:auto&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/RVnARGhhs9w&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;p&gt;영상 말고 아티클로는,
+일단 구글에서 마치 가이드처럼 제공하고 있는 웹 성능 문서.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://developers.google.com/web/fundamentals/performance/critical-rendering-path/?hl=ko&quot;&gt;https://developers.google.com/web/fundamentals/performance/critical-rendering-path/?hl=ko&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;+a&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://afasterweb.com/2015/08/29/what-the-jank/&quot;&gt;https://afasterweb.com/2015/08/29/what-the-jank/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.html5rocks.com/ko/tutorials/speed/layers/&quot;&gt;https://www.html5rocks.com/ko/tutorials/speed/layers/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://d2.naver.com/helloworld/59361&quot;&gt;http://d2.naver.com/helloworld/59361&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/nhnent/fe.javascript/wiki/Reflow%EC%99%80-Repaint&quot;&gt;https://github.com/nhnent/fe.javascript/wiki/Reflow와-Repaint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.mimul.com/pebble/default/2013/07/07/1373183724195.html&quot;&gt;http://www.mimul.com/pebble/default/2013/07/07/1373183724195.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://donggov.tistory.com/56&quot;&gt;http://donggov.tistory.com/56&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://d2.naver.com/helloworld/2061385&quot;&gt;http://d2.naver.com/helloworld/2061385&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.chromium.org/developers/design-documents/-gpu-accelerated-compositing-in-chrome&quot;&gt;https://www.chromium.org/developers/design-documents/-gpu-accelerated-compositing-in-chrome&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;그리고…끝판왕스러운 마지막 아티클&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/&quot;&gt;https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/&lt;/a&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;2017년 6월 &lt;a href=&quot;https://post.naver.com/viewer/postView.nhn?volumeNo=8431285&amp;#x26;memberNo=34176766&quot;&gt;네이버 포스트에 작성한 글&lt;/a&gt;을 옮겨온 포스트입니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[doodledCS ep0-1] What is CS?]]></title><description><![CDATA[문제를 해결하기 위해 컴퓨터와 이야기하는 방법]]></description><link>https://thenewpark.github.io/playground//posts/doodledcs-00-01</link><guid isPermaLink="false">https://thenewpark.github.io/playground//posts/doodledcs-00-01</guid><pubDate>Fri, 25 Sep 2020 06:30:28 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;‘doodledCS’는 하버드 오픈 코스웨어 CS50을 기본으로 학습한 내용을 그림으로 다시 기록하는 시리즈입니다.제가 학교에서 배운 내용 약간, 혹은 그때그때 보충 자료로 읽는 책들에서 약간씩의 내용을 더할 수 있습니다. 잘못된 내용은 언제든지 피드백 주시면 올바르게 배워나가는 데에 도움이 될 것 같습니다 :)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
