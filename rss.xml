@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[thenewpark playground]]></title><description><![CDATA[Everyday life as a playground]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 03 Jan 2021 16:46:13 GMT</lastBuildDate><item><title><![CDATA['커뮤니티'를 위한 컨퍼런스 - JSConf.Asia 2018]]></title><description><![CDATA[JSConf.Asia 2018 참석 후기]]></description><link>https://thenewpark.github.io/playground//posts/jsconf-asia-2018</link><guid isPermaLink="false">https://thenewpark.github.io/playground//posts/jsconf-asia-2018</guid><pubDate>Sun, 03 Jan 2021 16:19:13 GMT</pubDate><content:encoded>&lt;p&gt; 지난 1월 싱가포르에서 열린 JSConf.Asia 2018에 팀원들과 다녀왔습니다. 첫째/셋째 날에는 세션, 둘째 날에는 워크샵으로 구성된 3일간의 일정이었습니다.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[thenewpark playground]]></title><description><![CDATA[Everyday life as a playground]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 03 Jan 2021 17:11:48 GMT</lastBuildDate><item><title><![CDATA['커뮤니티'를 위한 컨퍼런스 - JSConf.Asia 2018]]></title><description><![CDATA[JSConf.Asia 2018 참석 후기]]></description><link>https://thenewpark.github.io/playground//posts/jsconf-asia-2018</link><guid isPermaLink="false">https://thenewpark.github.io/playground//posts/jsconf-asia-2018</guid><pubDate>Sun, 03 Jan 2021 16:19:13 GMT</pubDate><content:encoded>&lt;p&gt; 지난 1월 싱가포르에서 열린 JSConf.Asia 2018에 팀원들과 다녀왔습니다. 첫째/셋째 날에는 세션, 둘째 날에는 워크샵으로 구성된 3일간의 일정이었습니다.&lt;/p&gt;
 &lt;p&gt; 자세한 일정은 &lt;a href=&quot;https://2018.jsconf.asia/&quot;&gt;공식 홈페이지&lt;/a&gt;에서 확인하실 수 있고, 첫째 날 Code in the dark 이벤트와 둘째 날 워크샵들 이외에 모든 세션은 &lt;a href=&quot;https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA&quot;&gt;JSConf youtube 채널&lt;/a&gt;에 속속 올라오고 있습니다. &lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;‘커뮤니티’를 위한 컨퍼런스&lt;/h2&gt;
@@ -110,7 +110,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;개발자라는 걸 슬프게 하는 이유가 있다면?&lt;/em&gt;&lt;/p&gt;
+&lt;figcaption&gt;개발자라는 걸 슬프게 하는 이유가 있다면?&lt;/figcaption&gt;
 &lt;p&gt; 특이하게 오프닝에서 퀴즈쇼를 진행하였는데요. 컨퍼런스 신청할 때같이 답변을 받았던 설문 내용을 질문으로 만들어서, 참가하고 싶은 사람은 무대 위로 올라가서 참가하는 식이었습니다. 개발자들이면 공감&amp;#x26;재밌게 볼 질문들이 많아서 앉은 자리에서도 맞춰보거나 답이 나왔을 때 오 맞아맞아 하거나 하면서 봤어요.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;요런 질문들이 있었습니다.&lt;br&gt;
@@ -123,7 +123,7 @@ Q. 새로 프론트엔드를 구성할 때 나는 ____ 를 쓴다.    &lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3&gt;2 Code in the dark&lt;/h3&gt;
 &lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem; max-width:40rem; margin-left:auto; margin-right:auto&quot; &gt; &lt;iframe src=&quot;https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=2EB2EC24DC3FBED23F184942ABB4CE7E0336&amp;amp;outKey=V125b1bf05e1f017f2a2d84e49b65315d787cfa22a438f9f108e984e49b65315d787c&quot; frameborder=&quot;no&quot; scrolling=&quot;no&quot; title=&quot;NaverVideo&quot; allow=&quot;autoplay; gyroscope; accelerometer; encrypted-media&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
-&lt;p&gt;&lt;em&gt;세상에서 가장 건전한 클럽 이벤트&lt;/em&gt;&lt;/p&gt;
+&lt;figcaption&gt;세상에서 가장 건전한 클럽 이벤트&lt;/figcaption&gt;
 &lt;p&gt; Code in the dark는 JSConf와 별도로 정기 개최되는 이벤트입니다. 이번에는 시기를 맞추어서 제휴(?) 식으로 함께 개최한 것 같아요. Code in the dark 자체는 싱가포르 이외에 다른 나라들에서도 열리는 이벤트입니다. 자세한 내용은 &lt;a href=&quot;http://codeinthedark.com/&quot;&gt;공식 홈페이지&lt;/a&gt;를 참고해주세요.&lt;/p&gt;
 &lt;p&gt; 간단하게는 이렇습니다.    &lt;/p&gt;
 &lt;ul&gt;
@@ -168,10 +168,10 @@ Q. 새로 프론트엔드를 구성할 때 나는 ____ 를 쓴다.    &lt;/p&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;요것이 공식 에디터 화면&lt;/em&gt;&lt;/p&gt;
+&lt;figcaption&gt;요것이 공식 에디터 화면&lt;/figcaption&gt;
 &lt;h3&gt;3 워크샵 데이&lt;/h3&gt;
 &lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem; max-width:40rem; margin-left:auto; margin-right:auto&quot; &gt; &lt;iframe src=&quot;https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=6273A67567170AC116307F71BA1768048726&amp;amp;outKey=V123fb0c8db601d8c4276ba6b3d1a47100729e3830d2f69827804ba6b3d1a47100729&quot; frameborder=&quot;no&quot; scrolling=&quot;no&quot; title=&quot;NaverVideo&quot; allow=&quot;autoplay; gyroscope; accelerometer; encrypted-media&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
-&lt;p&gt;&lt;em&gt;워크샵 데이 : 컨퍼런스장과 떨어져 있는 센토샤 리조트로 이동해서 오전/오후 워크샵 및 네트워킹 타임&lt;/em&gt;&lt;/p&gt;
+&lt;figcaption&gt;워크샵 데이 : 컨퍼런스장과 떨어져 있는 센토샤 리조트로 이동해서 오전/오후 워크샵 및 네트워킹 타임&lt;/figcaption&gt;
 &lt;p&gt; 워크샵 데이는 주최 측이 이번 컨퍼런스에서 새롭게 시도한 프로그램이었습니다. 컨퍼런스 오거나이저인 Thomas가 오프닝에서 했던 말에 따르면, 2016년 JSConf.Asia를 개최했을 때 (2017년에는 JSConf.Asia가 개최되지 않았습니다) 받은 피드백 중 가장 많았던 것이 “컨퍼런스 세션들 좋긴 했는데, 3일 동안 스피커들 얘기 듣기만 하고 서로 알 시간이 없는 것 같다.” 여서, 올해는 아예 두 번째 날을 Community&amp;#x26;Workshop day로 만들었다고 하더라구요.&lt;/p&gt;
 &lt;p&gt; 컨퍼런스가 시작되기 이전에 각자 참여할 워크샵을 온라인으로 신청하여 워크샵 데이에서 신청했던 곳을 찾아가는 방식이었습니다. 다양한 워크샵이 있었는데, 저는 오전에는 Chen Hui Jing의 CSS Grid, 오후에는 Vanessa Radd이 진행한 Augmented City에 참여하였습니다.&lt;/p&gt;
 &lt;p&gt;
@@ -210,7 +210,7 @@ Q. 새로 프론트엔드를 구성할 때 나는 ____ 를 쓴다.    &lt;/p&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;AR을 어떤 아이디어를 구현하는 데에 쓰면 재밌을지 생각나는 대로 다 적고, 비슷한 아이디어들끼리 모아봅니다.&lt;/em&gt;&lt;/p&gt;
+&lt;figcaption&gt;AR을 어떤 아이디어를 구현하는 데에 쓰면 재밌을지 생각나는 대로 다 적고, 비슷한 아이디어들끼리 모아봅니다.&lt;/figcaption&gt;
 &lt;p&gt; Augmented City 워크샵에서는 팀을 짜서 아주 간단한 AR 어플리케이션을 만들어보았는데요. 짧은 시간이긴 하지만 브레인스토밍을 하고, 아이디어들을 생각나는 대로 다 포스트잇에 적으면서 얘기한 다음, 그중에 어떤 아이디어를 우리 팀 기획으로 잡을지 논의하는 과정까지 있어서 초미니 해커톤 같은 느낌이었어요. 개발할 때에는 &lt;a href=&quot;https://glitch.com/&quot;&gt;glitch&lt;/a&gt;라는 페이지에서 실시간으로 같은 화면을 공유해서 보면서 얘기하기도 했습니다.&lt;/p&gt;
 &lt;p&gt; 시간이 워낙 짧아서 정작 AR개발 자체는 완전 예제 돌려보는 정도였던 게 조금 아쉬웠지만 기획한 취지 그대로 세션들을 들을 때보다는 훨씬 자연스럽게 주변 사람들과 이야기할 기회들이 있어서 재밌었습니다. 국내 컨퍼런스에서 잘 운영하지 않는 종류의 프로그램이기도 하고요. 그리고 한편으로는 왜 그렇게 컨퍼런스 티켓을 비싸게 받았는지 이해되는 리조트 수준..&lt;/p&gt;
 &lt;h3&gt;4 라이트닝 토크&lt;/h3&gt;
@@ -285,7 +285,7 @@ Q. 새로 프론트엔드를 구성할 때 나는 ____ 를 쓴다.    &lt;/p&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;트위터봇으로 구글에 검색하니 이런 것들이 나왔습니다…&lt;/em&gt;&lt;/p&gt;
+&lt;figcaption&gt;트위터봇으로 구글에 검색하니 이런 것들이 나왔습니다...&lt;/figcaption&gt;
 &lt;p&gt; 그런데 컨퍼런스에 오니, 세션이 끝날 때마다 듣는 말이 있었습니다 “If you have any questions, tweet me!“. 다시 홈페이지를 보니, 아예 공식 홈페이지에도 스피커마다 트위터 계정을 달아두었더라구요.  &lt;/p&gt;
 &lt;p&gt;
   &lt;a
@@ -326,7 +326,7 @@ Q. 새로 프론트엔드를 구성할 때 나는 ____ 를 쓴다.    &lt;/p&gt;
 &lt;p&gt; 네트워킹 시간에 얘기할 때도 모두가 초장부터 물어보는 게 “트위터 해?”, “트위터 계정 뭐야?”, “트위터로 연락할게” 였구요. &lt;del&gt;트위터 안하는 사람 속상해서 살겠나..&lt;/del&gt;
 사실 이번에 컨퍼런스를 다녀오면서 가장 의외였던 부분이 해외에서 트위터를 굉장히 official한 용도로 사용하고 있다는 것이었는데요. ’&lt;strong&gt;컨퍼런스에서 만들어진 커뮤니티를 이어가는 곳&lt;/strong&gt;‘으로 모두가 트위터를 쓰고있는 것처럼 보였습니다. 연락할 방법을 물어보면 열에 아홉은 트위터 계정을 알려주었고, (메일이나 페북이나 인스타를 알려줄 줄 알았는데 모두 아니었다고 한다…) 개발 관련 질문도 트위터에서, 어떤 주제에 관심있다고 하면 “아 그럼 이 사람 트위터 팔로잉 해봐”라는 답이 돌아왔어요. 명함도 쓰는 사람들이 있긴 했으나 높은 확률로 “누가 요즘 명함을 가지고 다녀?!”라는 말을 들을 수 있습니다ㅠㅜ 트위터 계정 파서 가세여 여러분..&lt;/p&gt;
 &lt;img src=&quot;https://static.notion-static.com/910d7fc0-17e8-47df-be18-f0802e54796e/319BA3A9-0266-4540-B473-20013CDB407E.jpeg&quot; alt=&quot;img&quot; style=&quot;zoom:50%;&quot;&gt;
-&lt;p&gt;&lt;em&gt;“우리가 JSConf Asia 스폰서고 발표도 할거야. 이 코드 쓰고 20% 할인받아서 티켓 사서 오렴”.&lt;/em&gt;&lt;/p&gt;
+&lt;figcaption&gt;&amp;quot;&amp;#xC6B0;&amp;#xB9AC;&amp;#xAC00; JSConf Asia &amp;#xC2A4;&amp;#xD3F0;&amp;#xC11C;&amp;#xACE0; &amp;#xBC1C;&amp;#xD45C;&amp;#xB3C4; &amp;#xD560;&amp;#xAC70;&amp;#xC57C;. &amp;#xC774; &amp;#xCF54;&amp;#xB4DC; &amp;#xC4F0;&amp;#xACE0; 20% &amp;#xD560;&amp;#xC778;&amp;#xBC1B;&amp;#xC544;&amp;#xC11C; &amp;#xD2F0;&amp;#xCF13; &amp;#xC0AC;&amp;#xC11C; &amp;#xC624;&amp;#xB834;&amp;quot;&lt;/figcaption&gt;
 &lt;p&gt; JSConf Asia에서의 경험이지만, 참가한 사람들 자체는 꽤 전세계(아이슬란드/영국/독일/스페인/인도/호주/홍콩/태국/싱가포르/미국 등등)에서 왔다는 걸 생각해봤을 때 이 컨퍼런스에서만 유독 트위터를 쓰는 건 아닌 것 같습니다. 컨퍼런스 티켓 자체도 Adobe가 자기네 팀에서 스피커가 간다는 공지를 올리면서 할인 코드를 뿌리기도 하고, 실제로 위에서 얘기했던 다양성 확보를 위해 컨퍼런스 오거나이저 측에서 로컬 커뮤니티를 찾아서 할인코드/티켓을 뿌리려고 한다는 데에도 트위터를 통하는 경우가 꽤 있는 것 같아요.&lt;/p&gt;
 &lt;h2&gt;즐겁게 성장하기 위한,&lt;/h2&gt;
 &lt;p&gt;
@@ -364,7 +364,7 @@ Q. 새로 프론트엔드를 구성할 때 나는 ____ 를 쓴다.    &lt;/p&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Jolly JS Journeys(&lt;a href=&quot;https://www.youtube.com/watch?v=iGPzwotXgfk&quot;&gt;https://www.youtube.com/watch?v=iGPzwotXgfk&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+&lt;figcaption&gt;Jolly JS Journeys(https://www.youtube.com/watch?v=iGPzwotXgfk)&lt;/figcaption&gt;
 &lt;p&gt; ‘배움’이라는 측면에서는, 솔직히 실망스러운 세션들도 많았습니다. ‘저 정도는 인터넷 찾아보면 문서로 다 나와있는 개요 정도 아니야?’ 싶은 것들도 있었고, 정말로 재미삼아 만들어본 쓸모는 없는 것들을 모아서 발표하기도 했고(그리고 재밌었습니다) 뭔가 과학상자로 만든 느낌의 로봇들을 가지고 올라왔는데 제대로 동작하지 않는 경우도 있었어요(하지만 껄껄껄 웃고 끝났습니다). 그래서 컨퍼런스 당일에는 ‘JSConf인데.. 뭔가 좀 실망이다’라는 생각이 들 때도 있었고 그렇게 얘기하기도 했는데요. 우리나라에서 컨퍼런스에 갔을 때 오히려 ‘와…저런 걸 어떻게 하지’ 싶은 것들이 많았던 것 같았거든요.&lt;/p&gt;
 &lt;p&gt; 그런데 돌아와서 생각해보니 내가 자기검열하듯 하는 걸 그 스피커들에게 똑같이 하고 있는 건 아니었나-싶어졌습니다. 사실 글을 쓰거나, 발표를 하려고 할 때마다 ‘이정도는 어차피 다른 사람들도 다 아는 거 아닐까’, ‘말도 안되게 틀린 얘기하는 거 아냐?’, ‘괜히 쓸데없는 거 공유하는 거 아냐?’하는 걱정이 끊이질 않습니다. 개인적으로 만드는 것/만들고 싶은 것들을 공개하는 것도 부끄러울 때가 많구요. 그러지 않으려고 하는데, 성향인지 고치기는 쉽지 않고 일을 시작한 이후로는 점점 더 어렵게 느껴지기도 합니다.&lt;/p&gt;
 &lt;p&gt; 주변의 친구들과 이야기해보면서 이게 의외로 저만의 걱정은 아닌 때가 많다는 것도 알았는데요. 그러고나니 그냥 누군가는 ‘뭐 저런 걸 여기까지 와서 발표해?‘라고 할 법한 것들도 신나게 발표하고, 좀 더 가볍고 즐거운 분위기에서 서로 만든 걸 공유하는 장이 더 필요하겠구나 싶습니다. 제가 처음에 갸우뚱했던 JSConf처럼요.&lt;/p&gt;
@@ -381,10 +381,41 @@ Q. 새로 프론트엔드를 구성할 때 나는 ____ 를 쓴다.    &lt;/p&gt;
 &lt;p&gt; 가장 구체적인 사례들로, 실제로 리액트 프로젝트에서 어떻게 문제들을 해결해나갔는 지를 이야기해준 세션이었습니다. 발표자는 &lt;a href=&quot;https://taskworld.com/&quot;&gt;TaskWorld&lt;/a&gt;라는 협업툴의 프론트엔드 개발자로, 900개(…) 이상 컴포넌트들을 가지고 있는, 2년 정도 된 프로젝트에서의 경험을 담긴 발표였어요.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt; 최근 받았던 뉴스레터 중에 비슷한 주제를 얘기한 게 있어서 덧붙여둡니다. ( 개인적으로 항상 재미있게 읽고 있는 &lt;a href=&quot;http://publy.us11.list-manage.com/subscribe?u=8e469b932eaa730d3a89bc869&amp;#x26;id=f64c75daf2&quot;&gt;publy 뉴스레터&lt;/a&gt;입니다 )&lt;/p&gt;
-&lt;p&gt;​    &lt;/p&gt;
 &lt;h2&gt;+1)&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://post.naver.com/viewer/postView.nhn?volumeNo=13031665&amp;#x26;memberNo=34176766&amp;#x26;navigationType=push#&quot;&gt;&lt;img src=&quot;https://ci4.googleusercontent.com/proxy/126jalGKthXqgWqIDVYnSNVgADreXFrdXoX2QRgqK6hKttcsg-otloPohZh3kvswr4KSUt4wT0WfpPDf2iMneRUMNqtmKwDhvjDuZ9EzRnQHkwRAQeEG8uWVM0OmilWnwZnJBBE83zLz97nxGRMqc6gKYREzGRisSB6Kw0I=s0-d-e1-ft#35;https://gallery.mailchimp.com/8e469b932eaa730d3a89bc869/images/188fdd28-20e7-4d5b-b51f-402af50a3b99.jpg&quot; alt=&quot;img&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Imposter Syndrome in Data Science - Caitlin Hudon&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a7a44393fa700b4182a947b936dd579b/df7e7/imposter.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 639px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 51.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//aAAwDAQACEAMQAAAB12mpxTjjn//EABoQAAICAwAAAAAAAAAAAAAAAAABAiIDM0H/2gAIAQEAAQUCk7N1TMW3p//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8B2sVP/8QAFhABAQEAAAAAAAAAAAAAAAAAEANy/9oACAEBAAY/Amun/8QAGxAAAgMAAwAAAAAAAAAAAAAAAAEhMUERUWH/2gAIAQEAAT8hkedDeEYPaoRUjYqP/9oADAMBAAIAAwAAABBcL//EABgRAQADAQAAAAAAAAAAAAAAAAEAESEx/9oACAEDAQE/EMoyKXyf/8QAGBEAAgMAAAAAAAAAAAAAAAAAADEBEVH/2gAIAQIBAT8Q0IhRn//EABoQAQADAQEBAAAAAAAAAAAAAAEAESExYdH/2gAIAQEAAT8QdALMP1O6t2Q7BKuc00XnkdN4QhgCf//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Imposter Syndrome in Data Science &quot;
+        title=&quot;&quot;
+        src=&quot;/static/a7a44393fa700b4182a947b936dd579b/df7e7/imposter.jpg&quot;
+        srcset=&quot;/static/a7a44393fa700b4182a947b936dd579b/09b79/imposter.jpg 240w,
+/static/a7a44393fa700b4182a947b936dd579b/7cc5e/imposter.jpg 480w,
+/static/a7a44393fa700b4182a947b936dd579b/df7e7/imposter.jpg 639w&quot;
+        sizes=&quot;(max-width: 639px) 100vw, 639px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;figcaption&gt;Imposter Syndrome in Data Science - Caitlin Hudon&lt;/figcaption&gt;
 &lt;p&gt; ‘일잘러’가 되고 싶어서 제가 하는 노력: 업무 관련 책을 읽고, 뉴스레터를 구독합니다. 해외 컨퍼런스 영상을 보고, 웨비나(Webinar)를 듣습니다. 업계 구루(Guru)들의 블로그에 수시로 들어가서 글을 읽고, 그들이 추천하는 책을 읽습니다. 비싼 돈을 내고 강의를 듣기도 합니다.&lt;/p&gt;
 &lt;p&gt; 쉴 새 없이 공부하지만 일잘러의 길은 아득히 멀기만 합니다. 배울 것은 끝이 없는데 공부할 시간은 부족하기에, 늘 지식과 역량의 결핍을 느낍니다. Medium에서 능력자들의 글을 읽고 있자면, 저는 도저히 이들과 같은 수준에서 경쟁할 수 없을 것 같습니다.&lt;/p&gt;
 &lt;p&gt; 지금까지 어찌어찌 버틴 것은 순전히 제 업무가 동료들에게는 생소한 분야라서, 아직 제 밑천이 드러나지 않은 덕분이라는 생각을 해 봅니다. 언젠가 이 분야를 잘 아는 동업자에게 ‘제대로 걸려서’ 저의 얕은 바닥이 파헤쳐지면 어쩌나 하는 두려움도 있습니다.&lt;/p&gt;
@@ -602,10 +633,10 @@ Q. 새로 프론트엔드를 구성할 때 나는 ____ 를 쓴다.    &lt;/p&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://developers.google.com/web/fundamentals/performance/critical-rendering-path/constructing-the-object-model?hl=ko&quot;&gt;https://developers.google.com/web/fundamentals/performance/critical-rendering-path/constructing-the-object-model?hl=ko&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;figcaption&gt;https://developers.google.com/web/fundamentals/performance/critical-rendering-path/constructing-the-object-model?hl=ko&lt;/figcaption&gt;
 &lt;p&gt; 브라우저는 읽어들인 HTML 바이트 데이터를, 해당 파일에 지정된 인코딩(ex.UTF-8)에 따라 문자열로 바꾸게 됩니다.
-바꾼 문자열을 다시 읽어서, HTML표준에 따라 문자열을 토큰Token으로 변환합니다. 이미지에서와 같이 이 과정에서 &lt;html&gt; 은 StartTag: html 로,  &lt;/html&gt; 은 EndTag: html 로 변환됩니다.
-이렇게 만들어진 토큰들을 다시 노드로 바꾸는 과정을 거칩니다. StartTag: html 이 들어왔으면 html노드를 만들고 EndTag:html 을 만나기 전까지 들어오는 토큰들은 html노드의 자식 노드로 넣는 식으로 변환이 이루어지기 때문에, 과정이 끝나면 Tree모양의 &lt;strong&gt;DOM(Document Object Model)&lt;/strong&gt;이 완성되게 됩니다.&lt;/p&gt;
+바꾼 문자열을 다시 읽어서, HTML표준에 따라 문자열을 토큰Token으로 변환합니다. 이미지에서와 같이 이 과정에서 &lt;html&gt; 은 StartTag: html 로,  &lt;/html&gt; 은 EndTag: html 로 변환됩니다.&lt;/p&gt;
+&lt;p&gt; 이렇게 만들어진 토큰들을 다시 노드로 바꾸는 과정을 거칩니다. StartTag: html 이 들어왔으면 html노드를 만들고 EndTag:html 을 만나기 전까지 들어오는 토큰들은 html노드의 자식 노드로 넣는 식으로 변환이 이루어지기 때문에, 과정이 끝나면 Tree모양의 &lt;strong&gt;DOM(Document Object Model)&lt;/strong&gt;이 완성되게 됩니다.&lt;/p&gt;
 &lt;h2&gt;CSS에서 CSSOM으로&lt;/h2&gt;
 &lt;p&gt;
   &lt;a
@@ -641,8 +672,8 @@ Q. 새로 프론트엔드를 구성할 때 나는 ____ 를 쓴다.    &lt;/p&gt;
   &lt;/a&gt;
     &lt;/p&gt;
 &lt;p&gt; HTML을 파싱하다가 CSS링크를 만나면, CSS파일을 요청해서 받아오게 됩니다.
-받아온 CSS파일은 HTML을 파싱한 것과 유사한 과정을 거쳐서 역시 Tree형태의 &lt;strong&gt;CSSOM&lt;/strong&gt;으로 만들어집니다. CSS 파싱은 CSS 특성상 자식 노드들이 부모 노드의 특성을 계속해서 이어받는(cascading) 규칙이 추가된다는 것을 빼고는 HTML파싱과 동일하게 이루어집니다.
-이렇게 CSSOM을 구성하는 것이 끝나야, 비로소 이후의 Rendering 과정을 시작할 수 있습니다. (그래서 CSS는 rendering의 blocking 요소라고 합니다.)&lt;/p&gt;
+받아온 CSS파일은 HTML을 파싱한 것과 유사한 과정을 거쳐서 역시 Tree형태의 &lt;strong&gt;CSSOM&lt;/strong&gt;으로 만들어집니다. CSS 파싱은 CSS 특성상 자식 노드들이 부모 노드의 특성을 계속해서 이어받는(cascading) 규칙이 추가된다는 것을 빼고는 HTML파싱과 동일하게 이루어집니다.&lt;/p&gt;
+&lt;p&gt; 이렇게 CSSOM을 구성하는 것이 끝나야, 비로소 이후의 Rendering 과정을 시작할 수 있습니다. (그래서 CSS는 rendering의 blocking 요소라고 합니다.)&lt;/p&gt;
 &lt;h2&gt;DOM(Content) + CSSOM(Style) = Render Tree&lt;/h2&gt;
 &lt;p&gt;
   &lt;a
@@ -677,8 +708,8 @@ Q. 새로 프론트엔드를 구성할 때 나는 ____ 를 쓴다.    &lt;/p&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;CSSOM을 모두 만들었으면, DOM과 CSSOM를 합쳐서 Render Tree를 만듭니다. Render Tree는 DOM Tree에 있는 것들 중에서 화면에 실제로 &lt;strong&gt;‘보이는’&lt;/strong&gt; 친구들만으로 이루어집니다. 만약 CSS에서 &lt;code class=&quot;language-text&quot;&gt;display: none&lt;/code&gt; 으로 설정하였다면, 그 노드(와 그 자식 노드 전부)는 Render Tree에 추가되지 않는 것이죠. 마찬가지로 화면에 보이지 않는 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;head&amp;gt;&lt;/code&gt; 태그 안의 내용들도 Render Tree에는 추가되지 않습니다.
-그래서 아래 이미지의 Render Tree에는 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;head&amp;gt;&lt;/code&gt; 태그와, display속성이 none인 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;p&amp;gt;&lt;/code&gt; 태그 하위의 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;span&amp;gt;&lt;/code&gt; 태그가 사라진 것을 확인할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;CSSOM을 모두 만들었으면, DOM과 CSSOM를 합쳐서 Render Tree를 만듭니다. Render Tree는 DOM Tree에 있는 것들 중에서 화면에 실제로 &lt;strong&gt;‘보이는’&lt;/strong&gt; 친구들만으로 이루어집니다. 만약 CSS에서 &lt;code class=&quot;language-text&quot;&gt;display: none&lt;/code&gt; 으로 설정하였다면, 그 노드(와 그 자식 노드 전부)는 Render Tree에 추가되지 않는 것이죠. 마찬가지로 화면에 보이지 않는 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;head&amp;gt;&lt;/code&gt; 태그 안의 내용들도 Render Tree에는 추가되지 않습니다.&lt;/p&gt;
+&lt;p&gt; 그래서 아래 이미지의 Render Tree에는 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;head&amp;gt;&lt;/code&gt; 태그와, display속성이 none인 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;p&amp;gt;&lt;/code&gt; 태그 하위의 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;span&amp;gt;&lt;/code&gt; 태그가 사라진 것을 확인할 수 있습니다.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -713,10 +744,10 @@ Q. 새로 프론트엔드를 구성할 때 나는 ____ 를 쓴다.    &lt;/p&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction?hl=ko&quot;&gt;https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction?hl=ko&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;figcaption&gt;https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction?hl=ko&lt;/figcaption&gt;
 &lt;p&gt; DOM과 CSSOM을 참조해서 Render Tree를 만드는 과정샷이 궁금하다면 &lt;a href=&quot;https://www.udacity.com/course/website-performance-optimization--ud884&quot;&gt;Udacity강의&lt;/a&gt;의 일부인 아래 영상을 참고!&lt;/p&gt;
 &lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem; max-width:40rem; margin-left:auto; margin-right:auto&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/lvb06W_VKVE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
-&lt;p&gt;&lt;em&gt;The Render Tree - Website Performance Optimization&lt;/em&gt;&lt;/p&gt;
+&lt;figcaption&gt;The Render Tree - Website Performance Optimization&lt;/figcaption&gt;
 &lt;h2&gt;Render Object에서 Render Layer로&lt;/h2&gt;
 &lt;p&gt;Render Tree에는 사실 여러 가지가 포함되어 있습니다. Render Object Tree, Render Layer Tree 등등을 합쳐서 화면을 그리는 데에 필요한 모-든 정보를 가지고 있는 Render Tree가 완성됩니다. (‘등등’에는 Render Style Tree, InlineBox Tree같은 것들도 있습니다.).   &lt;/p&gt;
 &lt;p&gt;
@@ -752,7 +783,7 @@ Q. 새로 프론트엔드를 구성할 때 나는 ____ 를 쓴다.    &lt;/p&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.chromium.org/developers/design-documents/gpu-accelerated-compositing-in-chrome&quot;&gt;https://www.chromium.org/developers/design-documents/gpu-accelerated-compositing-in-chrome&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;figcaption&gt;https://www.chromium.org/developers/design-documents/gpu-accelerated-compositing-in-chrome&lt;/figcaption&gt;
 &lt;p&gt;&lt;strong&gt;Render Object Tree&lt;/strong&gt;가 위에서 말했듯이 DOM Tree의 노드 중에서 화면에 보이는 것들만으로 이루어지는 트리입니다. block, inline, image, text, table같은 요소들이 Render Object가 됩니다. DOM Tree에서 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;div&amp;gt;&lt;/code&gt;는 Render Object Tree에 Block element로, &lt;code class=&quot;language-text&quot;&gt;&amp;lt;span&amp;gt;&lt;/code&gt;은 Inline element로 옮겨지는 것이졍&lt;/p&gt;
 &lt;p&gt;Render Object의 속성에 따라 필요한 경우 &lt;strong&gt;Render Layer&lt;/strong&gt;가 만들어집니다. 그리고 이 Render Layer중에서 GPU에서 처리되는 부분이 있으면 다시 &lt;strong&gt;Graphic Layer&lt;/strong&gt;로 분리됩니다. 대표적으로는 다음과 같은 속성들이 쓰였을 때 Graphic Layer가 만들어지게 됩니다. (‘하드웨어 가속’을 사용할 수 있게 되어 성능을 좋게 한다고 할 때가 요때입니다. 자세한 내용은 &lt;a href=&quot;http://d2.naver.com/helloworld/2061385&quot;&gt;여기&lt;/a&gt;로)&lt;/p&gt;
 &lt;ul&gt;
@@ -799,8 +830,8 @@ Q. 새로 프론트엔드를 구성할 때 나는 ____ 를 쓴다.    &lt;/p&gt;
     &lt;/p&gt;
 &lt;p&gt; 화면에 보이는 노드들만을 가지고 있는 Render Tree가 다 만들어지면, 이제 Render Tree에 있는 각각의 노드들이 화면의 어디에 위치할 지를 계산하는 Layout과정을 거칩니다. CSSOM에서 가져온 스타일 정보들로 이미 얘가 어떻게 생겨야 한다는 것은 모두 알고 있지만, 그래서 현재 보이는 뷰포트를 기준으로 실제로 놓으려면 얘가 어디에 가야하는 지는 계산을 또 해야하는 거죠. 여기에서 CSS box model이 쓰이며, position(relative, absolute, fixed..), width, height 등등 틀과 위치에 관련된 부분들이 계산됩니다.&lt;/p&gt;
 &lt;p&gt; 만약 width: 50% 로 되어있는데 브라우저를 리사이즈한다고 하면, 보이는 요소들은 변함이 없으니 Render Tree는 그대로인 상태에서, layout단계만 다시 거쳐 위치를 계산해서 그리게 됩니다.  &lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/b910d6bb927f43dab688577e5266191c/resize_browser.gif&quot; alt=&quot;img&quot;&gt;
-&lt;em&gt;요런 경우, 같은 렌더 트리를 가지고 layout(과 이후 paint)단계부터 다시 거칩니다&lt;/em&gt;&lt;/p&gt;
+&lt;img src=&quot;/b910d6bb927f43dab688577e5266191c/resize_browser.gif&quot; alt=&quot;img&quot; style=&quot;width:100%;&quot;&gt;
+&lt;figcaption&gt;&amp;#xC694;&amp;#xB7F0; &amp;#xACBD;&amp;#xC6B0;, &amp;#xAC19;&amp;#xC740; &amp;#xB80C;&amp;#xB354; &amp;#xD2B8;&amp;#xB9AC;&amp;#xB97C; &amp;#xAC00;&amp;#xC9C0;&amp;#xACE0; layout(&amp;#xACFC; &amp;#xC774;&amp;#xD6C4; paint)&amp;#xB2E8;&amp;#xACC4;&amp;#xBD80;&amp;#xD130; &amp;#xB2E4;&amp;#xC2DC; &amp;#xAC70;&amp;#xCE69;&amp;#xB2C8;&amp;#xB2E4;&lt;/figcaption&gt;
 &lt;p&gt;이렇게 화면에 보이는 요소 각각이 어디에 어떻게 위치할 지를 정해주는 과정을 Webkit에서는 layout으로, Gecko에서는 reflow로 부르고 있습니다.    &lt;/p&gt;
 &lt;h2&gt;Paint(repaint)&lt;/h2&gt;
 &lt;p&gt;
@@ -841,17 +872,16 @@ visibility, outline, background-color같이 정말로 눈에 보이는 픽셀들
 &lt;p&gt; 만약 Render Layer가 2개 이상이라면 각각의 Layer를 paint한 뒤 하나의 이미지로 Composite하는 과정을 추가로 거친 뒤에 실제로 화면에 그려지게 됩니다.
 (Gecko에서 reflow를 거쳐서 화면에 paint되기까지를 보여주는 영상이 있어서 추가로 붙여둡니다.).   &lt;/p&gt;
 &lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem; max-width:40rem; margin-left:auto; margin-right:auto&quot; &gt; &lt;iframe style=&quot;margin-left:auto;margin-right:auto;position:absolute; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot; src=&quot;https://www.youtube.com/embed/ZTnIxIA5KGw&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt;
-&lt;p&gt;&lt;em&gt;Gecko Reflow Visualization - mozilla.org&lt;/em&gt;&lt;/p&gt;
+&lt;figcaption&gt;Gecko Reflow Visualization - mozilla.org&lt;/figcaption&gt;
 &lt;h2&gt;참고자료&lt;/h2&gt;
 &lt;p&gt;아래 영상&amp;#x26;아티클을 참고하였습니다.&lt;/p&gt;
 &lt;p&gt;차근차근 알려주기로는 Udacity 강의가 제일..! (한글 자막도 제공!)
 &lt;a href=&quot;https://www.udacity.com/course/website-performance-optimization--ud884&quot;&gt;Udacity - Website Performance Optimization&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;그 다음으로는 이 아저씨 발표. (썸네일보다 착하게 생겼어요)&lt;/p&gt;
 &lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem; max-width:40rem; margin-left:auto; margin-right:auto&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/SmE4OwHztCc&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
-&lt;p&gt;&lt;em&gt;Ryan Seddon: So how does the browser actually render a website | JSConf EU 2015&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;이건 얼마 못 알아들었지만 Webkit 커미터인 구글러…&lt;/p&gt;
 &lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem; max-width:40rem; margin-left:auto; margin-right:auto&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/RVnARGhhs9w&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
-&lt;p&gt;영상 말고 아티클로는,
+&lt;p&gt;영상 말고 아티클로는,&lt;br&gt;
 일단 구글에서 마치 가이드처럼 제공하고 있는 웹 성능 문서.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://developers.google.com/web/fundamentals/performance/critical-rendering-path/?hl=ko&quot;&gt;https://developers.google.com/web/fundamentals/performance/critical-rendering-path/?hl=ko&lt;/a&gt;&lt;/li&gt;
