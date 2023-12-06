@@ -21,7 +21,7 @@ module.exports = {
     author: {
       name: 'thenewpark',
       email: '#',
-      twitter: 'thenewpark',
+      twitter: '#',
     },
   },
   plugins: [
